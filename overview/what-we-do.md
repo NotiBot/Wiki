@@ -6,4 +6,10 @@
 
 ### Manage Command
 
-*
+* /Manage
+
+> * Main command to setup notifications.. ATM this only supports kick.com
+
+{% hint style="danger" %}
+This command may be access only by administrators.
+{% endhint %}
