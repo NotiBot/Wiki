@@ -4,6 +4,6 @@
 
 ## Overview
 
-* [💡 Commands](overview/commands.md)
-* [✨ FAQ](overview/faq.md)
+* [💡 Commands](overview/what-we-do.md)
+* [✨ FAQ](overview/our-features.md)
 * [🖥 Tutorials](overview/tutorials.md)

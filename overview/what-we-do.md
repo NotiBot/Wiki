@@ -4,3 +4,6 @@
 **Support Tip:** Some commands may be outdated as Noti is getting updated constantly to stay updated join our [discord support server](https://notibot.app/support)!
 {% endhint %}
 
+### Manage Command
+
+*
