@@ -1,29 +1,33 @@
-# Thanks for using Noti!
+---
+description: >-
+  Greetings and welcome to the official Noti Documentation! We are thrilled to
+  have you here.
+---
+
+# 👋 Welcome to Noti
+
+## Navigation
+
+Our documentation is specifically setup for your convenience. We organized them into specific categories so it takes you less time setting up Noti and gives you more time to work on other things like building your awesome community.
+
+* The [Introduction](overview/introduction.md) page informs you about what Noti's all about, including a full description of it's features.
+* The [Setup](setup.md) page details how to setup your server.
+* The [Commands](broken-reference) category covers all topics regarding Noti's commands.
+* The [FAQ](other/faq.md) page let's us answer the popular questions from the community about Noti for you.
+
+## Intel
 
 {% hint style="info" %}
-Get notified with Noti directly to your discord server.
+#### Here are some useful links that might help you navigate Noti.
+
+* [Support Server](https://discord.gg/YnA8FtPdmZ)
+* [Twitter](https://twitter.com/N0tibot)
+* [Kick](https://kick.com/noti)
+* [Submit Feedback](https://noti.canny.io/feature-requests)
 {% endhint %}
 
-## Overview
+{% hint style="info" %}
+#### Completely new to Noti?
 
-Here are a couple of example overviews from products with really great docs:
-
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
-
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+For those who are entirely unfamiliar with Noti, we recommend reading the Introduction page first and then proceeding to the Setup page. By doing so, you can gain a more comprehensive understanding of how to use Noti effectively and take advantage of its features.
+{% endhint %}

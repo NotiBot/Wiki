@@ -1,9 +1,21 @@
 # Table of contents
 
-* [Thanks for using Noti!](README.md)
+* [👋 Welcome to Noti](README.md)
+* [⚙ Setup](setup.md)
 
 ## Overview
 
-* [💡 Commands](overview/what-we-do.md)
-* [✨ FAQ](overview/our-features.md)
-* [🖥 Tutorials](overview/tutorials.md)
+* [💡 Introduction](overview/introduction.md)
+* [✨ Features](overview/features.md)
+
+## Commands
+
+* [📎 Commands List](commands/commands-list/README.md)
+  * [/discord](commands/commands-list/discord.md)
+  * [/faq](commands/commands-list/faq.md)
+  * [/invite](commands/commands-list/invite.md)
+  * [/manage](commands/commands-list/manage.md)
+
+## Other
+
+* [❓ FAQ](other/faq.md)
