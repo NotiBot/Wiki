@@ -17,3 +17,7 @@ When submitting a suggestion, please keep in mind that it may not always be impl
 ## 3. How do I setup Noti?
 
 It's very simple actually, we have a whole page dedicated in setting up Noti. You can visit it [here](../setup.md).
+
+## 4. Error sending live nootification.
+
+If a bot can't send messages to a notification channel, it may be missing permissions. To fix this, add the bot or a relevant role to the channel and ensure they have "view channel" and "send messages" permissions with a green checkmark.
