@@ -1,10 +1,10 @@
 # FAQ
 
-Have a look at our FAQ to get answers on the most common questions.&#x20;
+Have a look at our FAQ to get answers on the most common questions.
 
 <details>
 
-<summary> 1. How do I setup Noti?</summary>
+<summary>1. How do I setup Noti?</summary>
 
 It's very simple actually, we have a whole page dedicated in setting up Noti. You can visit it [here](../setup/setup/streamer.md).
 
@@ -22,8 +22,6 @@ Visit our [Support Server](https://discord.gg/YnA8FtPdmZ) and create a ticket an
 
 <summary>3. How do I give feedback to Noti?</summary>
 
-
-
 Great question! We love feedback from the community. You can submit feedback through by visiting this [link](https://noti.canny.io/feature-requests). Simply fill in the required detail and click "Create Post".\
 \
 Tip: Submitting a photo or image that represents your feedback will greatly improve our experience with fixing the issue or adding a new feature.
@@ -34,7 +32,7 @@ When submitting a suggestion, please keep in mind that it may not always be impl
 
 <details>
 
-<summary>4. Error sending live nootification.</summary>
+<summary>4. Error sending live notification.</summary>
 
 If a bot can't send messages to a notification channel, it may be missing permissions. To fix this, add the bot or a relevant role to the channel and ensure they have "view channel" and "send messages" permissions with a green checkmark.
 
