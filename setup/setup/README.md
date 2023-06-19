@@ -9,7 +9,7 @@ Follow the links for help to setup with specific thing.
 
 [Streamer ](streamer.md)- Set a new streamer up. \
 [Streamer Counter](streamer-counter.md) - Create some data channels for the streamer.\
-[Verify and Sync](verify-and-sync.md) - Synchronize your roles from kick.com to discord.
+[Verify and Sync](../../verify-and-sync.md) - Synchronize your roles from kick.com to discord.
 
 {% hint style="info" %}
 **Support**

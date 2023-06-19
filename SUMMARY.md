@@ -10,11 +10,15 @@
 * [Setup](setup/setup/README.md)
   * [Streamer](setup/setup/streamer.md)
   * [Streamer Counter](setup/setup/streamer-counter.md)
-  * [Verify and Sync](setup/setup/verify-and-sync.md)
+
+***
+
+* [Verify and Sync](verify-and-sync.md)
 
 ## Resources
 
 * [Commands](resources/commands.md)
+* [Permissions](resources/permissions.md)
 * [FAQ](resources/faq.md)
 
 ## Links

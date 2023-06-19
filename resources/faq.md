@@ -34,8 +34,36 @@ When submitting a suggestion, please keep in mind that it may not always be impl
 
 <details>
 
-<summary>4. Error sending live nootification.</summary>
+<summary>4. Error sending live notification?</summary>
 
 If a bot can't send messages to a notification channel, it may be missing permissions. To fix this, add the bot or a relevant role to the channel and ensure they have "view channel" and "send messages" permissions with a green checkmark.
+
+</details>
+
+<details>
+
+<summary>5. Notification not sending?</summary>
+
+Double check it have the /setup in the command list
+
+Make sure the bot have the right permissions. It need to have the "Send Messages" "Mention everyone/roles" "Read Message History" "Embed links" "Attach files".
+
+</details>
+
+<details>
+
+<summary>6. Syncable roles not syncring?</summary>
+
+In order to syncring roles, Noti need to have the right permissions. \
+Make sure the bot has permission to manage roles.\
+Make sure the bot has a role above the role it's granting
+
+</details>
+
+<details>
+
+<summary>7. Channel Counter dosent have a correct sub count?</summary>
+
+The subs are counted the day you add the bot this is to due limited API data provided by kick
 
 </details>

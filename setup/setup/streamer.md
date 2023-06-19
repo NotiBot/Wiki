@@ -3,7 +3,7 @@
 You are now ready to setup your first streamer! \
 It's super easy and can be done in a few steps.&#x20;
 
-## Simple Setup
+## Simple Setup (required)
 
 1. First you need to use the command <mark style="color:green;">**`/setup kick`**</mark>&#x20;
 
@@ -18,7 +18,7 @@ It's super easy and can be done in a few steps.&#x20;
 
 And you are now ready to get notifications from your first streamer. Congratulations!
 
-## Advanced Setup
+## Advanced Setup (optional)
 
 1. Do the **1-3 steps** of the Simple Setup above.
 2. **TOGGLE:** This option will enable or disable a "subscribe button" at a notification.&#x20;

@@ -25,5 +25,5 @@ We greatly appreciate you choosing **Noti** as your go-to bot for notifications.
 
 {% hint style="info" %}
 Support!\
-If you have any questions about Noti, feel free to join our [support server. ](https://notibot.app/support)
+If you have any questions about Noti, feel free to join our [support server](https://notibot.app/support).
 {% endhint %}
