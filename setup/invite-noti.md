@@ -1,6 +1,6 @@
 # Invite Noti
 
-To start getting streamer notifications on your discord, you will need to invite Noti! \
+To start getting streamer notifications on your discord, you will need to invite Noti!\
 It's super easy and below you can see how you can do it.
 
 ## Click the link
@@ -11,7 +11,7 @@ It's super easy and below you can see how you can do it.
 
 When you have clicked the link, you must now choose which server you want Noti on.
 
-<figure><img src="../.gitbook/assets/Invite 1 " alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Invite%201" alt=""><figcaption></figcaption></figure>
 
 ## Choose bot permission
 
@@ -23,6 +23,8 @@ Select the permissions you want Noti to have on your server and then click Autho
 If you uncheck some of the permissions, Noti might not work as it should.
 {% endhint %}
 
-## You are DONE!&#x20;
+## Permission breakdown [permissions.md](../resources/permissions.md "mention")
 
-Noti is now on your server and ready to setup. Follow the next page to setup your first streamer!&#x20;
+## You are DONE!
+
+Noti is now on your server and ready to setup. Follow the next page to setup your first streamer!
