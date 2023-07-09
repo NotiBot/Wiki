@@ -28,6 +28,14 @@ When you use the Sync command, Noti will tell you if all your roles is synchroni
 
 ![](.gitbook/assets/Sync.png)
 
+## Panel
+
+You can setup a panel to make it easier for your users to verify or sync.&#x20;
+
+Use the <mark style="color:green;">/panel</mark> command and Noti will post a embed like the picture below.&#x20;
+
+<figure><img src=".gitbook/assets/Panel.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Support**
 

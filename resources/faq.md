@@ -67,3 +67,12 @@ Make sure the bot has a role above the role it's granting
 The subs are counted the day you add the bot this is to due limited API data provided by kick
 
 </details>
+
+<details>
+
+<summary>8. My Notification is missing data?</summary>
+
+The reason for this Noti is getting the data too quickly to get all the data accurately for thumbnail & viewer count only! \
+Another reason it can be inaccurate kick API is having issues
+
+</details>
