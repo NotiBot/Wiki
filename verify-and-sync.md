@@ -1,43 +1,59 @@
 # Verify and Sync
 
-Sometimes it can be nice to have the rings done automatically for you. Therefore, you can use the Verify and Sync commands.
+**Run the Command:**&#x20;
 
-## Verify
+To begin, use the `/sync` command with the required parameter for the social platform you want to link, in this case, `social:kick`. The basic command is `/sync social:kick`.
 
-The <mark style="color:green;">`/verify`</mark> command will allow you to sync your roles from kick to discord. For example your subscription role and moderator role.
 
-### How to?
 
-Use the <mark style="color:green;">`/verify`</mark> command and a embed will show.&#x20;
+**Follow the Prompt:**&#x20;
 
-The embed will tell you what to do.&#x20;
+After running the command, Noti Bot will respond with a prompt providing step-by-step instructions on how to link your account. It will also provide you with a unique code.
 
-<figure><img src=".gitbook/assets/Verify.png" alt=""><figcaption></figcaption></figure>
 
-1. Copy the code. This is a personal code that will change from person to person.
-2. Visit [kick.com](https://kick.com/noti/chatroom) this link will take you to a chatroom
-3. Paste in the cose into the chat.
 
-## Sync
+**Copy the Code:**&#x20;
 
-Before you can sync between discord and kick, you need to do the /verify command.&#x20;
+Copy the code provided in the bot's message. This code is essential for the linking process and will be valid for 5 minutes.
 
-Are you unsure if you have done this? Then you can use the <mark style="color:green;">`/sync`</mark> command.
 
-When you use the Sync command, Noti will tell you if all your roles is synchronize from kick.com to discord.&#x20;
 
-![](.gitbook/assets/Sync.png)
+**Go to "Noti" Channel:**&#x20;
 
-## Panel
+Now, go to the "Noti" channel in your Discord server. You can find this channel in the server's channel list.
 
-You can setup a panel to make it easier for your users to verify or sync.&#x20;
 
-Use the <mark style="color:green;">/panel</mark> command and Noti will post a embed like the picture below.&#x20;
 
-<figure><img src=".gitbook/assets/Panel.png" alt=""><figcaption></figcaption></figure>
+**Paste the Code:**&#x20;
+
+In the "Noti" channel, paste the code you copied earlier. You can either find the code provided in the bot's message or visit [https://kick.com/noti](https://kick.com/noti) to get the code.
+
+
+
+**Success Message:**&#x20;
+
+After successfully pasting the code, Noti Bot will send a success message in the same "Noti" channel. This message confirms that your account is now linked!
+
+
+
+**Auto Sync on First Entry:**&#x20;
+
+From now on, your account will be automatically synced the moment you join the server.
+
+
+
+**Resetting the Linking (Optional):**&#x20;
+
+If you ever need to reset the linking process, you can use the `/sync` command again with the <mark style="color:orange;">`reset:true`</mark> option, like this:
+
+* <mark style="color:orange;">`/sync social:kick reset:true`</mark>
+
+Follow the prompt to link your account again.
+
+And that's it! You've successfully linked your account with Noti Bot for the "Kick" social platform. If you have any further questions or need additional assistance, feel free to ask!
 
 {% hint style="info" %}
 **Support**
 
-If you need any help, join our [support server. ](https://discord.com/invite/xq6F6ZkUte)
+If you need any help, join our [support server.](https://discord.com/invite/xq6F6ZkUte)
 {% endhint %}
