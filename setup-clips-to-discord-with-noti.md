@@ -24,9 +24,9 @@
 **Run the /setup Command**:
 
 * In any channel where Noti Bot has permission to interact, type the following command to set up the KickBot service:
-  * <mark style="color:orange;">`/setup service kick (kick.com username)`</mark>
+  * <mark style="color:orange;">`/setup service kick streamer:(kick.com username)`</mark>
     * Replace <mark style="color:orange;">`(kick.com username)`</mark> with your actual Kick.com username.&#x20;
-      * For example: <mark style="color:orange;">`/setup service kick yourkickuser`</mark>
+      * For example: <mark style="color:orange;">`/setup service kick streamer:yourkickuser`</mark>
 
 **Choose the Clip Channel (if prompted)**:
 
@@ -34,7 +34,7 @@
   * Hit "Tab" to auto-complete the option or select it manually.
 * If the bot asks you to provide a channel for posting clips, mention the channel using the "#" symbol.&#x20;
   * For example, if you want the clips to be posted in a channel called "#awesome-clips," you should type:
-    * <mark style="color:orange;">`/setup service kick mykickuser clip_channel:#awesome-clips`</mark>
+    * <mark style="color:orange;">`/setup service kick streamer:mykickuser clip_channel:#awesome-clips`</mark>
 * Once you've typed the command correctly and specified the channel (if necessary), send the message.
 
 Congratulations! You have now successfully set up the "Clips to Discord" feature with Noti Bot and KickBot. From now on, whenever you use the "!clip" command in KickBot, the clips will be shared in the specified channel (if you provided one) on your Discord server.
