@@ -1,9 +1,10 @@
-# Invite Noti
+# Getting Started
 
-To start getting streamer notifications on your discord, you will need to invite Noti! \
-It's super easy and below you can see how you can do it.
+**Step -by-step guide to get the bot running on your server.**
 
-## Click the link
+Let's explore how to use Noti on your own server. We'll cover the fundamental settings, best practices and later on tutorials for different use cases. While you can use built-in commands through Discord chat, this guide only covers setup via the online interface - the [NotiBot Dashbord](https://notibot.app/dashboard).
+
+## Inviting The Bot
 
 In order to use the Noti Discord bot and its features, you must first invite Noti to a server. You can invite the bot through the following ways:
 
