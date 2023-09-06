@@ -21,6 +21,7 @@ In order to use the Noti Discord bot and its features, you must first invite Not
 
 {% hint style="info" %}
 Please Note: You may be **asked** to log in to your Discord account in order to add the bot and you also need to have the **Manage Server** permission on the server you want to add Noti to.
+{% endhint %}
 
 ## Select a Server
 
