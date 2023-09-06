@@ -10,7 +10,7 @@ It's super easy and below you can see how you can do it.
 In order to use the Noti Discord bot and its features, you must first invite Noti to a server. You can invite the bot through the following ways:
 
 • NotiBot's Website: Visit (https://notibot.app) and click on the "Invite Bot" link.
-• NotiBot's Dashboard: In NotiBot's dashboard there will be a list of servers you can add Noti to. https://notibot.app/dashboard
+• NotiBot's Dashboard: In [NotiBot's dashboard]([url](https://notibot.app/dashboard)) there will be a list of servers you can add Noti to.
 • Discord's App Directory: Search for "Noti" or click here and press the "Add to Server" button. https://discord.com/application-directory/719310199944642753
 • Direct Link: Invite Noti through this direct link. https://discord.com/oauth2/authorize?client_id=719310199944642753&permissions=286085598272&scope=bot+applications.commands
 
