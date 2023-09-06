@@ -9,7 +9,7 @@
 **Noti** is a useful Discord bot that enables you to send real-time Discord notifications directly to your server from Twitch, YouTube, Kick, Rumble and more! Whether you're a gamer, artist or content creator, Noti is an excellent tool to keep you in the loop, staying engaged with your community and never missing an important update again. Noti is trusted by top creators and servers to provide seamless alerts.
 
 
-## Need help?
+## Need Help?
 
 If you encounter any issues or have any questions regarding the bot, **we are always here to help.** We have a dedicated support team that is available around the clock to assist you with any concerns you may have. You can easily create a support ticket, and one of our **staff members** will respond to your inquiry as quickly as possible.\
 
