@@ -1,6 +1,6 @@
 # Getting Started
 
-**Step -by-step guide to get the bot running on your server.**
+**Step-by-step guide to get the bot running on your server.**
 
 Let's explore how to use Noti on your own server. We'll cover the fundamental settings, best practices and later on tutorials for different use cases. While you can use built-in commands through Discord chat, this guide only covers setup via the online interface - the [NotiBot Dashbord](https://notibot.app/dashboard).
 
