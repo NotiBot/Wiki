@@ -15,7 +15,7 @@ In order to use the Noti Discord bot and its features, you must first invite Not
 
 • Discord's App Directory: Search for "Noti" or [click here]([url](https://discord.com/application-directory/719310199944642753)) and press the "Add to Server" button.\
 
-• Direct Link: Invite Noti through this direct link. https://discord.com/oauth2/authorize?client_id=719310199944642753&permissions=286085598272&scope=bot+applications.commands
+• Direct Link: Invite Noti through [this direct invite link]([url](https://discord.com/oauth2/authorize?client_id=719310199944642753&permissions=286085598272&scope=bot+applications.commands)).
 
 
 ## Select a server
