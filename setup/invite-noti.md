@@ -16,7 +16,7 @@ In order to use the Noti Discord bot and its features, you must first invite Not
 \
 • **Direct Link**: Invite Noti through [this direct invite link](https://discord.com/oauth2/authorize?client_id=719310199944642753&permissions=286085598272&scope=bot+applications.commands).
 
-> [!NOTE]
+> **Note**
 > Please Note: You may be **asked** to log in to your Discord account in order to add the bot and you also need to have the **Manage Server** permission on the server you want to add Noti to.
 
 ## Select a Server
@@ -29,14 +29,14 @@ When you have clicked the link to invite Noti, you must now choose which server 
 
 Select the permissions you want Noti to have on your server and then click Authorize.
 \
-> [!WARNING]
+> **Warning**
 > If you uncheck any of the pre-selected permissions, Noti might not work as expected.
 
 <figure><img src="../.gitbook/assets/Invite 2" alt=""><figcaption></figcaption></figure>
 
 ## Checking Role Hierarchy  (IMPORTANT!)
 
-> [!IMPORTANT]
+> **Important**
 > This step is essential if you use any role related feature with Noti, otherwise you will run into permission issues due to Discord's permission structure.
 
 The next thing to do after inviting Noti is to check if Noti has sufficient permissions, and is hierarchically arranged correctly.
