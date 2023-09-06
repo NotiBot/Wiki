@@ -32,6 +32,7 @@ When you have clicked the link to invite Noti, you must now choose which server 
 Select the permissions you want Noti to have on your server and then click Authorize.
 \
 > **Warning**
+\
 > If you uncheck any of the pre-selected permissions, Noti might not work as expected.
 
 <figure><img src="../.gitbook/assets/Invite 2" alt=""><figcaption></figcaption></figure>
@@ -39,6 +40,7 @@ Select the permissions you want Noti to have on your server and then click Autho
 ## Checking Role Hierarchy  (IMPORTANT!)
 
 > **Important**
+\
 > This step is essential if you use any role related feature with Noti, otherwise you will run into permission issues due to Discord's permission structure.
 
 The next thing to do after inviting Noti is to check if Noti has sufficient permissions, and is hierarchically arranged correctly.
