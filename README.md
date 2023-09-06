@@ -6,7 +6,7 @@
 
 **Greetings and welcome to the official Noti Documentation!** We are thrilled to have you here.\
 \
-**Noti** is a useful Discord bot that enables you to send notifications directly to your server. Whether you're a gamer, artist, or content creator, **Noti** is an excellent tool to keep your audience engaged and informed about your posts and notifications.\
+**Noti** is a useful Discord bot that enables you to send notifications directly to your server. Whether you're a gamer, artist, or content creator, **Noti** is an excellent tool to keep your audience engaged and informed about your posts and notifications.
 
 
 ## Need help?
