@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**Greetings and welcome to the official Noti Documentation!** We are thrilled to have you here.\
+**Greetings and welcome to the official Noti Documentation!** We are thrilled to have you here.
 
 ## What Is NotiBot?
 
