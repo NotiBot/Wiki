@@ -70,7 +70,7 @@ And you are now ready to get notifications from your first streamer. Congratulat
 12. **OG_ROLE**: Define the Discord role for OG sync between Kick and Discord.
 13. **LIVE_ROLE**: Discord role assigned / removed based on streamer's live status.
 14. **LIVE_ROLE_ADD_USER**: Discord user to add live role to.
-15. **LIVE_ROLE_REMOVE_USER**: Discord user to reove live role from.
+15. **LIVE_ROLE_REMOVE_USER**: Discord user to remove live role from.
 <!--
 2. **TOGGLE:** This option will enable or disable a "subscribe button" at a notification. _(Sub Optional)_
 3. **MENTIONEDROLE:** Use this option to ping a role, when the choosen streamer goes live. _(Sub Optional)_
