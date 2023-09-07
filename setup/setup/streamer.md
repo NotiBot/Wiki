@@ -27,6 +27,7 @@ Now you must configure the bot to send alerts to a desired channel.
 4. **Streamer**: Select the Kick.com streamer name to announce
 
 Your command should look something like this:
+\
 ![](../../.gitbook/assets/command_setup_service_platform_streamer.png)
 
 > **Note**
