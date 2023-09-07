@@ -29,6 +29,7 @@ Please note: *You will need to complete all of the previous steps if you haven't
 ![](../../.gitbook/assets/streamer_web_dashboard_addstreamer.png)
 3. Once you enter the streamer's Kick name that you wish to receive notificaitons for and press the Add button, you will be presented with the Configuration window as follows:
 ![](../../.gitbook/assets/streamer_web_dashboard_configurestreamer.png)
+
 4. The following list breaks down each section and field as intended for use: \
    • **General > Role**: The discord role to mention when streamer goes live *(role must already be added to your Discord in order for it  to show on the list)* \
    • **General > Channel**: The discord channel to send the notification to. \
@@ -42,5 +43,8 @@ Please note: *You will need to complete all of the previous steps if you haven't
    • **Role > Founders Role Sync**: Sync the streamer's Founders to the defined Discord role \
    • **Role > Verified Role Sync**: Sync users who are verified by Kick to the defined Discord role \
    • **Editor > Use Streamer Custom Notifications**: Setup and edit fully customizable live notifications and even choose to replace global ones per streamer *(premium only)* \
-   • 
+   • **Audit Logs > Streamer Chatroom Audit Actions**: Send events that occur in the streamer's chatroom to a defined Discord channel. *(premium only)* \
+   • **Clips > Clip Notifications**: Clip notifications get directly sent to a defined Discord channel. *(powered by KickBot)* \
+   • **Clips > Clips Forwarding Filters**: Filter created clips notification you receive according to **Vip**, **Subscriber**, **Moderator** or **Streamer**. \
+   • **Delete Streamer**: Delete and remove Discord notifications for the selected streamer.
    
