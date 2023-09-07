@@ -5,8 +5,11 @@ It's super easy and can be done in a few steps.&#x20;
 
 ## Simple Setup (required)
 
-This tutorial covers Noti setup for Kick notifications using slash commands.
-Alternatively, you can use the web dashboard to setup streamer notifications, which will be covered in a separate helparticle.
+> **Note**
+\
+> This tutorial covers Noti setup for Kick notifications using slash commands.
+\
+> Alternatively, you can use the web dashboard to setup streamer notifications, which will be covered in a separate help article.
 
 1. Invite [NotiBot](https://notibot.app/invite) if you haven't already done so.
 
