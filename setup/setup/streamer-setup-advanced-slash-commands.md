@@ -21,17 +21,9 @@ Advanced Setup covers all of the **optional** fields that are available for use 
 13. **LIVE_ROLE**: Discord role assigned / removed based on streamer's live status.
 14. **LIVE_ROLE_ADD_USER**: Discord user to add live role to.
 15. **LIVE_ROLE_REMOVE_USER**: Discord user to remove live role from.
-<!--
-2. **TOGGLE:** This option will enable or disable a "subscribe button" at a notification. _(Sub Optional)_
-3. **MENTIONEDROLE:** Use this option to ping a role, when the choosen streamer goes live. _(Sub Optional)_
-4. **SUBSCRIBERROLE:** Use this option if you want Noti to automatically assign a role to the streamer's subscribers. _(Optional)_
-5. **MODERATORROLE:**  Use this option if you want Noti to automatically assign a role a moderator of the streamer. _(Optional)_
-6. **LIVEROLE:** Use this option if you want to give the streamer or someone who is a part of the stream a role. _(Optional)_
-   1. **WHITELISTADD:** _(Sub Optional)_
-   2. **WHITELISTREMOVE:** _(Sub Optional)_
--->
-
-<figure><img src="../../.gitbook/assets/Ex of notifi" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Support**
+
+If you need assistance setting up streamer live notifications, please join our [support server. ](https://discord.com/invite/xq6F6ZkUte)
+{% endhint %}
