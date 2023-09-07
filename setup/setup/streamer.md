@@ -32,7 +32,7 @@ Your command should look something like this:
 <figure><img src="../../.gitbook/assets/Ex of notifi" alt=""><figcaption></figcaption></figure>
 
 ## Advanced Fields for the /SETUP SERVICE command here:
-![Click here for a list of advanced fields available for use in the /setup service command!](/setup\streamer-setup-advanced-slash-commands.md)
+![Click here for a list of advanced fields available for use in the /setup service command!](/setup/streamer-setup-advanced-slash-commands.md)
 
 {% hint style="info" %}
 **Support**
