@@ -32,7 +32,7 @@ Your command should look something like this:
 <figure><img src="../../.gitbook/assets/Ex of notifi" alt=""><figcaption></figcaption></figure>
 
 Congratulations! You have successfully setup your first live notification using NotiBot! \
-[Click here](/setup/setup/streamer-setup-advanced-slash-commands.md) to check out our next article that covers the advanced fields available for this command as well.
+Make sure to check out our following next article that covers the advanced fields available to use with this command for further customization.
 
 {% hint style="info" %}
 **Support**
