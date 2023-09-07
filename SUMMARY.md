@@ -4,6 +4,10 @@
 
 * [Welcome](README.md)
 
+## NOTIBOT PREMIUM
+
+* [What are the benefits of Premium?](setup/premium/premium-benefits.md)
+
 ## Setup
 
 * [Invite Noti](setup/invite-noti.md)
