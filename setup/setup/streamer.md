@@ -31,6 +31,8 @@ Your command should look something like this:
 
 <figure><img src="../../.gitbook/assets/Ex of notifi" alt=""><figcaption></figcaption></figure>
 
+Congratulations! You have successfully setup your first live notification using NotiBot! \
+Make sure you check out our next article that covers the advanced fields available for this command as well.
 
 {% hint style="info" %}
 **Support**
