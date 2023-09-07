@@ -1,6 +1,6 @@
 # NotiBot Premium
 
-Here you can find information about what features NotiBot Premium grants you, how you can enable premium on your server and how to manage your premium benefits!
+Here you can find information about what features Noti Premium grants you, how you can enable premium on your server and how to manage your premium benefits!
 
 
 Have a question in regards to premium that wasn't answered on this page? Would you like to use your priority support in our premium channel? Join our [support server! ](https://discord.com/invite/xq6F6ZkUte)
@@ -29,7 +29,7 @@ Discover more with Noti's Premium tier! Tailor your notifications, expand connec
 
 # Upgrade to Premium
 
-Upgrading to Noti Premium helps support the development and operation of NotiBot, as well as providing you with a higher level of service and features. Thank you for the support! ❤️
+Upgrading to Noti Premium helps support the development and operation of Noti, as well as providing you with a higher level of service and features. Thank you for the support! ❤️
 
 ## Upgrading with [NotiBot.app](https://notibot.app)
 
@@ -50,5 +50,5 @@ Prepaid or re-loadable cards and PayPal balances cannot be used to purchase prem
 
 
 {% hint style="success" %}
-Congratulations! NotiBot Premium has now been activated and setup in your server. Thank you for your support! 💚
+Congratulations! Noti Premium has now been activated and setup in your server. Thank you for your support! 💚
 {% endhint %}
