@@ -45,6 +45,6 @@ Please note: *You will need to complete all of the previous steps if you haven't
    • **Editor > Use Streamer Custom Notifications**: Setup and edit fully customizable live notifications and even choose to replace global ones per streamer *(premium only)* \
    • **Audit Logs > Streamer Chatroom Audit Actions**: Send events that occur in the streamer's chatroom to a defined Discord channel. *(premium only)* \
    • **Clips > Clip Notifications**: Clip notifications get directly sent to a defined Discord channel. *(powered by KickBot)* \
-   • **Clips > Clips Forwarding Filters**: Filter created clips notification you receive according to **Vip**, **Subscriber**, **Moderator** or **Streamer**. \
+   • **Clips > Clips Forwarding Filters**: Filter created clips notifications you receive according to **Vip**, **Subscriber**, **Moderator** or **Streamer**. \
    • **Delete Streamer**: Delete and remove Discord notifications for the selected streamer.
    
