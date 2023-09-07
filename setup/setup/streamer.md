@@ -1,4 +1,4 @@
-# Setup Kick Notifications In Your Discord Server
+# Setup Kick Notifications Using Slash Commmands In Your Discord Server
 
 You are now ready to setup your first streamer! \
 It's super easy and can be done in a few steps.&#x20;
