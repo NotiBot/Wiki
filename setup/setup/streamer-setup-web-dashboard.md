@@ -17,4 +17,7 @@ This guide will lead you through the step-by-step process of using Noti's web da
 Please note: *You will need to complete steps 1-6 from the Web Dashboard Login section if you haven't already done so.*
 
 1. Click the **Manage** button directly below the server you wish to setup Noti for.
-2. 
+2. Next, select the category (or platform) you want to configure Noti for.
+3. We will select Kick; now click the **Configure** button.
+4. On the next page, click the **Add Streamer** button to add a new streamer.
+5. A popup window will apear as follows; please enter the Kick streamer's name you wish to receive notifications for, then press **Add**.
