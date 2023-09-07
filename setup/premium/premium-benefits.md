@@ -18,7 +18,7 @@ Discover more with  Noti's Premium tier! Tailor your notifications, expand conne
 ✔️ Kick Audit Logs \
 ✔️ Customizable Messages \
 ✔️ Premium Dedicated Support \
-✔️ Beta Access \
+✔️ Beta Access
 
 #Upgrade to Premium
 
@@ -27,4 +27,5 @@ Upgrading to Noti Premium helps support the development and operation of NotiBot
 ## Upgrading with [NotiBot.app](https://notibot.app)
 
 1. Head over to the [Premium page](https://notibot.app/premium). \
-2. 
+2. Be sure to `Login` before attempting to subscribe.
+3. At the top, select whether you want to bill `Monthly` or `Annually`. If you choose to pay annually, you will receive 2 months free!
