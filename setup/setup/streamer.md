@@ -15,6 +15,8 @@ It's super easy and can be done in a few steps.&#x20;
 
 1. First you need to use the command <mark style="color:green;">**`/setup service`**</mark>&#x20;
 
+![](../../.gitbook/assets/command_setup_service.png)
+
 ![](../../.gitbook/assets/Command)
 
 3. **STREAMER:** Then select the "_Streamer_" option. _(Required)_\
