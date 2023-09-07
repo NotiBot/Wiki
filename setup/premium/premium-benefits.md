@@ -27,7 +27,11 @@ Discover more with Noti's Premium tier! Tailor your notifications, expand connec
 ✔️ Custom Webhooks \
 ✔️ Skip Server Voting
 
-# Upgrade to Premium
+# How much is the premium upgrade?
+
+Noti has both Monthly and Annual premium options available for your convenience, with a 16.67% discount if you subscribe for an entire year. Premium tiers start at $5/monthly.
+
+# How to Upgrade to Premium
 
 Upgrading to Noti Premium helps support the development and operation of Noti, as well as providing you with a higher level of service and features. Thank you for the support! ❤️
 
