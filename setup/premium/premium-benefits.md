@@ -1,7 +1,7 @@
 # NotiBot Premium
 
 Here you can find information about what features NotiBot Premium grants you, how you can enable premium on your server and how to manage your premium benefits!
-\
+
 
 Have a question in regards to premium that wasn't answered on this page? Would you like to use your priority support in our premium channel? Join our [support server! ](https://discord.com/invite/xq6F6ZkUte)
 
