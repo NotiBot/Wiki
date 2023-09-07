@@ -21,7 +21,7 @@ Discover more with  Noti's Premium tier! Tailor your notifications, expand conne
 ✔️ Premium Dedicated Support \
 ✔️ Beta Access
 
-#Upgrade to Premium
+# Upgrade to Premium
 
 Upgrading to Noti Premium helps support the development and operation of NotiBot, as well as providing you with a higher level of service and features. Thank you for the support! ❤️
 
