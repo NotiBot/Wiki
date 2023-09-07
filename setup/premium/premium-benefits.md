@@ -21,7 +21,7 @@ Discover more with Noti's Premium tier! Tailor your notifications, expand connec
 ✔️ Premium Dedicated Support \
 ✔️ Beta Access
 
-# Premium Features
+## Premium Addons
 
 ✔️ Additional Connections: up to 500
 ✔️ Custom Webhooks \
