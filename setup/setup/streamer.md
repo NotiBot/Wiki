@@ -17,12 +17,12 @@ It's super easy and can be done in a few steps.&#x20;
 
 ![](../../.gitbook/assets/Command)
 
-2. **STREAMER:** Then select the "_Streamer_" option. _(Required)_\
+3. **STREAMER:** Then select the "_Streamer_" option. _(Required)_\
    In here you have to put the streamername from Kick.com \
    _-> Go to Kick.com_ \
    _-> Find the streamer you want notifications from_\
    _-> Copy the streamers username_&#x20;
-3. **CHANNEL:** Write the name of the channel you want the notifications to be posted. _(Optional)_
+4. **CHANNEL:** Write the name of the channel you want the notifications to be posted. _(Optional)_
 
 And you are now ready to get notifications from your first streamer. Congratulations!
 
