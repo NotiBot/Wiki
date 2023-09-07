@@ -17,7 +17,7 @@ It's super easy and can be done in a few steps.&#x20;
 
 ![](../../.gitbook/assets/command_setup_service.png)
 
-![](../../.gitbook/assets/Command)
+<!-- ![](../../.gitbook/assets/Command) -->
 
 3. **STREAMER:** Then select the "_Streamer_" option. _(Required)_\
    In here you have to put the streamername from Kick.com \
