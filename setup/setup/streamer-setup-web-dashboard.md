@@ -21,3 +21,4 @@ Please note: *You will need to complete steps 1-6 from the Web Dashboard Login s
 3. We will select Kick; now click the **Configure** button.
 4. On the next page, click the **Add Streamer** button to add a new streamer.
 5. A popup window will apear as follows; please enter the Kick streamer's name you wish to receive notifications for, then press **Add**.
+![](../../.gitbook/assets/streamer_web_dashboard_addstreamer.png)
