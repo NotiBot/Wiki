@@ -19,7 +19,17 @@ Please note: *You will need to complete steps 1-6 from the Web Dashboard Login s
 1. Click the **Manage** button directly below the server you wish to setup Noti for.
 2. Next, select the category (or platform) you want to configure Noti for.
 3. We will select Kick; now click the **Configure** button.
-4. On the next page, click the **Add Streamer** button to add a new streamer.
-5. A popup window will apear as follows; please enter the Kick streamer's name you wish to receive notifications for, then press **Add**.
+
+## Adding/Configuring a Streamer to Noti via Web Dashboard
+
+Please note: *You will need to complete all of the previous steps if you haven't already done so.*
+
+1. On the next page, click the **Add Streamer** button to add a new streamer.
+2. A popup window will apear as follows; please enter the Kick streamer's name you wish to receive notifications for, then press **Add**.
 ![](../../.gitbook/assets/streamer_web_dashboard_addstreamer.png)
-6. Once you enter the streamer's Kick name that you wish to receive notificaitons for and press the Add button, you will be presented with the Configuration window as follows:
+3. Once you enter the streamer's Kick name that you wish to receive notificaitons for and press the Add button, you will be presented with the Configuration window as follows:
+![](../../.gitbook/assets/streamer_web_dashboard_configurestreamer.png)
+4. The following list breaks down each section and field as intended for use:
+   • **General > Role**: The discord role to mention when streamer goes live *(role must already be added to your Discord in order for it  to show on the list)*
+   • **General > Channel**: The discord channel to send the notification to.
+   • **General > Delete the embed**: Should embed be deleted when streamer ends the stream? *(premium only)*
