@@ -15,7 +15,7 @@ It's very simple actually, we have a whole page dedicated in setting up Noti. Yo
 
 <summary>2. I found a bug with Noti, where do I go to report this issue?</summary>
 
-Visit our [Support Server](https://discord.gg/YnA8FtPdmZ) and create a ticket and describe the issue you're having. A staff member will get to you as soon as possible.
+Visit our [Support Server](https://discord.gg/YnA8FtPdmZ) and create a ticket describing the issue you're having. A staff member will get to you as soon as possible.
 
 </details>
 
