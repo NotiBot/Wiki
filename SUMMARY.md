@@ -9,7 +9,7 @@
 * [Invite Noti](setup/invite-noti.md)
 * [Setup](setup/setup/README.md)
   * [Setup Kick Notifications Using Slash Commmands](setup/setup/streamer.md)
-  * [Setup Kick Notifications Using Advanced Slash Commmand Fields for /Setup Service](setup/setup/streamer-setup-advanced-dash-commands.md)
+  * [Setup Kick Notifications Using Advanced Slash Commmand Fields for /Setup Service](setup/setup/streamer-setup-advanced-slash-commands.md)
   * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md)
   * [Streamer Counter](setup/setup/streamer-counter.md)
 
