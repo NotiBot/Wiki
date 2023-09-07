@@ -1,10 +1,7 @@
-test
-
-## Advanced Configuration of the /Setup Service Command & Additional Fields (optional)
 
 Advanced Setup covers all of the **optional** fields that are available for use and included in the **/setup service** command. These are not necessary for you to start receiving live notifications; however, in order to better customize your NotiBot experience, we recommend checking which ones will help you accomplish the goals you have in mind for full customization!
 
-
+## Advanced Configuration of the /Setup Service Command & Additional Fields (optional)
 
 1. Do required **steps 2-5** of the Simple Setup listed above.
 1. **CHANNEL**: Enter the name of the channel you want the notifications to be posted to.
