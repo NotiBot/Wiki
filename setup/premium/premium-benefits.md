@@ -23,7 +23,7 @@ Discover more with Noti's Premium tier! Tailor your notifications, expand connec
 
 ## Premium Addons
 
-✔️ Additional Connections: up to 500
+✔️ Additional Connections: up to 500 \
 ✔️ Custom Webhooks \
 ✔️ Skip Server Voting
 
