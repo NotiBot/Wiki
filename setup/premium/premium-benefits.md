@@ -8,7 +8,7 @@ Have a question in regards to premium that wasn't answered on this page? Would y
 
 Discover more with  Noti's Premium tier! Tailor your notifications, expand connections, automate deletion, sync additional roles and enjoy an array of enhanced features right along with premium support! \
 \
-✔️ Additional Connections: 30 *(up to max of 500)* \
+✔️ Additional Connections: 30 *(+ 30 FREE) = 60 TOTAL \
 ✔️ Customizable Notification Editor \
 ✔️ Auto Delete Notifications \
 ✔️ Username Syncs \
@@ -17,5 +17,14 @@ Discover more with  Noti's Premium tier! Tailor your notifications, expand conne
 ✔️ NEW Syncable (Kick Founders/Partners/Gifted Subscriptions) \
 ✔️ Kick Audit Logs \
 ✔️ Customizable Messages \
-✔️ Premium Support \
+✔️ Premium Dedicated Support \
 ✔️ Beta Access \
+
+#Upgrade to Premium
+
+Upgrading to Noti Premium helps support the development and operation of NotiBot, as well as providing you with a higher level of service and features. Thank you for the support! ❤️
+
+## Upgrading with [NotiBot.app](https://notibot.app)
+
+1. Head over to the [Premium page](https://notibot.app/premium). \
+2. 
