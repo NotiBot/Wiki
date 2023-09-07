@@ -41,4 +41,6 @@ Please note: *You will need to complete all of the previous steps if you haven't
    • **Role > OG Role Sync**: Sync the streamer's OGs to the defined Discord role \
    • **Role > Founders Role Sync**: Sync the streamer's Founders to the defined Discord role \
    • **Role > Verified Role Sync**: Sync users who are verified by Kick to the defined Discord role \
+   • **Editor > Use Streamer Custom Notifications**: Setup and edit fully customizable live notifications and even choose to replace global ones per streamer *(premium only)* \
    • 
+   
