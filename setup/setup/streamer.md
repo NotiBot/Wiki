@@ -32,7 +32,7 @@ Your command should look something like this:
 <figure><img src="../../.gitbook/assets/Ex of notifi" alt=""><figcaption></figcaption></figure>
 
 Congratulations! You have successfully setup your first live notification using NotiBot! \
-Make sure to check out our following next article that covers the advanced fields available to use with this command for further customization.
+Make sure to check out our very next article that covers the advanced fields available to use with this command for further customization.
 
 {% hint style="info" %}
 **Support**
