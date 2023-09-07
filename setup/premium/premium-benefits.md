@@ -42,5 +42,6 @@ Prepaid or re-loadable cards and PayPal balances cannot be used to purchase prem
 3. If it succeeds, Noti Premium will automatically be activated on the server you selected.
 
 
-
-Thank you for your support! 💚
+{% hint style="success" %}
+Congratulations! NotiBot Premium has now been activated and setup in your server. Thank you for your support! 💚
+{% endhint %}
