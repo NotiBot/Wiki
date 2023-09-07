@@ -8,7 +8,8 @@
 
 * [Invite Noti](setup/invite-noti.md)
 * [Setup](setup/setup/README.md)
-  * [Streamer](setup/setup/streamer.md)
+  * [Setup Kick Notifications Using Slash Commmands](setup/setup/streamer.md)
+  * [Setup Kick Notifications Using Slash Commmands](setup/setup/streamer.md)
   * [Streamer Counter](setup/setup/streamer-counter.md)
 
 ***
