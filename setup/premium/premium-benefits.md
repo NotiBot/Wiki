@@ -45,7 +45,7 @@ Prepaid or re-loadable cards and PayPal balances cannot be used to purchase prem
 ### Paying via Debit/Credit Card
 
 1. Enter your card details. Be sure that all details are correct.
-2. Click the `Purchase`` button at the bottom of the pop-up and Noti will start processing your subscription.
+2. Click the `Purchase` button at the bottom of the pop-up and Noti will start processing your subscription.
 3. If it succeeds, Noti Premium will automatically be activated on the server you selected.
 
 
