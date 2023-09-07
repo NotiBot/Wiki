@@ -20,10 +20,8 @@ Now you must configure the bot to send alerts to a desired channel.
 ![](../../.gitbook/assets/command_setup_service.png)
 
 <!-- ![](../../.gitbook/assets/Command) -->
-> **Note**
-\
 > Required fields to be used in the setup service message:
-\
+
 3.*(required)* **Platform**: Select Kick for your platform 
 \
 4. *(required)* **Streamer**: Select the Kick.com streamer name to announce
