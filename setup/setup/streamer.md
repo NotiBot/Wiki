@@ -78,6 +78,6 @@ And you are now ready to get notifications from your first streamer. Congratulat
 {% hint style="info" %}
 **Support**
 
-If you need any help to set up a streamer, join our [support server. ](https://discord.com/invite/xq6F6ZkUte)
+If you need assistance setting up streamer live notifications, please join our [support server. ](https://discord.com/invite/xq6F6ZkUte)
 {% endhint %}
 
