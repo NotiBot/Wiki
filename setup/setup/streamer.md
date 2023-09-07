@@ -20,13 +20,25 @@ Now you must configure the bot to send alerts to a desired channel.
 ![](../../.gitbook/assets/command_setup_service.png)
 
 <!-- ![](../../.gitbook/assets/Command) -->
+> **Note**
+\
+> Required fields to be used in the setup service message:
+3. **Platform**: Select Kick for your platform
+4. **Streamer**: Select the Kick.com streamer name to announce
 
-3. **STREAMER:** Then select the "_Streamer_" option. _(Required)_\
+> **Note**
+\
+> Optional fields to be used in the setup service message:
+5. **Channel**: Enter the name of the channel you want the notifications to be posted to.
+> 
+<!-- 3. **STREAMER:** Then select the "_Streamer_" option. _(Required)_\
    In here you have to put the streamername from Kick.com \
    _-> Go to Kick.com_ \
    _-> Find the streamer you want notifications from_\
    _-> Copy the streamers username_&#x20;
-4. **CHANNEL:** Write the name of the channel you want the notifications to be posted. _(Optional)_
+-->
+<!--4. **CHANNEL:** Write the name of the channel you want the notifications to be posted. _(Optional)_ -->
+
 
 And you are now ready to get notifications from your first streamer. Congratulations!
 
