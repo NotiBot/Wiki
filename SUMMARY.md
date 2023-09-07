@@ -4,6 +4,8 @@
 
 * [Welcome](README.md)
 * [What's New?](whats-new.md)
+* [FAQ](resources/faq.md)
+* [Need more help?](https://discord.com/invite/xq6F6ZkUte)
 
 ## NOTIBOT PREMIUM
 
