@@ -7,7 +7,7 @@ Have a question in regards to premium that wasn't answered on this page? Would y
 
 # Premium Features
 
-Discover more with  Noti's Premium tier! Tailor your notifications, expand connections, automate deletion, sync additional roles and enjoy an array of enhanced features right along with premium support! \
+Discover more with Noti's Premium tier! Tailor your notifications, expand connections, automate deletion, sync additional roles and enjoy an array of enhanced features right along with premium support! \
 \
 ✔️ Additional Connections: 30 *(+ 30 FREE) = 60 TOTAL \
 ✔️ Customizable Notification Editor \
@@ -20,6 +20,12 @@ Discover more with  Noti's Premium tier! Tailor your notifications, expand conne
 ✔️ Customizable Messages \
 ✔️ Premium Dedicated Support \
 ✔️ Beta Access
+
+# Premium Features
+
+✔️ Additional Connections: up to 500
+✔️ Custom Webhooks \
+✔️ Skip Server Voting
 
 # Upgrade to Premium
 
