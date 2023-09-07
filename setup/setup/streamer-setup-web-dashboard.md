@@ -14,7 +14,7 @@ This guide will lead you through the step-by-step process of using Noti's web da
 
 ## Managing Your Discord Server
 
-Please note: *You will need to complete steps 1-6 from the Web Dashboard Login section if you haven't already done so.* \
+Please note: *You will need to complete steps 1-6 from the Web Dashboard Login section if you haven't already done so.*
 
 1. Click the **Manage** button directly below the server you wish to setup Noti for.
 2. 
