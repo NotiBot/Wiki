@@ -12,12 +12,13 @@ This tutorial covers Noti setup for streamer Kick notifications using slash comm
 \
 Alternatively, you can use the web dashboard to setup streamer notifications, which will be covered in a separate help article.
 {% endhint %}
+<!--
 > **Note**
 \
 > This tutorial covers Noti setup for Kick notifications using slash commands.
 \
 > Alternatively, you can use the web dashboard to setup streamer notifications, which will be covered in a separate help article.
-
+-->
 1. Invite [NotiBot](https://notibot.app/invite) if you haven't already done so.
 
 Now you must configure the bot to send alerts to a desired channel.
