@@ -2,9 +2,13 @@
 
 <figure><img src=".gitbook/assets/favicon.png" alt=""><figcaption></figcaption></figure>
 
-## Introduction
+## Welcome to the Noti Docs!
 
 **Greetings and welcome to the official Noti Documentation!** We are thrilled to have you here.
+
+## Useful Links
+
+[Discord Support Server](https://discord.com/invite/xq6F6ZkUte) \
 
 ## What Is NotiBot?
 
