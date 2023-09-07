@@ -3,6 +3,7 @@
 ## WELCOME
 
 * [Welcome](README.md)
+* [What's New?](whats-new.md)
 
 ## NOTIBOT PREMIUM
 
