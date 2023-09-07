@@ -30,10 +30,10 @@ Your command should look something like this:
 \
 ![](../../.gitbook/assets/command_setup_service_platform_streamer.png)
 
-> **Note**
-\
+
 > Optional fields to be used in the setup service message:
-5. **Channel**: Enter the name of the channel you want the notifications to be posted to.
+
+5. *(optional)* **Channel**: Enter the name of the channel you want the notifications to be posted to.
 > 
 <!-- 3. **STREAMER:** Then select the "_Streamer_" option. _(Required)_\
    In here you have to put the streamername from Kick.com \
