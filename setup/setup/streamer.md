@@ -5,6 +5,13 @@ It's super easy and can be done in a few steps.&#x20;
 
 ## Simple Setup (required)
 
+{% hint style="info" %}
+**Using the /setup service command**
+
+This tutorial covers Noti setup for streamer Kick notifications using slash commands.
+\
+Alternatively, you can use the web dashboard to setup streamer notifications, which will be covered in a separate help article.
+{% endhint %}
 > **Note**
 \
 > This tutorial covers Noti setup for Kick notifications using slash commands.
