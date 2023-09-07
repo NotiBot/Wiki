@@ -8,7 +8,9 @@
 
 ## Useful Links
 
+[Noti Dashboard](https://notibot.app) \
 [Discord Support Server](https://discord.com/invite/xq6F6ZkUte) \
+
 
 ## What Is NotiBot?
 
