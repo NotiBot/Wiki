@@ -29,7 +29,7 @@ Upgrading to Noti Premium helps support the development and operation of NotiBot
 1. Head over to the [Premium page](https://notibot.app/premium).
 2. Be sure to `Login` before attempting to subscribe.
 3. At the top, select whether you want to bill `Monthly` or `Annually`. If you choose to pay annually, you will receive 2 months free!
-4. On the **Buy Premium** window, set your desired plan configuration from the list of available options and then click the `Buy` button to proceed
+4. On the **Buy Premium** window, set your desired plan configuration from the list of available options, select your server and then click the `Buy` button to proceed
 
 {% hint style="warning" %}
 Prepaid or re-loadable cards and PayPal balances cannot be used to purchase premium since it is a recurring subscription; therefore, you must use a bank-issued card or have one attached to your PayPal account in order for the transaction to be successful.
@@ -39,4 +39,7 @@ Prepaid or re-loadable cards and PayPal balances cannot be used to purchase prem
 
 1. Enter your card details. Be sure that all details are correct.
 2. Click the `Purchase`` button at the bottom of the pop-up and Noti will start processing your subscription.
-3. If it succeeds, you will then be able to manage your servers via the accounts page.
+3. If it succeeds, Noti Premium will automatically be activated on the server you selected.
+\
+\
+Thank you for your support! 💚
