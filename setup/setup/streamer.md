@@ -3,12 +3,12 @@
 This tutorial covers the simple and basic Noti setup for streamer Kick notifications using slash commands in your Discord server.
 \
 Alternatively, you can use the web dashboard to setup streamer notifications, which will be covered in a separate help article.
-{% endhint %}
 
 ## Simple Setup (required)
 
 {% hint style="info" %}
 **Using the /setup service command**
+{% endhint %}
 
 1. Invite [NotiBot](https://notibot.app/invite) if you haven't already done so.
 
