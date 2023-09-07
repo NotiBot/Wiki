@@ -38,4 +38,7 @@ Please note: *You will need to complete all of the previous steps if you haven't
    • **Roles > Subscriber Role Sync**: Sync the user who subscribed to the streamer to the defined Discord role \
    • **Roles > Moderator Role Sync**: Sync the streamer's moderators to the defined Discord role \
    • **Role > VIP Sync Role**: Sync the streamer's VIPs to the defined Discord role \
-   • **Role > OG Role Sync**: Sync the streamer's OGs to the defined Discord role
+   • **Role > OG Role Sync**: Sync the streamer's OGs to the defined Discord role \
+   • **Role > Founders Role Sync**: Sync the streamer's Founders to the defined Discord role \
+   • **Role > Verified Role Sync**: Sync users who are verified by Kick to the defined Discord role \
+   • 
