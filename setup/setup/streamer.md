@@ -13,7 +13,9 @@ It's super easy and can be done in a few steps.&#x20;
 
 1. Invite [NotiBot](https://notibot.app/invite) if you haven't already done so.
 
-1. First you need to use the command <mark style="color:green;">**`/setup service`**</mark>&#x20;
+Now you must configure the bot to send alerts to a desired channel.
+
+2. First, you need to use the command <mark style="color:green;">**`/setup service`**</mark>&#x20;
 
 ![](../../.gitbook/assets/command_setup_service.png)
 
