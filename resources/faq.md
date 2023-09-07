@@ -45,27 +45,27 @@ If a bot can't send messages to a notification channel, it may be missing permis
 
 <summary>5. Notification not sending?</summary>
 
-Double check it have the /setup in the command list
+Double check it has the /setup in the command list
 
-Make sure the bot have the right permissions. It need to have the "Send Messages" "Mention everyone/roles" "Read Message History" "Embed links" "Attach files".
+Make sure the bot has the right permissions. It needs to have the "Send Messages" "Mention everyone/roles" "Read Message History" "Embed links" "Attach files".
 
 </details>
 
 <details>
 
-<summary>6. Syncable roles not syncring?</summary>
+<summary>6. Syncable roles not syncing?</summary>
 
-In order to syncring roles, Noti need to have the right permissions. \
+In order to sync roles, Noti needs to have the right permissions. \
 Make sure the bot has permission to manage roles.\
-Make sure the bot has a role above the role it's granting
+Make sure the bot has a role above the role that it's granting.
 
 </details>
 
 <details>
 
-<summary>7. Channel Counter dosent have a correct sub count?</summary>
+<summary>7. Channel Counter doesn't have a correct sub count?</summary>
 
-The subs are counted the day you add the bot this is to due limited API data provided by kick
+The subs are counted the day you add the bot; this is to due limited API data provided by Kick
 
 </details>
 
@@ -73,7 +73,7 @@ The subs are counted the day you add the bot this is to due limited API data pro
 
 <summary>8. My Notification is missing data?</summary>
 
-The reason for this Noti is getting the data too quickly to get all the data accurately for thumbnail & viewer count only! \
-Another reason it can be inaccurate kick API is having issues
+The reason for this? Noti is getting the data too quickly to get all the data accurately for thumbnail & viewer count only! \
+Another reason it can be inaccurate is due to the Kick API having issues.
 
 </details>
