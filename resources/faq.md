@@ -6,7 +6,8 @@ Have a look at our FAQ to get answers on the most common questions.&#x20;
 
 <summary> 1. How do I setup Noti?</summary>
 
-It's very simple actually, we have a whole page dedicated in setting up Noti. You can visit it [here](../setup/setup/streamer.md).
+It's very simple actually, we have a whole page dedicated in setting up Noti. You can visit it [here](../setup/setup).
+<!--[here](../setup/setup/streamer.md). -->
 
 </details>
 
