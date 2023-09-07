@@ -15,5 +15,5 @@ Follow the links for help to setup with specific thing.
 {% hint style="info" %}
 **Support**
 
-If you need any help, join our [support server. ](https://discord.com/invite/xq6F6ZkUte)
+If you need help setting up NotiBot, please join our [support server. ](https://discord.com/invite/xq6F6ZkUte)
 {% endhint %}
