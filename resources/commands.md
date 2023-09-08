@@ -14,9 +14,8 @@ On this page you will see a complete list of Noti's commands that you can use on
 
 ## The `/Setup Reset` Command & Its Applicable Variables
 
-<table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/setup service</td><td>Setup the notification service </td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> platform (required)</td></tbody></table>
+<table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/setup reset</td><td>Reset the notification service for a streamer</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> platform (required)</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> streamer (required)</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> everything (variables: True/False) (optional)</td></tr></tbody></table>
 
-<tr><td>/setup reset</td><td>Remove a streamer from live notifications</td></tr>
 
 ## The `/Setup Stats_Channel` Command & Its Applicable Variables
 
