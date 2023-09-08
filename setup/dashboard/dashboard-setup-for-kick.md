@@ -1,6 +1,6 @@
-# Setup Kick Notifications Using Noti's Dashboard Web Interface
+# Basic Setup of Kick Notifications Using Noti's Dashboard Web Interface
 
-This guide will lead you through the step-by-step process of using Noti's web dashboard for setting up Kick notifications in your Discord server.
+This guide will lead you through the step-by-step process of using Noti's web dashboard for setting up basic Kick notifications in your Discord server.
 
 {% hint style="warning" %} **Warning Notice!** \
 You will need to have already completed the [Noti's Dashboard Web Interface Initialization](dashboard.md) steps.
