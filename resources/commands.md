@@ -15,6 +15,8 @@ On this page you will see a complete list of Noti's commands that you can use on
 
 ## The `/Setup Stats_Channel` Command & Its Applicable Variables
 
+Visual Example: ![](../../.gitbook/assets/commands_setup_stats_channel.png)
+
 <table><thead><tr><th width="222"></th><th></th></tr></thead><tbody><tr><td>/setup stats_channel</td><td>Setup a channel for stats to on or off and to who</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> platform (required)</td><td>The platform the streamer streams on</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> username (required)</td><td>The name of the streamer you're setting stats up for</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> followers (variables: True/False)</td><td>Show the streamer's follower count </td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> is_live (variables: True/False)</td><td>Show the streamer live or not?</td></tr></tbody></table>
 
 {% hint style="info" %}
