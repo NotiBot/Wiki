@@ -1,5 +1,3 @@
-# Welcome
-
 <figure><img src=".gitbook/assets/favicon.png" alt=""><figcaption></figcaption></figure>
 
 # Welcome to the Noti Docs!
