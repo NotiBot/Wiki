@@ -15,11 +15,3 @@ This guide will lead you through the step-by-step process of initializing Noti's
 
 If you have successfully completed the steps listed above, your dashboard should look similar to the following: \
 ![](../../.gitbook/assets/dashboard_server_list.png)
-
-## Managing Your Discord Server
-
-Please note: *You will need to complete steps 1-6 from the Web Dashboard Login section if you haven't already done so.*
-
-1. Click the **Manage** button directly below the server you wish to setup Noti for.
-2. Next, select the category (or platform) you want to configure Noti for.
-3. We will select Kick; now click the **Configure** button.
