@@ -29,7 +29,7 @@ Make sure you press the `Save` button after each section in order to save your w
 
    • **Audit Logs > Streamer Chatroom Audit Actions**: Send events that occur in the streamer's chatroom to a defined Discord channel. *(premium only)*
 
-   • **Clips > Clip Notifications**: Clip notifications get directly sent to a defined Discord channel. *(powered by KickBot)*
+   • **Clips > Clip Notifications**: Clip notifications get directly sent to a defined Discord channel. *(powered by KickBot)* \
    • **Clips > Clips Forwarding Filters**: Filter created clips notifications you receive according to **Vip**, **Subscriber**, **Moderator** or **Streamer**.
 
    • **Delete Streamer**: Delete and remove Discord notifications for the selected streamer.
