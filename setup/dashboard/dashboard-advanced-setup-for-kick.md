@@ -19,3 +19,7 @@ The following list breaks down each section and field as intended for use: \
    • **Clips > Clip Notifications**: Clip notifications get directly sent to a defined Discord channel. *(powered by KickBot)* \
    • **Clips > Clips Forwarding Filters**: Filter created clips notifications you receive according to **Vip**, **Subscriber**, **Moderator** or **Streamer**. \
    • **Delete Streamer**: Delete and remove Discord notifications for the selected streamer.
+
+{% hint style="danger" %} 
+Make sure you press the `Save` button to save your work before moving to another section; this will prevent loss of work.
+{% endhint %}
