@@ -3,6 +3,12 @@
 # Welcome to the Noti Docs!
 
 **Greetings and welcome to the official Noti Documentation!** We are thrilled to have you here.
+\
+**Noti** is a fully customizable Discord bot for your Discord server that enables you to send real-timme Discord notifications to your server from Kick, Twitch, YouTube, Rumble and more and features a simple and intuitive web dashboard complimented with a wide array of useful slash commands.
+\
+This documentation provides inforamtion on each command/field, including the description, usage and examples.
+\
+If you need any additional help with Noti, ask in our [Discord Server](https://discord.com/invite/xq6F6ZkUte)!
 
 ## Useful Links
 
@@ -10,11 +16,11 @@
 [Add Noti to your Server](https://notibot.app/invite) \
 [Discord Support Server](https://discord.com/invite/xq6F6ZkUte) \
 [Upgrade to Noti Premium](https://notibot.app/premium)
-
+<!--
 ## What Is NotiBot?
 
 **Noti** is a useful Discord bot that enables you to send real-time Discord notifications directly to your server from Twitch, YouTube, Kick, Rumble and more! Whether you're a gamer, artist or content creator, Noti is an excellent tool to keep you in the loop, staying engaged with your community and never missing an important update again. Noti is trusted by top creators and servers to provide seamless alerts.
-
+-->
 
 ## Need Help?
 
