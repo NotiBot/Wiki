@@ -6,6 +6,10 @@ The following illustrations and their corresponding lists break down each sectio
 Discord roles that you intend to use for this process must be added prior to starting; otherwise, you will need to refresh the dashboard for them to show up.
 {% endhint %}
 
+{% hint style="danger" %} 
+Make sure you press the `Save` button after each section in order to save your work before moving to another section; this will prevent loss of work.
+{% endhint %}
+
 ![](../../.gitbook/assets/dashboard_advanced_streamer_setup.png)
    • **General > Role**: The discord role to mention when streamer goes live *(role must already be added to your Discord in order for it  to show on the list)* \
    • **General > Channel**: The discord channel to send the notification to. \
@@ -30,6 +34,3 @@ Discord roles that you intend to use for this process must be added prior to sta
 
    • **Delete Streamer**: Delete and remove Discord notifications for the selected streamer.
 
-{% hint style="danger" %} 
-Make sure you press the `Save` button to save your work before moving to another section; this will prevent loss of your work.
-{% endhint %}
