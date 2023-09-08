@@ -2,9 +2,9 @@
 
 This guide will lead you through the step-by-step process of using Noti's web dashboard for setting up Kick notifications in your Discord server.
 
-## Web Dashboard Login
-
-  
+{% hint style="warning" %} **Warning Notice!** \
+You will need to have already completed the 
+{% endhint %}
 
 ## Managing Your Discord Server
 
