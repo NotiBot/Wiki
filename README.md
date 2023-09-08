@@ -22,16 +22,16 @@ If you need any additional help with Noti, ask in our [Discord Server](https://d
 
 # Key
 
-{% hint style="info" %} **Information**
+{% hint style="info" %} **Information** \
 Information and notes will be displayed in highlighted boxes such as this.
 {% endhint %}
-{% hint style="success" %} **Success**
+{% hint style="success" %} **Success** \
 Success information will be displayed in highlighted boxes such as this.
 {% endhint %}
-{% hint style="warning" %} **Warnings**
+{% hint style="warning" %} **Warnings** \
 Warnings will be displayed in highlighted boxes such as this.
 {% endhint %}
-{% hint style="danger" %} **Danger**
+{% hint style="danger" %} **Danger** \
 Danger or cautionary information will be displayed in highlighted boxes such as this.
 {% endhint %}
 
