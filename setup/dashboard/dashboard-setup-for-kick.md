@@ -24,6 +24,6 @@ You will need to complete all of the previously listed steps if you haven't alre
 3. Once you enter the streamer's Kick name that you wish to receive notificaitons for and press the Add button, you will be presented with the Configuration window as follows:
 ![](../../.gitbook/assets/streamer_web_dashboard_configurestreamer.png)
 
-4. Congratulations! You can now press the `Save` button and your basic notification setup is now complete! \
+4. Congratulations! You can now press the `Save` button and your basic notification setup is now complete!
 
 For additional or advanced setup continuation, please see our next help article [Noti Dashboard Advanced Setup For Kick](dashboard-advanced-setup-for-kick.md).
