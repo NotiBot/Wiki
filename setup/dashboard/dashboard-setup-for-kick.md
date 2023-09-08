@@ -14,8 +14,8 @@ You will need to have already completed the [Noti's Dashboard Web Interface Init
 
 ## Adding/Configuring a Streamer to Noti via Web Dashboard
 
-{% hint style="note" %} 
-You will need to complete all of the previous steps if you haven't already done so.
+{% hint style="info" %} 
+You will need to complete all of the previously listed steps if you haven't already done so.
 {% endhint %}
 
 1. On the next page, click the **Add Streamer** button to add a new streamer.
