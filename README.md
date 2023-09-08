@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/favicon.png" alt=""><figcaption></figcaption></figure>
 
-## Welcome to the Noti Docs!
+# Welcome to the Noti Docs!
 
 **Greetings and welcome to the official Noti Documentation!** We are thrilled to have you here.
 
