@@ -1,13 +1,15 @@
 # Noti Dashboard Advanced Setup for Kick notifications
 
-![](../../.gitbook/assets/dashboard_advanced_streamer_setup.png)
+The following illustrations and their corresponding lists break down each section and field as intended for use. 
 
-The following list breaks down each section and field as intended for use: \
+![](../../.gitbook/assets/dashboard_advanced_streamer_setup.png)
    • **General > Role**: The discord role to mention when streamer goes live *(role must already be added to your Discord in order for it  to show on the list)* \
    • **General > Channel**: The discord channel to send the notification to. \
    • **General > Delete the embed**: Should embed be deleted when streamer ends the stream? *(premium only)* \
    • **General > Streamer's claimable role**: Discord role that streamer can claim *(premium only)* \
    • **General > Live Role Sync**: Live Role Sync allows you to give a role to users when they go live. *(premium only)* \
+
+![](../../.gitbook/assets/dashboard_advanced_streamer_roles_setup.png)
    • **Roles > Subscriber Role Sync**: Sync the user who subscribed to the streamer to the defined Discord role \
    • **Roles > Moderator Role Sync**: Sync the streamer's moderators to the defined Discord role \
    • **Role > VIP Sync Role**: Sync the streamer's VIPs to the defined Discord role \
