@@ -25,12 +25,12 @@ Make sure you press the `Save` button after each section in order to save your w
    • **Role > Founders Role Sync**: Sync the streamer's Founders to the defined Discord role \
    • **Role > Verified Role Sync**: Sync users who are verified by Kick to the defined Discord role \
    
-   • **Editor > Use Streamer Custom Notifications**: Setup and edit fully customizable live notifications and even choose to replace global ones per streamer *(premium only)* \
+   • **Editor > Use Streamer Custom Notifications**: Setup and edit fully customizable live notifications and even choose to replace global ones per streamer *(premium only)*
 
-   • **Audit Logs > Streamer Chatroom Audit Actions**: Send events that occur in the streamer's chatroom to a defined Discord channel. *(premium only)* \
+   • **Audit Logs > Streamer Chatroom Audit Actions**: Send events that occur in the streamer's chatroom to a defined Discord channel. *(premium only)*
 
-   • **Clips > Clip Notifications**: Clip notifications get directly sent to a defined Discord channel. *(powered by KickBot)* \
-   • **Clips > Clips Forwarding Filters**: Filter created clips notifications you receive according to **Vip**, **Subscriber**, **Moderator** or **Streamer**. \
+   • **Clips > Clip Notifications**: Clip notifications get directly sent to a defined Discord channel. *(powered by KickBot)*
+   • **Clips > Clips Forwarding Filters**: Filter created clips notifications you receive according to **Vip**, **Subscriber**, **Moderator** or **Streamer**.
 
    • **Delete Streamer**: Delete and remove Discord notifications for the selected streamer.
 
