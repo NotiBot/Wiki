@@ -8,8 +8,6 @@ You will need to have already completed the [Noti's Dashboard Web Interface Init
 
 ## Managing Your Discord Server
 
-Please note: *You will need to complete steps 1-6 from the Web Dashboard Login article if you haven't already done so.*
-
 1. Click the **Manage** button directly below the server you wish to setup Noti for.
 2. Next, select the category (or platform) you want to configure Noti for.
 3. We will select Kick; now click the **Configure** button.
