@@ -13,6 +13,7 @@ The following illustrations and their corresponding lists break down each sectio
 {% hint style="danger" %} 
 Discord roles must be added prior to starting this process; otherwise, you will need to refresh the dashboard for them to show up.
 {% endhint %}
+
    • **Roles > Subscriber Role Sync**: Sync the user who subscribed to the streamer to the defined Discord role \
    • **Roles > Moderator Role Sync**: Sync the streamer's moderators to the defined Discord role \
    • **Role > VIP Sync Role**: Sync the streamer's VIPs to the defined Discord role \
