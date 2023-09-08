@@ -16,11 +16,13 @@ If you need any additional help with Noti, ask in our [Discord Server](https://d
 [Add Noti to your Server](https://notibot.app/invite) \
 [Discord Support Server](https://discord.com/invite/xq6F6ZkUte) \
 [Upgrade to Noti Premium](https://notibot.app/premium)
-<!--
-## What Is NotiBot?
 
-**Noti** is a useful Discord bot that enables you to send real-time Discord notifications directly to your server from Twitch, YouTube, Kick, Rumble and more! Whether you're a gamer, artist or content creator, Noti is an excellent tool to keep you in the loop, staying engaged with your community and never missing an important update again. Noti is trusted by top creators and servers to provide seamless alerts.
--->
+# Navigation
+
+
+# Key
+
+
 
 ## Need Help?
 
