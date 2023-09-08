@@ -14,7 +14,9 @@ You will need to have already completed the [Noti's Dashboard Web Interface Init
 
 ## Adding/Configuring a Streamer to Noti via Web Dashboard
 
-Please note: *You will need to complete all of the previous steps if you haven't already done so.*
+{% hint style="note" %} 
+You will need to complete all of the previous steps if you haven't already done so.
+{% endhint %}
 
 1. On the next page, click the **Add Streamer** button to add a new streamer.
 2. A popup window will apear as follows; please enter the Kick streamer's name you wish to receive notifications for, then press **Add**. \
