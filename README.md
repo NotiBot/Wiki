@@ -9,8 +9,9 @@
 ## Useful Links
 
 [Noti Dashboard](https://notibot.app) \
+[Add Noti to your Server](https://notibot.app/invite) \
 [Discord Support Server](https://discord.com/invite/xq6F6ZkUte) \
-
+[Upgrade to Noti Premium](https://notibot.app/premium)
 
 ## What Is NotiBot?
 
