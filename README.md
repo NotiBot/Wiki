@@ -25,7 +25,7 @@ On the side bar (to the left) you will see a number of different pages. This inc
 **IN PROGRESS** Each page under the side bar Dashboard header will explain each section of the basic settings for the Dashboard.
 
 ## Slash Commands
-** IN PROGRESS** The slash commands page will give you a full, alphabetical list of available slash comands. This will include a brief description of what the command does and how you can use it. You can click on the command name to be taken to a page which gives a more-detailed page about the command.
+**IN PROGRESS** The slash commands page will give you a full, alphabetical list of available slash comands. This will include a brief description of what the command does and how you can use it. You can click on the command name to be taken to a page which gives a more-detailed page about the command.
 
 
 # Key
