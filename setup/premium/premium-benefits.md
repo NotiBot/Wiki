@@ -1,4 +1,4 @@
-# NotiBot Premium
+# Noti Premium
 
 Here you can find information about what features Noti Premium grants you, how you can enable premium on your server and how to manage your premium benefits!
 
