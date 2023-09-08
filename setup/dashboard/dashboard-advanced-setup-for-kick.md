@@ -1,6 +1,8 @@
 # Noti Dashboard Advanced Setup for Kick notifications
 
-4. The following list breaks down each section and field as intended for use: \
+![](../../.gitbook/assets/dashboard_advanced_streamer_setup.png)
+
+The following list breaks down each section and field as intended for use: \
    • **General > Role**: The discord role to mention when streamer goes live *(role must already be added to your Discord in order for it  to show on the list)* \
    • **General > Channel**: The discord channel to send the notification to. \
    • **General > Delete the embed**: Should embed be deleted when streamer ends the stream? *(premium only)* \
