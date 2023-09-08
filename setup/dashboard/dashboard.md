@@ -21,5 +21,5 @@ Please note: *You will need to complete steps 1-6 from the Web Dashboard Login s
 2. Next, select the category (or platform) you want to configure Noti for.
 3. We will select Kick; now click the **Configure** button.
 
-If you have successfully completed the steps listed above, your dashboard should look similar to the following:
+If you have successfully completed the steps listed above, your dashboard should look similar to the following: \
 ![](../../.gitbook/assets/dashboard_server_list.png)
