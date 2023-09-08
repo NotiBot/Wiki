@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 
 ## WELCOME
 
@@ -8,7 +8,7 @@
 * [What's New?](whats-new.md)
 * [Need more help?](https://discord.com/invite/xq6F6ZkUte)
 
-## NOTIBOT PREMIUM
+## NOTI PREMIUM
 
 * [What are the benefits of Premium?](setup/premium/premium-benefits.md)
 
