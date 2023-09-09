@@ -2,11 +2,11 @@
 
 ## 👋WELCOME
 
-* [Welcome](README.md)
+* [👋Welcome](README.md)
 * [⚙️Commands](resources/commands.md)
-* [FAQ](resources/faq.md)
-* [What's New?](whats-new.md)
-* [Need more help?](https://discord.com/invite/xq6F6ZkUte)
+* [❔FAQ](resources/faq.md)
+* [🔥What's New?](whats-new.md)
+* [🗨️Need more help?](https://discord.com/invite/xq6F6ZkUte)
 
 ## 🏆NOTI PREMIUM
 
