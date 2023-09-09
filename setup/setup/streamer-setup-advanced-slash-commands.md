@@ -12,7 +12,7 @@ Advanced Setup covers all of the **optional** fields that are available for use 
 6. **PING_ROLE**: Provide the desired Discord role to ping when the streamer goes live.
 7. **SUBSCRIBER_ROLE**: Define the Discord role for subscriber sync between Kick and Discord.
 8. **MODERATOR_ROLE**: Define the Discord role for moderator sync between Kick and Discord.
-9. **VERIFIED_BY_KICK_ROLE**: Define the Discord role for verifiedy by Kick sync between Kick and Discord.
+9. **VERIFIED_BY_KICK_ROLE**: Define the Discord role for verified by Kick sync between Kick and Discord.
 10. **FOUNDER_ROLE**: Define the Discord role for founder sync between Kick and Discord.
 11. **VIP_ROLE**: Define the Discord role for VIP sync between Kick and Discord.
 12. **OG_ROLE**: Define the Discord role for OG sync between Kick and Discord.
