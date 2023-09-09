@@ -14,7 +14,7 @@
 
 ## 🔔LIVE STREAM NOTIFICATIONS SETUP
 
-* [Noti Setup Index](setup/setup/README.md)
+* [Index: Live Stream Notifications Setup](setup/setup/README.md)
 
 * [How to Invite Noti to Your Server First](setup/invite-noti.md)
 ***
