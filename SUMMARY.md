@@ -12,12 +12,17 @@
 
 * [What are the benefits of Premium?](setup/premium/premium-benefits.md)
 
-## LIVE STREAM NOTIFICATIONS
+## LIVE STREAM NOTIFICATIONS SETUP
 
-* [Invite Noti](setup/invite-noti.md)
+* [ADD NOTI TO YOUR SERVER FIRST]
+  * [Invite Noti](setup/invite-noti.md)
+
 * [Noti Setup Index](setup/setup/README.md)
+* [SETUP USING SLASH COMMANDS]
   * [Basic Setup of Kick Notifications Using Slash Commmands](setup/setup/streamer.md)
   * [Setup Kick Notifications Using Advanced Slash Commmand Fields for /Setup Service](setup/setup/streamer-setup-advanced-slash-commands.md)
+
+* [SETUP USING WEB DASHBOARD]
   * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md)
   * [Streamer Counter](setup/setup/streamer-counter.md)
 
