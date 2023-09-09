@@ -1,11 +1,6 @@
 # Setup
 
-This page will show you how to set up a streamer and the streamer's data channels. \
-You can also get help to synchronize your roles from Kick.com to discord.
-
-
-
-Follow the links for help to setup with a specific thing.
+This page will show you how to set up a streamer and the streamer's data channels. You can also get help to synchronize your roles from Kick.com to discord.
 
 [Noti Setup Index] - You are already here.
 
