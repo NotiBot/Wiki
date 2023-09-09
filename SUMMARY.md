@@ -12,7 +12,7 @@
 
 * [🏆Benefits of Premium](setup/premium/premium-benefits.md)
 
-## 🔔LIVE STREAM NOTIFICATIONS SETUP
+## LIVE STREAM NOTIFICATIONS SETUP
 
 * [Index: Live Stream Notifications Setup](setup/setup/README.md)
 
