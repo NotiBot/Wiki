@@ -6,7 +6,7 @@ This page will show you how to set up a streamer and the streamer's data channel
 
 First Step: [Invite Noti](setup/setup/invite-noti.md) - How to add  Noti to your server.
 
-There are two methods for interacting with Noti: The web dashboard and Discord slash commands
+There are two methods for interacting with Noti, the web dashboard and Discord slash commands. Instructions for each method are included below:
 
 **SECTION ONE: [WEB DASHBOARD]** \
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
