@@ -14,12 +14,20 @@ On this page you will see a complete list of Noti's commands that you can use on
 <summary>
 Click to expand for full display of command variables
 </summary>
-  + /setup service | Command to setup the notification service
-  + platform *(required)* | The platform the streamer streams on
+
+  - /setup service | Command to setup the notification service
+  - platform *(required)* | The platform the streamer streams on
+  - test
+  - test
+  - test
+  - 
+  
+  
 <!--
 <table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/setup service</td><td>Setup the notification service </td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> platform (required)</td><td>The platform the streamer streams on</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> streamer (required)</td><td>The streamer's platform username that you want notifications for</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> channel (Optional)</td><td>The channel the notifications will be sent to</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> toggle (Sub Optional)</td><td>Enable or disable the subscribe button </td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> meantionedrole (Sub Optional)</td><td>The role here will be pinged</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> subscriberrole (Optional)</td><td>The role will be given to users who have subscribed to the streamer*</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> moderatorrole (Optional)</td><td>The role will be given to users who is a moderator on the streamers stream*</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> liverole (Optional)</td><td>The role will be given to users who are the streamer or a part of the stream*</td></tr><tr><td><p></p><p><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> whitelistadd (Sub Optional)</p></td><td>Will whitelist a user</td></tr><tr><td><p></p><p><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> whitelistremove (Sub Optional)</p></td><td>Will remove whitelist from a user </td></tr></tbody></table>
 -->
 </details>
+
 
 ## The `/Setup Reset` Command & Its Applicable Variables
 
