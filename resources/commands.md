@@ -30,7 +30,7 @@ Click to expand for full display of the `/setup service` command variables & des
   - **founder_role** *(sub optional)* | Define the Discord role for founder sync between Kick & Discord
   - **vip_role** *(optional)* | Define the Discord role for VIP sync between Kick & Discord
   - **og_role** *(optional)* | Define the Discord role for OG sync between Kick & Discord
-  - **live_role** *(sub optional)* | Define the Discord role assigned/removed based on streammer's live status
+  - **live_role** *(sub optional)* | Define the Discord role assigned/removed based on streamer's live status
   - **live_role_add_user** *(sub optional)* | Define Discord user to add the live role to
   - **live_role_remove_user** *(sub optional)* | Define Discord user to remove the live role from
   
