@@ -7,7 +7,7 @@ When it comes to Discord bots, Noti stands out from the crowd by giving you, the
 
 ► [Noti Setup Index] - You are already here.
 
-► First Step: [Invite Noti](setup/invite-noti.md) - How to add  Noti to your server.
+► First Step: [Invite Noti](https://doc.notibot.app/live-stream-notifications-setup/invite-noti) - How to add  Noti to your server.
 
 ► **METHOD ONE: [USING THE WEB DASHBOARD]** \
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
