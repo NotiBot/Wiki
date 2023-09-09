@@ -7,7 +7,7 @@ When it comes to Discord bots, Noti stands out from the crowd by giving you, the
 ## First Step: Invite Noti to Your Discord Server
 
 ► First Step: Add Noti by inviting it to your Discord server.
-  * In order to start your journey with Noti, or even access our wide array of commands or all of the features the bot has to offer, you must first invite Noti to your Discord server. Read up on the next article "How to Invite Noti to Your Server First" to learn how to complete this necessary first step.
+  * In order to start your journey with Noti, or even access our wide array of commands including the extensive list of features the bot has to offer, you must first invite Noti to your Discord server. Read up on the next article "How to Invite Noti to Your Server First" to learn how to complete this necessary first step.
 
 ## How To Setup Live Stream Notifications with Noti
 
