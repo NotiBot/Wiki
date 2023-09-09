@@ -1,6 +1,6 @@
 # Table of Contents
 
-## WELCOME
+## 👋 WELCOME
 
 * [Welcome](README.md)
 * [Commands](resources/commands.md)
@@ -8,11 +8,11 @@
 * [What's New?](whats-new.md)
 * [Need more help?](https://discord.com/invite/xq6F6ZkUte)
 
-## NOTI PREMIUM
+## 🏆 NOTI PREMIUM
 
 * [What are the benefits of Premium?](setup/premium/premium-benefits.md)
 
-## LIVE STREAM NOTIFICATIONS SETUP
+## 🔔 LIVE STREAM NOTIFICATIONS SETUP
 
 * [Noti Setup Index](setup/setup/README.md)
 
