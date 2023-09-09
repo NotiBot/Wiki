@@ -21,7 +21,7 @@ SECTION ONE: [WEB DASHBOARD]
 
 SECTION TWO: [SLASH COMMANDS]
 
-[Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md)
+[Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md) \
 [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
 
 <!--
