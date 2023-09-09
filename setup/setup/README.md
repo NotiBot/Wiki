@@ -13,10 +13,10 @@ When it comes to Discord bots, Noti stands out from the crowd by giving you, the
 
 Setting up your favorite streamer's live notifications has never been easier since Noti gives you TWO simple methods to do so: the web dashboard or Discord slash commands.
 
-► **METHOD ONE: [USING THE WEB DASHBOARD]** \
+► **METHOD ONE: [USING THE WEB DASHBOARD]** 
 
 
-► **METHOD TWO: [USING SLASH COMMANDS]** \
+► **METHOD TWO: [USING SLASH COMMANDS]** 
 
 <!--
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
