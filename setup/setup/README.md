@@ -1,6 +1,6 @@
-# Setup
+# LIVE STREAM NOTIFICATIONS SETUP
 
-This page will show you how to set up a streamer and the streamer's data channels. You can also get help to synchronize your roles from Kick.com to discord.
+This index page lists the options Noti offers which are available at your disposal and how to use methods of your choice to set up a streamer's live notifications as well as the streamer's data channels. You can also learn how to synchronize your roles from Kick.com to discord.
 
 [Noti Setup Index] - You are already here.
 
