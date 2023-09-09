@@ -6,14 +6,14 @@ This page will show you how to set up a streamer and the streamer's data channel
 
 First Step: [Invite Noti](setup/setup/invite-noti.md) - How to add  Noti to your server.
 
-There are two methods for interacting with Noti, the web dashboard and Discord slash commands. Instructions for each method are included below:
+When it comes to Discord bots, Noti stands out from the crowd by giving you, the end user, the most flexibility and as many great options as possible! When it comes to setting up your favorite streamer's live notifications, you have the choice of using either two of the methods that Noti offers: the web dashboard or Discord slash commands. Instructions for each method are included below:
 
-**SECTION ONE: [WEB DASHBOARD]** \
+**METHOD ONE: [WEB DASHBOARD]** \
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
 [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md) \
 [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
 
-**SECTION TWO: [SLASH COMMANDS]** \
+**METHOD TWO: [SLASH COMMANDS]** \
 [Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md) \
 [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
 
