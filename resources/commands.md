@@ -5,6 +5,7 @@ On this page you will see a complete list of Noti's commands that you can use on
 ## General Commands&#x20;
 
 <!--<table><thead><tr><th width="222">Command name</th><th>Description</th></tr></thead><tbody><tr><td>/faq</td><td>List of common facts and questions about Noti</td></tr><tr><td>/help</td><td>List all Noti's commands</td></tr><tr><td>/invite</td><td>Will show a link to invite Noti to your server</td></tr><tr><td>/stats</td><td>The bot's current data stats</td></tr><tr><td>/vote</td><td>Vote rewards on Nofi</td></tr><tr><td>/support</td><td>Will show a link to Noti's support sevrer</td></tr><tr><td>/sync</td><td>Sync kick user roles on this server. Must have account linked*</td></tr><tr><td>/panel</td><td>Create a panel for user to click Verify and Sync</td></tr></tbody></table> -->
+
 <table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/faq</td><td>List of frequently asked questions about Noti</td></tr><tr><td>/help</td><td>List all Noti's commands</td></tr><tr><td>/invite</td><td>Will show a link to invite Noti to your server</td></tr><tr><td>/panel</td><td>Create a panel for user to click Verify and Sync</td></tr><tr><td>/stats</td><td>The bot's current data stats</td></tr><tr><td>/support</td><td>Will show a link to Noti's support server</td></tr><tr><td>/sync</td><td>Sync Kick user roles on this server. Must have account linked*</td></tr><tr><td>/vote</td><td>Vote rewards on Noti</td></tr></tbody></table>
 
 
@@ -49,20 +50,20 @@ Visual Example: *(this example uses only the everything variable set to true to 
 Click to expand for full display of the <mark style="color:green;">/setup reset</mark>&#x20; command variables & descriptions for each
 </summary>
 
-  - /setup reset | Reset the notification service for a streamer
-  - platform *(required)* | The platformm the streammer streams on
-  - streamer *(required)* | The streamer's platform username you wish to reset notifications for
-  - everything (variables: True/False) *(optional)* | Reset everything for the desired streamer?
-  - channel *(optional)* | Reset the desired channel to send live notification to?
-  - clip_channel *(optional)* | Reset the desired channel to send Kick.com clip notifications to?
-  - ping_role *(optional)* | Reset the desired role to ping when a streamer goes live?
-  - subscriber_role *(optional)* | Reset the defined role for subscriber sync between Kick & Discord?
-  - moderator_role *(optional)* | Reset the defined role for moderator sync between Kick & Discord?
-  - verified_by_kick_role *(optional) | Reset the defined role for verified by Kick sync between Kick & Discord?
-  - founder_role *(optional)* | Reset the defined role for founder sync between Kick & Discord?
-  - vip_role *(optional)* | Reset the defined role for VIP sync between Kick & Discord?
-  - og_role *(optional)* | Reset the defined role for OG sync between Kick & Discord?
-  - live_role *(optional)* | Reset the defined role that is assigned/removed based on streamer's live status?
+  - **/setup reset** | Reset the notification service for a streamer
+  - **platform** *(required)* | The platformm the streammer streams on
+  - **streamer** *(required)* | The streamer's platform username you wish to reset notifications for
+  - **everything** (variables: True/False) *(optional)* | Reset everything for the desired streamer?
+  - **channel** *(optional)* | Reset the desired channel to send live notification to?
+  - **clip_channel** *(optional)* | Reset the desired channel to send Kick.com clip notifications to?
+  - **ping_role** *(optional)* | Reset the desired role to ping when a streamer goes live?
+  - **subscriber_role** *(optional)* | Reset the defined role for subscriber sync between Kick & Discord?
+  - **moderator_role** *(optional)* | Reset the defined role for moderator sync between Kick & Discord?
+  - **verified_by_kick_role** *(optional) | Reset the defined role for verified by Kick sync between Kick & Discord?
+  - **founder_role** *(optional)* | Reset the defined role for founder sync between Kick & Discord?
+  - **vip_role** *(optional)* | Reset the defined role for VIP sync between Kick & Discord?
+  - **og_role** *(optional)* | Reset the defined role for OG sync between Kick & Discord?
+  - **live_role** *(optional)* | Reset the defined role that is assigned/removed based on streamer's live status?
 
 </details>
 
@@ -76,10 +77,25 @@ Click to expand for full display of the <mark style="color:green;">/setup reset<
 Visual Example: \
 ![](../.gitbook/assets/commands_setup_stats_channel.png)
 
+<details>
+<summary>
+Click to expand for full display of the <mark style="color:green;">/setup stats_channel</mark>&#x20; command variables & descriptions for each
+</summary>
+
+  - **/setup stats_channel** | Setup a channel for stats to on or off and to whom
+  - **platform** *(required)* | The platform the streamer streams on
+  - **username** *(required)* | The name of the streammer you're setting stats up for
+  - **followers** (variables: True/False) | Show the streamer's follower count?
+  - **is_live** (variables: True/False) | Show the streamer is live or offline?
+
+</details>
+
+<!--
 <table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/setup stats_channel</td><td>Setup a channel for stats to on or off and to who</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> platform (required)</td><td>The platform the streamer streams on</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> username (required)</td><td>The name of the streamer you're setting stats up for</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> followers (variables: True/False)</td><td>Show the streamer's follower count </td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> is_live (variables: True/False)</td><td>Show the streamer live or not?</td></tr></tbody></table>
+-->
 
 {% hint style="info" %}
 Note
 
-\* For this to work the user's discord and kick account need to be linked.&#x20;
+\* For this to work the user's discord and Kick account need to be linked.&#x20;
 {% endhint %}
