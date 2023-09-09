@@ -7,7 +7,7 @@ You can also get help to synchronize your roles from Kick.com to discord.
 
 Follow the links for help to setup with a specific thing.
 
-[Noti Setup Index] - You are here.
+[Noti Setup Index] - You are already here.
 
 First Step: [Invite Noti](setup/setup/invite-noti.md) - How to add  Noti to your server.
 
