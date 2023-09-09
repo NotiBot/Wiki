@@ -15,7 +15,7 @@ On this page you will see a complete list of Noti's commands that you can use on
 Click to expand for full display of command variables
 </summary>
 
-    **Command | Description**
+   **Command | Description**
   - /setup service | Command to setup the notification service
   - platform *(required)* | The platform the streamer streams on
   - test
