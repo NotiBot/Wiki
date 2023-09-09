@@ -2,7 +2,7 @@
 
 ## WELCOME
 
-* [👋Home](README.md)
+* [🏠Home](README.md)
 * [⚙️Commands](resources/commands.md)
 * [❔FAQ](resources/faq.md)
 * [🔥What's New?](whats-new.md)
