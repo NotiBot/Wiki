@@ -12,7 +12,7 @@ On this page you will see a complete list of Noti's commands that you can use on
 
 <details>
 <summary>
-Click to expand for full display of the `/setup service` command variables & desciptions for each
+Click to expand for full display of the `/setup service` command variables & descriptions for each
 </summary>
 
   - **/setup service** | Command to setup the notification service
