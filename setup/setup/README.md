@@ -2,11 +2,12 @@
 
 This index page lists the options Noti offers which are available at your disposal and how to use methods of your choice to set up a streamer's live notifications as well as the streamer's data channels. You can also learn how to synchronize your roles from Kick.com to discord.
 
-[Noti Setup Index] - You are already here.
+When it comes to Discord bots, Noti stands out from the crowd by giving you, the end user, the most flexibility and as many great options as possible! When it comes to setting up your favorite streamer's live notifications, you have the choice of using either two of the methods that Noti offers: the web dashboard or Discord slash commands.
+
+
+► [Noti Setup Index] - You are already here.
 
 ► First Step: [Invite Noti](setup/setup/invite-noti.md) - How to add  Noti to your server.
-
-When it comes to Discord bots, Noti stands out from the crowd by giving you, the end user, the most flexibility and as many great options as possible! When it comes to setting up your favorite streamer's live notifications, you have the choice of using either two of the methods that Noti offers: the web dashboard or Discord slash commands. Instructions for each method are included below:
 
 ► **METHOD ONE: [USING THE WEB DASHBOARD]** \
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
