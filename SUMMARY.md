@@ -17,7 +17,7 @@
 * [Noti Setup Index](setup/setup/README.md)
 
 * [How to Invite Noti to Your Server First](setup/invite-noti.md)
-
+***
 * [SETUP USING SLASH COMMANDS]
   * [Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md)
   * [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
