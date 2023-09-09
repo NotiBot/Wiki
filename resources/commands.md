@@ -19,10 +19,23 @@ Click to expand for full display of command variables
    __**Command | Description**__
   - /setup service | Command to setup the notification service
   - platform *(required)* | The platform the streamer streams on
-  - test
-  - test
-  - test
-  - 
+  - streamer *(required)* | The streamer's platform username that you want notifications for
+  - channel *(optional)* | The channel the notifications will be sent to
+  - clip_channel | Provide the desired channel to send Kick.com clip notifications to
+  - delete_message | Delete live message notification after streamer goes offline
+  - toggle_notify_button | Toggle notify button on live message notification?
+  - sync_streamer_username | Should the streamer's username be synced between Kick & Discord?
+  - ping_role | Define the Discord role to ping when a streamer goes live
+  - subscriber_role | Define the Discord role for subscriber sync between Kick & Discord
+  - moderator_role | Define the Discord role for moderator sync between Kick & Discord
+  - verified_by_kick_role | Define the Discord role for verified by Kick sync between Kick & Discord
+  - founder_role | Define the Discord role for founder sync between Kick & Discord
+  - vip_role | Define the Discord role for VIP sync between Kick & Discord
+  - og_role | Define the Discord role for OG sync between Kick & Discord
+  - live_role | Define the Discord role assigned/removed based on streammer's live status
+  - live_role_add_user | Define Discord user to add the live role to
+  - live_role_remove_user | Define Discord user to remove the live role from
+  
   
 </details>
 <!--
