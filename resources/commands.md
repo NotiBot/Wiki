@@ -17,7 +17,7 @@ Click to expand for full display of the `/setup service` command variables & des
 
 
    __**Command | Description**__
-  - /setup service | Command to setup the notification service
+  - **/setup service** | Command to setup the notification service
   - platform *(required)* | The platform the streamer streams on
   - streamer *(required)* | The streamer's platform username that you want notifications for
   - channel *(optional)* | The channel the notifications will be sent to
