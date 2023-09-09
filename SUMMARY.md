@@ -29,18 +29,18 @@
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 
 ***
-
+## 🔩OTHER FEATURES
 * [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md)
 * [Streamer Counter](setup/setup/streamer-counter.md)
 * [Verify and Sync](verify-and-sync.md)
 
-## Resources
+## 🛡️Resources
 
 * [Commands](resources/commands.md)
 * [Permissions](resources/permissions.md)
 * [FAQ](resources/faq.md)
 
-## Links
+## 📌Links
 
 * [Invite Noti](https://discord.com/oauth2/authorize?scope=bot%20applications.commands\&client\_id=719310199944642753\&permissions=286085598272)
 * [Dashboard](https://notibot.app/)
