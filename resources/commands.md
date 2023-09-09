@@ -15,8 +15,6 @@ On this page you will see a complete list of Noti's commands that you can use on
 Click to expand for full display of the `/setup service` command variables & desciptions for each
 </summary>
 
-
-   __**Command/Variable Name | Description**__
   - **/setup service** | Command to setup the notification service
   - platform *(required)* | The platform the streamer streams on
   - streamer *(required)* | The streamer's platform username that you want notifications for
