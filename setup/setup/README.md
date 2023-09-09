@@ -13,14 +13,12 @@ First Step: [Invite Noti](setup/setup/invite-noti.md) - How to add  Noti to your
 
 There are two methods for interacting with Noti: The web dashboard and Discord slash commands
 
-SECTION ONE: [WEB DASHBOARD]
-
+**SECTION ONE: [WEB DASHBOARD]** \
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
 [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md) \
 [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
 
-SECTION TWO: [SLASH COMMANDS]
-
+**SECTION TWO: [SLASH COMMANDS]** \
 [Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md) \
 [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
 
@@ -30,8 +28,7 @@ SECTION TWO: [SLASH COMMANDS]
 -->
 
 
-[Other Features]
-
+**[Other Features]** \
 [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md) \
 [Streamer Counter](streamer-counter.md) - Create some data channels for the streamer. \
 [Verify and Sync](../../verify-and-sync.md) - Synchronize your roles from Kick.com to discord.
