@@ -18,16 +18,15 @@
 
 * [How to Invite Noti to Your Server First](setup/invite-noti.md)
 ***
-* [SETUP USING SLASH COMMANDS]
-  * [Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md)
-  * [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
-***
 * [SETUP USING WEB DASHBOARD]
   * [Web Dashboard: Basics & Logging In](dashboard/dashboard.md)
   * [Web Dashboard: Essential Setup for Kick Notifications](dashboard/dashboard-setup-for-kick.md)
   * [Web Dashboard: Advanced Setup for Kick Notifications](dashboard/dashboard-advanced-setup-for-kick.md)
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
-
+***
+* [SETUP USING SLASH COMMANDS]
+  * [Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md)
+  * [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
 ***
 ## 🔩OTHER FEATURES
 * [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md)
