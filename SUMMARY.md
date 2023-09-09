@@ -15,7 +15,7 @@
 ## LIVE STREAM NOTIFICATIONS
 
 * [Invite Noti](setup/invite-noti.md)
-* [Setup](setup/setup/README.md)
+* [Noti Setup Index](setup/setup/README.md)
   * [Basic Setup of Kick Notifications Using Slash Commmands](setup/setup/streamer.md)
   * [Setup Kick Notifications Using Advanced Slash Commmand Fields for /Setup Service](setup/setup/streamer-setup-advanced-slash-commands.md)
   * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md)
