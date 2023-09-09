@@ -12,7 +12,7 @@ On this page you will see a complete list of Noti's commands that you can use on
 
 <details>
 <summary>
-Click to expand for full display of command variables
+Click to expand for full display of the `/setup service` command variables & desciptions for each
 </summary>
 
 
