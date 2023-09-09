@@ -21,8 +21,8 @@ Click to expand for full display of the `/setup service` command variables & des
   - **channel** *(optional)* | The channel the notifications will be sent to
   - **clip_channel** *(optional)* | Provide the desired channel to send Kick.com clip notifications to
   - **delete_message** *(sub optional)* | Delete live message notification after streamer goes offline
-  - **toggle_notify_button** | Toggle notify button on live message notification?
-  - **sync_streamer_username** | Should the streamer's username be synced between Kick & Discord?
+  - **toggle_notify_button** *(optional)* | Toggle notify button on live message notification?
+  - **sync_streamer_username** *(optional)* | Should the streamer's username be synced between Kick & Discord?
   - **ping_role** *(optional)* | Define the Discord role to ping when a streamer goes live
   - **subscriber_role** *(optional)* | Define the Discord role for subscriber sync between Kick & Discord
   - **moderator_role** *(optional)* | Define the Discord role for moderator sync between Kick & Discord
