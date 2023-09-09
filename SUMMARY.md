@@ -20,15 +20,19 @@
   * [Invite Noti](setup/invite-noti.md)
 
 * [SETUP USING SLASH COMMANDS]
-  * [Basic Setup of Kick Notifications Using Slash Commmands](setup/setup/streamer.md)
-  * [Setup Kick Notifications Using Advanced Slash Commmand Fields for /Setup Service](setup/setup/streamer-setup-advanced-slash-commands.md)
+  * [Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md)
+  * [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
 
 * [SETUP USING WEB DASHBOARD]
-  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md)
-  * [Streamer Counter](setup/setup/streamer-counter.md)
+* 
+  * [Web Dashboard: The Basics](setup/dashboard/dashboard.md)
+  * [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md)
+  * [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
+<!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 
 ***
 
+* [Streamer Counter](setup/setup/streamer-counter.md)
 * [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md)
 * [Verify and Sync](verify-and-sync.md)
 
