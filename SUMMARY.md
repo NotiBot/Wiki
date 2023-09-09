@@ -12,7 +12,7 @@
 
 * [What are the benefits of Premium?](setup/premium/premium-benefits.md)
 
-## Setup
+## LIVE STREAM NOTIFICATIONS
 
 * [Invite Noti](setup/invite-noti.md)
 * [Setup](setup/setup/README.md)
