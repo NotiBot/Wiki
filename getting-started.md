@@ -39,3 +39,6 @@ The dashboard is a website that allows you to fully manage Noti through a websit
 The dashboard is currently not optimized for mobile devices - if possible, use a PC or enable desktop mode on your mobile device.
 {% endhint %}
 
+## 4) Commands
+
+If you'd like to use [Discord's slash commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ), you can do so with Noti! 
