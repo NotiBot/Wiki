@@ -6,7 +6,7 @@ On this page you will see a complete list of Noti's commands that you can use on
 
 <!--<table><thead><tr><th width="222">Command name</th><th>Description</th></tr></thead><tbody><tr><td>/faq</td><td>List of common facts and questions about Noti</td></tr><tr><td>/help</td><td>List all Noti's commands</td></tr><tr><td>/invite</td><td>Will show a link to invite Noti to your server</td></tr><tr><td>/stats</td><td>The bot's current data stats</td></tr><tr><td>/vote</td><td>Vote rewards on Nofi</td></tr><tr><td>/support</td><td>Will show a link to Noti's support sevrer</td></tr><tr><td>/sync</td><td>Sync kick user roles on this server. Must have account linked*</td></tr><tr><td>/panel</td><td>Create a panel for user to click Verify and Sync</td></tr></tbody></table> -->
 
-<table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/birthday set</td><td>Set your birthday</td></tr><tr><td>/birthday setup</td><td>Setup the birthday system in your server</td></tr><tr><td>/faq</td><td>List of frequently asked questions about Noti</td></tr><tr><td>/help</td><td>List all Noti's commands</td></tr><tr><td>/invite</td><td>Will show a link to invite Noti to your server</td></tr><tr><td>/language</td><td>Change the language of the bot</td></tr><tr><td>/panel</td><td>Create a panel for user to click Verify and Sync</td></tr><tr><td>/setup service</td><td>Setup a service</td></tr><tr><td>/setup reset</td><td>Reset a service</td></tr><tr><td>/setup stats_channel</td><td>Set a channel for stats</td></tr><tr><td>/setup test</td><td>Test a service</td></tr><tr><td>/setup view</td><td>View desired service or guild configuration</td></tr><tr><td>/stats</td><td>The bot's current data stats</td></tr><tr><td>/support</td><td>Will show a link to Noti's support server</td></tr><tr><td>/sync</td><td>Sync Kick user roles on this server. Must have account linked*</td></tr><tr><td>/vote</td><td>Vote rewards on Noti</td></tr><tr><td>/welcome reset</td><td>Reset welcome messages</td></tr><tr><td>/welcome setup</td><td>Setup welcome messages</td></tr></tbody></table>
+<table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/birthday set</td><td>Set your birthday</td></tr><tr><td>/birthday setup</td><td>Setup the birthday system in your server ** </td></tr><tr><td>/faq</td><td>List of frequently asked questions about Noti</td></tr><tr><td>/help</td><td>List all Noti's commands</td></tr><tr><td>/invite</td><td>Will show a link to invite Noti to your server</td></tr><tr><td>/language</td><td>Change the language of the bot</td></tr><tr><td>/panel</td><td>Create a panel for user to click Verify and Sync</td></tr><tr><td>/setup service</td><td>Setup a service</td></tr><tr><td>/setup reset</td><td>Reset a service</td></tr><tr><td>/setup stats_channel</td><td>Set a channel for stats</td></tr><tr><td>/setup test</td><td>Test a service</td></tr><tr><td>/setup view</td><td>View desired service or guild configuration</td></tr><tr><td>/stats</td><td>The bot's current data stats</td></tr><tr><td>/support</td><td>Will show a link to Noti's support server</td></tr><tr><td>/sync</td><td>Sync Kick user roles on this server. Must have account linked*</td></tr><tr><td>/vote</td><td>Vote rewards on Noti</td></tr><tr><td>/welcome reset</td><td>Reset welcome messages</td></tr><tr><td>/welcome setup</td><td>Setup welcome messages</td></tr></tbody></table>
 
 ## The `/Birthday Set` Command & Its Arguments
 Visual example: *(required date format: DD-MM)* \
@@ -16,18 +16,18 @@ Visual example: *(required date format: DD-MM)* \
 Click to expand for full display of the <mark style="color:green;">/birthday set</mark>&#x20; command & its arguments
 </summary>
   
-  - **/birthday set** | Set your birthday *(FORMAT: `/birthday set date:DD-MM`)*
+  - **/birthday set** | Set your birthday - Date argument required *(FORMAT: `/birthday set date:DD-MM`)*
 </details>
 
 ## The `/Birthday Setup` Command & Its Arguments
 Visual example: *(required date format: DD-MM)* \
-![](../.gitbook/assets/commands_birthday_set.png)
+![](../.gitbook/assets/commands_birthday_setup.png)
 <details>
 <summary>
 Click to expand for full display of the <mark style="color:green;">/birthday setup</mark>&#x20; command & its arguments
 </summary>
   
-  - **/birthday set** | Set your birthday *(FORMAT: `/birthday set date:DD-MM`)*
+  - **/birthday setup** | Setup the birthday system in your server - Channel argument required *(FORMAT: `/birthday setup channel:CHANNELNAMEhere`)*
 </details>
 
 ## The `/Setup Service` Command & Its Applicable Variables
@@ -117,5 +117,6 @@ Click to expand for full display of the <mark style="color:green;">/setup stats_
 {% hint style="info" %}
 Note
 
-\* For this to work the user's discord and Kick account need to be linked.&#x20;
+\* For this to work the user's discord and Kick account need to be linked.&#x20; \
+\** Premium only command.&#x20;
 {% endhint %}
