@@ -50,7 +50,7 @@ Information and notes will be displayed in highlighted boxes such as this.
 {% hint style="success" %} **Success** \
 Success information will be displayed in highlighted boxes such as this.
 {% endhint %}
-{% hint style="warning" %} **Warnings** \
+{% hint style="warning" %} **Warning** \
 Warnings will be displayed in highlighted boxes such as this.
 {% endhint %}
 {% hint style="danger" %} **Danger** \
