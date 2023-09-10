@@ -27,7 +27,7 @@ Visual example: *(required date format: DD-MM)* \
 Click to expand for full display of the <mark style="color:green;">/birthday setup</mark>&#x20; command & its arguments
 </summary>
   
-  - **/birthday setup** | Setup the birthday system in your server - Channel argument required *(FORMAT: `/birthday setup channel:CHANNELNAMEhere`)*
+  - **/birthday setup** | Setup the birthday system in your server - Channel argument required *(FORMAT: `/birthday setup channel:CHANNEL_NAME_HERE`)*
 </details>
 
 ## The `/Setup Service` Command & Its Applicable Variables
