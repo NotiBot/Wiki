@@ -9,17 +9,17 @@ When it comes to Discord bots, Noti stands out from the crowd by giving you, the
 <!--First Step: Add Noti by inviting it to your Discord server. -->
   * In order to start your journey with Noti and gain access to the wide array of commands including the extensive list of features the bot has to offer, you must first invite Noti to your Discord server. Read up on the article titled "How to Invite Noti to Your Server First" to learn how to complete this necessary first step.
 
-## How To Setup Live Stream Notifications with Noti
+## ► How To Setup Live Stream Notifications with Noti
 
 Setting up your favorite streamer's live notifications has never been easier since Noti gives you TWO simple methods to do so by using either the web dashboard or Discord slash commands.
 
-► **METHOD ONE: [USING THE WEB DASHBOARD]** 
+**METHOD ONE: [USING THE WEB DASHBOARD]** 
  * Follow the steps listed in the guides in the order provided for the best results:
     * Web Dashboard: Basics & Logging In *(you must login to the dashboard in order to use it)*
     * Web Dashboard: Essential Setup for Kick Notifications *(this guide covers the basic or essential functions of setting up Kick live notifications)*
     * Web Dashboard: Advanced Setup for Kick Notifications *(optional extra customizations that can be added to Kick live notifications)*
 
-► **METHOD TWO: [USING SLASH COMMANDS]** 
+**METHOD TWO: [USING SLASH COMMANDS]** 
 
 <!--
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
@@ -37,7 +37,7 @@ Setting up your favorite streamer's live notifications has never been easier sin
 -->
 
 
-► **[Other Features]** \
+## ► Other Features
 [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md) \
 [Streamer Counter](streamer-counter.md) - Create some data channels for the streamer. \
 [Verify and Sync](../../verify-and-sync.md) - Synchronize your roles from Kick.com to discord.
