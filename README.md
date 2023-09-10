@@ -21,7 +21,7 @@ If you need any additional help with Noti, ask in our [Discord Server](https://d
 
 On the side bar (to the left) you will see a number of different pages. This includes a FAQ (Frequently Asked Questions), updates, commands list, Premium info and a list of all of Noti's commands and features.
 
-## Dashboard
+## Web Dashboard
 **IN PROGRESS** Each page under the side bar Dashboard header will explain each section of the basic settings for the Dashboard.
 
 ## Slash Commands
