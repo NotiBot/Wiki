@@ -29,6 +29,7 @@
   * [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
 ***
 ## 🟢AUTO LIVE ROLE
+ * [placeholder]
 ***
 
 ## 🔩OTHER FEATURES
