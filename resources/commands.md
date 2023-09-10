@@ -16,6 +16,7 @@ Click to expand for full display of the <mark style="color:green;">/birthday set
 </summary>
 
   - **/birthday set** | Set your birthday *(FORMAT: `/birthday set date:DD-MM`)*
+</details>
 
 ## The `/Setup Service` Command & Its Applicable Variables
 
