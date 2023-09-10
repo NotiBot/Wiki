@@ -3,6 +3,7 @@
 ## WELCOME
 
 * [🏠Home](README.md)
+* [☕Getting Started](getting-started.md)
 * [⚙️Commands](resources/commands.md)
 * [❔FAQ](resources/faq.md)
 * [🔥What's New?](whats-new.md)
