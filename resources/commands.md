@@ -76,6 +76,8 @@ Click to expand for full display of the <mark style="color:green;">/panel synchr
 </details>
 
 ## Using the `/Setup Service` Command & Its Applicable Variables
+Visual example: *(using only the required arguments)* \
+![](../.gitbook/assets/commands_setup_service_basic.png)
 <details>
 <summary>
 Click to expand for full display of the <mark style="color:green;">/setup service</mark>&#x20; command variables & descriptions for each
