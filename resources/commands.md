@@ -15,6 +15,7 @@ Visual example: *(required date format: DD-MM)* \
 <summary>
 Click to expand for full display of the <mark style="color:green;">/birthday set</mark>&#x20; command & its arguments
 </summary>
+  
   - **/birthday set** | Set your birthday *(FORMAT: `/birthday set date:DD-MM`)*
 </details>
 
