@@ -26,7 +26,7 @@
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 ***
 * [SETUP USING SLASH COMMANDS]
-  * [Slash Commmands: Essential Setup for Kick Notifications](/setup/SlashCommands/slash-commands-setup-for-kick.md)
+  * [Slash Commands: Essential Setup for Kick Notifications](/setup/SlashCommands/slash-commands-setup-for-kick.md)
   * [Slash Commands: Advanced Setup for Kick Notifications](setup/SlashCommands/slash-commands-advanced-setup-for-kick.md)
 ***
 ## 🟢AUTO LIVE ROLE
