@@ -41,6 +41,30 @@ Click to expand for full display of the <mark style="color:green;">/language</ma
   - **/language** | Change the language of the bot - language & where arguments required *(FORMAT: `/language language:CHOOSE_FROM_LIST where:For you/For Server`)*
 </details>
 
+## The `/Panel Leaderboard` Command & Its Arguments
+<!--Visual example: \
+![](../.gitbook/assets/commands_language.png)-->
+<details>
+<summary>
+Click to expand for full display of the <mark style="color:green;">/panel leaderboard</mark>&#x20; command & its arguments
+</summary>
+<!--  
+  - **/language** | Change the language of the bot - language & where arguments required *(FORMAT: `/language language:CHOOSE_FROM_LIST where:For you/For Server`)*
+-->
+</details>
+
+## The `/Panel Synchronize` Command & Its Arguments
+<!--Visual example: \
+![](../.gitbook/assets/commands_language.png)-->
+<details>
+<summary>
+Click to expand for full display of the <mark style="color:green;">/panel synchronize</mark>&#x20; command & its arguments
+</summary>
+<!--  
+  - **/language** | Change the language of the bot - language & where arguments required *(FORMAT: `/language language:CHOOSE_FROM_LIST where:For you/For Server`)*
+-->
+</details>
+
 ## The `/Setup Service` Command & Its Applicable Variables
 <details>
 <summary>
