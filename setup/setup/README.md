@@ -44,9 +44,14 @@ Setting up your favorite streamer's live notifications has never been easier sin
 -->
 
 ## ► Other Features
+ * Setup Clips to Discord with Noti - a guide that details how to setup sending clips to your Discord server with a partnered third party Kickbot service.
+ * Streamer Counter - a guide to setting up data channels in your Discord server that show follower count & live/offline status  of a given streamer.
+ * Verify and Sync - a guide on how to synchronize your roles from Kick.com to your Discord server.
+<!--
 [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md) \
 [Streamer Counter](streamer-counter.md) - Create some data channels for the streamer. \
-[Verify and Sync](../../verify-and-sync.md) - Synchronize your roles from Kick.com to discord.
+[Verify and Sync](../../verify-and-sync.md) - Synchronize your roles from Kick.com to Discord.
+-->
 
 {% hint style="info" %}
 **Support**
