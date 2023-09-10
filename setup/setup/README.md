@@ -1,6 +1,6 @@
 # INDEX: LIVE STREAM NOTIFICATIONS SETUP
 
-This index page lists the options Noti offers which are available at your disposal and how to use the methods of your choice to set up a streamer's live notifications as well as the streamer's data channels. You can also learn how to synchronize your roles from Kick.com to discord.
+This index page lists the options Noti offers which are available at your disposal and how to use the methods of your choice to set up a streamer's live notifications as well as the streamer's data channels. You can also learn how to synchronize your roles from Kick.com to Discord.
 
 When it comes to Discord bots, Noti stands out from the crowd by giving you, the end user, the most flexibility and as many great options as possible! 
 
