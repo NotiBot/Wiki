@@ -8,7 +8,7 @@ On this page you will see a complete list of Noti's commands that you can use on
 
 <table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/birthday set</td><td>Set your birthday</td></tr><tr><td>/birthday setup</td><td>Setup the birthday system in your server ** </td></tr><tr><td>/faq</td><td>List of frequently asked questions about Noti</td></tr><tr><td>/help</td><td>List all Noti's commands</td></tr><tr><td>/invite</td><td>Will show a link to invite Noti to your server</td></tr><tr><td>/language</td><td>Change the language of the bot</td></tr><tr><td>/panel leaderboard</td><td>Send leaderboard panel</td></tr><tr><td>/panel synchronize</td><td>Send synchronization panel for user</td></tr><tr><td>/setup service</td><td>Setup a service</td></tr><tr><td>/setup reset</td><td>Reset a service</td></tr><tr><td>/setup stats_channel</td><td>Set a channel for stats</td></tr><tr><td>/setup test</td><td>Test a service</td></tr><tr><td>/setup view</td><td>View desired service or guild configuration</td></tr><tr><td>/stats</td><td>The bot's current data stats</td></tr><tr><td>/support</td><td>Will show a link to Noti's support server</td></tr><tr><td>/sync</td><td>Sync Kick user roles on this server. Must have account linked*</td></tr><tr><td>/vote</td><td>Vote rewards on Noti</td></tr><tr><td>/welcome reset</td><td>Reset welcome messages</td></tr><tr><td>/welcome setup</td><td>Setup welcome messages</td></tr></tbody></table>
 
-## The `/Birthday Set` Command & Its Arguments
+## Using the `/Birthday Set` Command & Its Arguments
 Visual example: *(required date format: DD-MM)* \
 ![](../.gitbook/assets/commands_birthday_set.png)
 <details>
@@ -19,7 +19,7 @@ Click to expand for full display of the <mark style="color:green;">/birthday set
   - **/birthday set** | Set your birthday - Date argument required *(FORMAT: `/birthday set date:DD-MM`)*
 </details>
 
-## The `/Birthday Setup` Command & Its Arguments
+## Using the `/Birthday Setup` Command & Its Arguments
 Visual example: *(required date format: DD-MM)* \
 ![](../.gitbook/assets/commands_birthday_setup.png)
 <details>
@@ -30,7 +30,7 @@ Click to expand for full display of the <mark style="color:green;">/birthday set
   - **/birthday setup** | Setup the birthday system in your server - Channel argument required *(FORMAT: `/birthday setup channel:CHANNEL_NAME_HERE`)*
 </details>
 
-## The `/Language` Command & Its Arguments
+## Using the `/Language` Command & Its Arguments
 Visual example: \
 ![](../.gitbook/assets/commands_language.png)
 <details>
@@ -41,7 +41,7 @@ Click to expand for full display of the <mark style="color:green;">/language</ma
   - **/language** | Change the language of the bot - language & where arguments required *(FORMAT: `/language language:CHOOSE_FROM_LIST where:For you/For Server`)*
 </details>
 
-## The `/Panel Leaderboard` Command & Its Arguments
+## Using the `/Panel Leaderboard` Command & Its Arguments
 <!--Visual example: \
 ![](../.gitbook/assets/commands_language.png)-->
 <details>
@@ -53,7 +53,7 @@ Click to expand for full display of the <mark style="color:green;">/panel leader
 -->
 </details>
 
-## The `/Panel Synchronize` Command & Its Arguments
+## Using the `/Panel Synchronize` Command & Its Arguments
 <!--Visual example: \
 ![](../.gitbook/assets/commands_language.png)-->
 <details>
@@ -65,7 +65,7 @@ Click to expand for full display of the <mark style="color:green;">/panel synchr
 -->
 </details>
 
-## The `/Setup Service` Command & Its Applicable Variables
+## Using the `/Setup Service` Command & Its Applicable Variables
 <details>
 <summary>
 Click to expand for full display of the <mark style="color:green;">/setup service</mark>&#x20; command variables & descriptions for each
@@ -95,7 +95,7 @@ Click to expand for full display of the <mark style="color:green;">/setup servic
 <table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/setup service</td><td>Setup the notification service </td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> platform (required)</td><td>The platform the streamer streams on</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> streamer (required)</td><td>The streamer's platform username that you want notifications for</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> channel (Optional)</td><td>The channel the notifications will be sent to</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> toggle (Sub Optional)</td><td>Enable or disable the subscribe button </td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> meantionedrole (Sub Optional)</td><td>The role here will be pinged</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> subscriberrole (Optional)</td><td>The role will be given to users who have subscribed to the streamer*</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> moderatorrole (Optional)</td><td>The role will be given to users who is a moderator on the streamers stream*</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> liverole (Optional)</td><td>The role will be given to users who are the streamer or a part of the stream*</td></tr><tr><td><p></p><p><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> whitelistadd (Sub Optional)</p></td><td>Will whitelist a user</td></tr><tr><td><p></p><p><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> whitelistremove (Sub Optional)</p></td><td>Will remove whitelist from a user </td></tr></tbody></table>
 -->
 
-## The `/Setup Reset` Command & Its Applicable Variables
+## Using the `/Setup Reset` Command & Its Applicable Variables
 
 Visual Example: *(this example uses only the everything variable set to true to reset the notification entirely!)*  \
 ![](../.gitbook/assets/commands_setup_reset_everything.png)
@@ -127,7 +127,7 @@ Click to expand for full display of the <mark style="color:green;">/setup reset<
 <table><thead><tr><th width="222">Command Name</th><th>Description</th></tr></thead><tbody><tr><td>/setup reset</td><td>Reset the notification service for a streamer</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">platform (required)</td><td>The platform the streamer streams on</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> streamer (required)</td><td>The streamer's platform username you wish to reset notifications for</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line"> everything (variables: True/False) (optional)</td><td>Reset everything for the desired streamer?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">channel (optional)</td><td>Reset the desired channel to send live notifications to</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">clip_channel (optional)</td><td>Reset the desired channel to send Kick.com clip notifications?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">ping_role (optional)</td><td>Reset the desired role to ping when a streamer goes live?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">subscriber_role (optional)</td><td>Reset the defined role for subscriber sync between Kick & Discord?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">moderator_role (optional)</td><td>Reset the defined role for moderator sync between Kick & Discord?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">verified_by_kick_role (optional)</td><td>Reset the defined role for verified by Kick sync between Kick & Discord?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">founder_role (optional)</td><td>Reset the defined role for founder sync between Kick & Discord?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">vip_role (optional)</td><td>Reset the defined role for vip sync between Kick & Discord?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">og_role (optional)</td><td>Reset the defined role for og sync between Kick & Discord?</td></tr><tr><td><img src="https://cdn-icons-png.flaticon.com/512/2267/2267911.png" alt="" data-size="line">live_role (optional)</td><td>Reset the defined role that is assigned/removed based on streammer's live status?</td></tr></tbody></table>
 -->
 
-## The `/Setup Stats_Channel` Command & Its Applicable Variables
+## Using  the `/Setup Stats_Channel` Command & Its Applicable Variables
 
 Visual Example: \
 ![](../.gitbook/assets/commands_setup_stats_channel.png)
