@@ -29,5 +29,13 @@ The next thing to do after inviting Noti is to check if Noti has sufficient perm
   2. Move the role above any other role which should be managed by Noti and a user could have while interacting with the bot.
      * If you are not sure which roles Noti will manage, it is recommended to drag this role to the top of the list.
     
-## Getting to know the dashboard
+## 3) Getting to know the dashboard
+
+The dashboard is a website that allows you to fully manage Noti through a website. All features can be managed via this interface, while not all features can be set up using commands due to their complexity.
+
+> Open [https://notibot.app/dashboard](https://notibot.app/dashboard) in your web browser and log in with your Discord account. Choose your server and start exploring all features to ensure you are comfortable with it.
+
+{% hint style="info" %}
+The dashboard is currently not optimized for mobile devices - if possible, use a PC or enable desktop mode on your mobile device.
+{% endhint %}
 
