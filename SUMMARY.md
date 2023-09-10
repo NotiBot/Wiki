@@ -20,8 +20,8 @@
 ***
 * [SETUP USING WEB DASHBOARD]
   * [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md)
-  * [Web Dashboard: Essential Setup for Kick Notifications](dashboard/dashboard-setup-for-kick.md)
-  * [Web Dashboard: Advanced Setup for Kick Notifications](dashboard/dashboard-advanced-setup-for-kick.md)
+  * [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md)
+  * [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 ***
 * [SETUP USING SLASH COMMANDS]
