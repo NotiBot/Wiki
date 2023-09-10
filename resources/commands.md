@@ -60,15 +60,19 @@ Click to expand for full display of the <mark style="color:green;">/panel leader
 </details>
 
 ## Using the `/Panel Synchronize` Command & Its Arguments
-<!--Visual example: \
-![](../.gitbook/assets/commands_language.png)-->
+Visual example: \
+![](../.gitbook/assets/commands_panel_synchronize.png)
 <details>
 <summary>
 Click to expand for full display of the <mark style="color:green;">/panel synchronize</mark>&#x20; command & its arguments
 </summary>
-<!--  
-  - **/language** | Change the language of the bot - language & where arguments required *(FORMAT: `/language language:CHOOSE_FROM_LIST where:For you/For Server`)*
--->
+
+  - **/panel synchronize** | Send  synchronization panel for the defined user
+      - Required Argument:
+      - Social: The social media platform to synchronize
+      - Optional Argument:
+      - Channel: The Discord channel to send the panel to
+
 </details>
 
 ## Using the `/Setup Service` Command & Its Applicable Variables
