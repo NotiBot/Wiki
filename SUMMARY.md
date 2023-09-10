@@ -28,6 +28,9 @@
   * [Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md)
   * [Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
 ***
+## 🟢AUTO LIVE ROLE
+***
+
 ## 🔩OTHER FEATURES
 * [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md)
 * [Streamer Counter](setup/setup/streamer-counter.md)
