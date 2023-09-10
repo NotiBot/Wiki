@@ -10,7 +10,7 @@
 
 ## NOTI PREMIUM
 
-* [🏆Benefits of Premium](setup/premium/premium-benefits.md)
+* [Benefits of Premium](setup/premium/premium-benefits.md)
 
 ## LIVE STREAM NOTIFICATIONS SETUP
 
