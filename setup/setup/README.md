@@ -18,12 +18,15 @@ Once Noti has been added to your Discord server, you must ensure that Noti's rol
 Setting up your favorite streamer's live notifications has never been easier since Noti gives you TWO simple methods to do so by using either the web dashboard or Discord slash commands.
 
 **METHOD ONE: [USING THE WEB DASHBOARD]** 
- * Follow the steps listed in the guides in the order provided for the best results:
+ * Follow the listed steps in the web dashboard guides in the order provided for the best results:
     * Web Dashboard: Basics & Logging In *(you must login to the dashboard in order to use it)*
     * Web Dashboard: Essential Setup for Kick Notifications *(this guide covers the basic or essential functions of setting up Kick live notifications)*
     * Web Dashboard: Advanced Setup for Kick Notifications *(optional extra customizations that can be added to Kick live notifications)*
 
 **METHOD TWO: [USING SLASH COMMANDS]** 
+ * Follow the listed steps in the slash commands guides in the order provided for the best results:
+    * Slash Commands: Essential Setup for Kick Notifications *(this guide covers the basic or essential functions of setting up Kick live notifications)*
+    * Slash Commands: Advanced Setup for Kick Notifications *(optional extra customizations that can be added to Kick live notifications)*
 
 <!--
 [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
@@ -39,7 +42,6 @@ Setting up your favorite streamer's live notifications has never been easier sin
 [Streamer Setup (using slash commands) ](streamer.md)- Setup a streamer using Noti's slash command interface. \
 [Streamer Setup (using web dashboard) ](streamer-setup-web-dashboard.md)- Setup a streamer using Noti's web dashboard interface. \
 -->
-
 
 ## ► Other Features
 [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md) \
