@@ -19,8 +19,18 @@ Click to expand for full display of the <mark style="color:green;">/birthday set
   - **/birthday set** | Set your birthday *(FORMAT: `/birthday set date:DD-MM`)*
 </details>
 
-## The `/Setup Service` Command & Its Applicable Variables
+## The `/Birthday Setup` Command & Its Arguments
+Visual example: *(required date format: DD-MM)* \
+![](../.gitbook/assets/commands_birthday_set.png)
+<details>
+<summary>
+Click to expand for full display of the <mark style="color:green;">/birthday setup</mark>&#x20; command & its arguments
+</summary>
+  
+  - **/birthday set** | Set your birthday *(FORMAT: `/birthday set date:DD-MM`)*
+</details>
 
+## The `/Setup Service` Command & Its Applicable Variables
 <details>
 <summary>
 Click to expand for full display of the <mark style="color:green;">/setup service</mark>&#x20; command variables & descriptions for each
