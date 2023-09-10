@@ -32,7 +32,7 @@ Click to expand for full display of the <mark style="color:green;">/birthday set
 
 ## The `/Language` Command & Its Arguments
 Visual example: \
-![](../.gitbook/assets/commands_birthday_set.png)
+![](../.gitbook/assets/commands_language.png)
 <details>
 <summary>
 Click to expand for full display of the <mark style="color:green;">/language</mark>&#x20; command & its arguments
