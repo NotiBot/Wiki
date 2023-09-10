@@ -48,9 +48,14 @@ Click to expand for full display of the <mark style="color:green;">/language</ma
 <summary>
 Click to expand for full display of the <mark style="color:green;">/panel leaderboard</mark>&#x20; command & its arguments
 </summary>
-<!--  
-  - **/language** | Change the language of the bot - language & where arguments required *(FORMAT: `/language language:CHOOSE_FROM_LIST where:For you/For Server`)*
--->
+
+  - **/panel leaderboard** | Send leaderboard panel
+      - Required arguments:
+      - Social: The platform the leaderboard will be from
+      - Username: The streamer you wish to show the leaderboard for
+      - Channel: What Discord channel to send the leaderboard to
+      - Type: Type of leaderboard to display (available options: weekly, monthly, overall, all)
+
 </details>
 
 ## Using the `/Panel Synchronize` Command & Its Arguments
