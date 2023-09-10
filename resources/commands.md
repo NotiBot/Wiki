@@ -30,6 +30,17 @@ Click to expand for full display of the <mark style="color:green;">/birthday set
   - **/birthday setup** | Setup the birthday system in your server - Channel argument required *(FORMAT: `/birthday setup channel:CHANNEL_NAME_HERE`)*
 </details>
 
+## The `/Language` Command & Its Arguments
+Visual example: \
+![](../.gitbook/assets/commands_birthday_set.png)
+<details>
+<summary>
+Click to expand for full display of the <mark style="color:green;">/language</mark>&#x20; command & its arguments
+</summary>
+  
+  - **/language** | Change the language of the bot - language & where arguments required *(FORMAT: `/language language:CHOOSE_FROM_LIST where:For you/For Server`)*
+</details>
+
 ## The `/Setup Service` Command & Its Applicable Variables
 <details>
 <summary>
