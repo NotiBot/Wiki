@@ -54,6 +54,7 @@ Click to expand for full display of the <mark style="color:green;">/panel leader
       - Social: The platform the leaderboard will be from
       - Username: The streamer you wish to show the leaderboard for
       - Channel: What Discord channel to send the leaderboard to
+      - Optional argument:
       - Type: Type of leaderboard to display (available options: weekly, monthly, overall, all)
 
 </details>
