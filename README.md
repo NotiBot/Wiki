@@ -10,6 +10,20 @@ This documentation provides information on each command/field, including the des
 \
 If you need any additional help with Noti, ask in our [Discord Server](https://discord.com/invite/xq6F6ZkUte)!
 
+## Basic FREE Features
+
+Anyone can experience Noti's Free Tier at anytime: Maximize 30 connections, sync Discord roles across 4 Kick roles, control live roles and stay updated with Kick.com Live Notifications - all for free. \
+
+What's included in the free forever features:
+✔️ Connections: 30
+✔️ Syncable Role Types: 4
+✔️ Live Role
+✔️ Test Notifications
+✔️ Stat Counters
+✔️ Kick Subscription Leaderboard
+✔️ Add in Kick Live Notifications
+
+
 ## Useful Links
 
 [Noti Dashboard](https://notibot.app) \
