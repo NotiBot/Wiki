@@ -36,7 +36,7 @@
 ## 🔩OTHER FEATURES
 * [Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md)
 * [Stats Channel Counters](setup/OtherFeatures/stats_channel.md)
-* [Verify and Sync](verify-and-sync.md)
+* [Verify and Sync](setup/OtherFeatures/verify-and-sync.md)
 
 ## 🛡️Resources
 
