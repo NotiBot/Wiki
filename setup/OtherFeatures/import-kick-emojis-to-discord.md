@@ -1,4 +1,4 @@
-# Import your Kick subscriber emotes to your Discord server **
+# Import your Kick subscriber emotes to your Discord server
 
 With Noti, we offer you the ultimate convenience and ability to sync your Kick emotes to your Discord server and it's never been easier than with our simple, one click solution right from the Noti web dashboard!
 
@@ -20,4 +20,4 @@ To get started, it's as easy as following these simple steps:
 
 Congratulations, YOU ARE DONE!
 
-** *(premium only feature)*
+** *( this is a premium only feature)*
