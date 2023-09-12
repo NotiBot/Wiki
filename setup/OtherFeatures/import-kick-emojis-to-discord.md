@@ -12,7 +12,7 @@ To get started, it's as easy as following these simple steps:
 6. Press the `Import Emojis` button next to the field that says Import Kick Emotes to Discord.
 7. You should see a screen similar to the following:
 
-![](../.gitbook/assets/emojis-import2.png)
+![](../../.gitbook/assets/emojis-import2.png)
 
 8. *(optional)* Toggling the option Enable Subscriber Emote Mode Only to ON will require the subscription set role to use the emotes you import.
 9. Select any of the Animated and Static emotes you wish to sync to your Discord server.
