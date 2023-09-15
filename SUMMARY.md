@@ -34,6 +34,7 @@
 ***
 
 ## 🔩OTHER FEATURES
+* [Import your Kick subscriber emotes to your Discord server](/setup/OtherFeatures/import-kick-emojis-to-discord.md)
 * [Setup Clips to Discord with Noti](setup/OtherFeatures/setup-clips-to-discord-with-noti.md)
 * [Stats Channel Counters](setup/OtherFeatures/stats_channel.md)
 * [Verify and Sync](setup/OtherFeatures/verify-and-sync.md)
