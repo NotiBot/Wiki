@@ -27,6 +27,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 **Manage** is for servers Noti is already joined to
 {% endhint %}
 
+### How to ADD a Server
 6. Click the **Add** button directly below the server logo you wish to add Noti to. 
 7. Follow the on screen prompts to add Noti to the server(s) of your choice. 
 {% hint style="warning" %} **Warning** \
