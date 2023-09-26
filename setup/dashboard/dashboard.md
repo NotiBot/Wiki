@@ -12,12 +12,12 @@ This guide will lead you through the step-by-step process of initializing Noti's
 ![](../../.gitbook/assets/dashboard_user_logged_in.png) \
 
 ## For User Settings
-4. Connect your socials to synchronize roles on your server and manage your profile with the `Configure` button, which gives the following options to configure:
-    • **Birthday**: Set up your birthday date. Please ensure you are entering the correct date as this cannot be changed later. Format: DD/MM (e.g. 20/12)
-    • **Global Language**: Set your global language for Noti.
-    • **Kick**: Connect/disconnect your Kick.com account
-    • **Twitch**: Connect/disconnect your Twitch.tv account
-    • **Twitter**: Connect/disconnect your Twitter account    
+4. Connect your socials to synchronize roles on your server and manage your profile with the `Configure` button, which gives the following options to configure: \
+    • **Birthday**: Set up your birthday date. Please ensure you are entering the correct date as this cannot be changed later. Format: DD/MM (e.g. 20/12) \
+    • **Global Language**: Set your global language for Noti. \
+    • **Kick**: Connect/disconnect your Kick.com account \
+    • **Twitch**: Connect/disconnect your Twitch.tv account \
+    • **Twitter**: Connect/disconnect your Twitter account \
 
 ## Managing Your Discord Server
 
