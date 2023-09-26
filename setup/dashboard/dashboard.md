@@ -21,7 +21,8 @@ This guide will lead you through the step-by-step process of initializing Noti's
 
 ## Managing Your Discord Server
 
-5. Once you have logged in with Discord, you will be presented with a list of servers that you have **Manage Server** permission for.
+5. Provided you have previously completed steps 1 - 3 from Web Dashboard Login section, you will be presented with a list of servers that you have **Manage Server** permission for.
+    • *Manage is for servers Noti is already joined to; Add is for servers you wish to add Noti to*
 6. Click the **Add** button directly below the server logo you wish to add Noti to.
 7. Follow the on screen prompts to add Noti to the server(s) of your choice. \
     • *Changing the default permissions that Noti is granted is not recommended as it may affect its intended performance or functionality.*
