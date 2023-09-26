@@ -9,7 +9,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 2. You will be prompted to sign in with your Discord account if you have not already. \
     • *Signing in with Discord allows Noti to provide you with a list of servers to select from that you have the Manage Server permission for.*
 3. Once you have successfully logged in with your Discord, you should see the following screen: \
-![](../../.gitbook/assets/dashboard_user_logged_in.png) \
+![](../../.gitbook/assets/dashboard_user_logged_in.png) 
 
 ## For User Settings
 4. Connect your socials to synchronize roles on your server and manage your profile with the `Configure` button, which gives the following options to configure: \
@@ -17,7 +17,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
     • **Global Language**: Set your global language for Noti. \
     • **Kick**: Connect/disconnect your Kick.com account \
     • **Twitch**: Connect/disconnect your Twitch.tv account \
-    • **Twitter**: Connect/disconnect your Twitter account \
+    • **Twitter**: Connect/disconnect your Twitter account
 
 ## Managing Your Discord Server
 
