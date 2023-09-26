@@ -34,7 +34,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 {% endhint %}
 
 {% hint style="success" %} **Success!** \
-Once you have successfully added Noti to your server, you may return to the [Noti Dashboard](https://notibot.app/dashboard) where you will now see a **Manage** button in place of the previous Add Button.
+Once you have successfully added Noti to your server, you may return to the [Noti Dashboard](https://notibot.app/dashboard) where you will now see a **Manage** button in place of the previous Add button.
 {% endhint %}
 <!--9. Once you have successfully added Noti to your server, you will need to return to the [Noti Dashboard](https://notibot.app/dashboard) where you will now see a **Manage** button in place of the previous Add Button.   -->
 
