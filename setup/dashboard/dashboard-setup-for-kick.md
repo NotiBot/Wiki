@@ -26,4 +26,8 @@ You will need to complete all of the previously listed steps if you haven't alre
 4. Once you've added the streamer, you can further configure the newly added streamer with basics such as adding the Role to mention when they go live as well as the Channel to post this streamer's notifications to.
 5. Congratulations! You can now press the `Save` button and your basic notification setup is now complete!
 
+{% hint style="success" %} **Save your progress!** \
+Once you're happy with your changes, don't forget to save your work!
+{% endhint %}
+
 For additional or advanced setup continuation, please see our next help article [Noti Dashboard Advanced Setup For Kick](dashboard-advanced-setup-for-kick.md).
