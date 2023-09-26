@@ -3,7 +3,7 @@
 In order to receive live notifications in your Discord server, you have two options to choose from for setting up Noti: the slash commands or the web dashboard.
 
 ## Web Dashboard Login
-This guide will lead you through the step-by-step process of initializing Noti's dashboard web interface.
+This guide will lead you through the step-by-step process of initializing Noti's dashboard web interface:
 
 1. Head over to [https://notibot.app/dashboard](https://notibot.app/dashboard)
 2. You will be prompted to sign in with your Discord account if you have not already. \
