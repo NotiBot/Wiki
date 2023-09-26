@@ -5,7 +5,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 
 ## Web Dashboard Login
 
-1. Head over to (https://notibot.app/dashboard)
+1. Head over to [https://notibot.app/dashboard](https://notibot.app/dashboard)
 2. You will be prompted to sign in with your Discord account if you have not already. \
     • Please note: *Signing in with Discord allows Noti to provide you with a list of servers to select from that you have the Manage Server permission for.*
 3. Once you have logged in with Discord, you will be presented with a list of servers that you have **Manage Server** permission for.
