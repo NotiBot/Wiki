@@ -30,4 +30,4 @@ You will need to complete all of the previously listed steps if you haven't alre
 Once you're happy with your changes, don't forget to save your work!
 {% endhint %}
 
-For additional or advanced setup continuation, please see our next help article [Noti Dashboard Advanced Setup For Kick](dashboard-advanced-setup-for-kick.md).
+For additional or advanced setup configuration information, please see our next help article [Noti Dashboard Advanced Setup For Kick](dashboard-advanced-setup-for-kick.md).
