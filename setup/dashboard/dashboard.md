@@ -9,7 +9,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 2. You will be prompted to sign in with your Discord account if you have not already. \
     • *Signing in with Discord allows Noti to provide you with a list of servers to select from that you have the Manage Server permission for.*
 3. Once you have successfully logged in with your Discord, you should see the following screen: \
-![](../../.gitbook/assets/dashboard_server_list.png) \
+![](../../.gitbook/assets/dashboard_user_logged_in.png) \
 
 ## Managing Your Discord Server
 
