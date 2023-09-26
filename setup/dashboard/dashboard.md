@@ -32,8 +32,11 @@ This guide will lead you through the step-by-step process of initializing Noti's
 {% hint style="warning" %} **Warning** \
 *Changing the default permissions that Noti is granted is not recommended as it may affect its intended performance or functionality.*
 {% endhint %}
-    
-9. Once you have successfully added Noti to your server, you will need to return to the [Noti Dashboard](https://notibot.app/dashboard) where you will now see a **Manage** button in place of the previous Add Button.   
+
+{% hint style="success!" %} **Success** \
+Once you have successfully added Noti to your server, you will need to return to the [Noti Dashboard](https://notibot.app/dashboard) where you will now see a **Manage** button in place of the previous Add Button.
+{% endhint %}
+<!--9. Once you have successfully added Noti to your server, you will need to return to the [Noti Dashboard](https://notibot.app/dashboard) where you will now see a **Manage** button in place of the previous Add Button.   -->
 
 If you have successfully completed the steps listed above, your dashboard should look similar to the following: \
 ![](../../.gitbook/assets/dashboard_server_list.png)
