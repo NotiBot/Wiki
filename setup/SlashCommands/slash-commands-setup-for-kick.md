@@ -10,7 +10,7 @@ Alternatively, you can use the web dashboard to setup streamer notifications, wh
 **Required steps and fields when uing the /SETUP SERVICE command**
 {% endhint %}
 
-1. Invite [NotiBot](https://notibot.app/invite) if you haven't already done so.
+1. Invite [Noti](https://notibot.app/invite) if you haven't already done so.
 
 Now you must configure the bot to send alerts to a desired channel.
 
@@ -31,8 +31,9 @@ Your command should look something like this:
 
 <figure><img src="../../.gitbook/assets/Ex of notifi" alt=""><figcaption></figcaption></figure>
 
-Congratulations! You have successfully setup your first live notification using NotiBot! \
-Make sure to check out our very next article that covers the advanced fields available to use with this command for further customization.
+Congratulations! You have successfully set up your first live notification using Noti! \
+
+Make sure to check out our very next article that covers the advanced fields available for use with this command for more/advanced customization.
 
 {% hint style="info" %}
 **Support**
