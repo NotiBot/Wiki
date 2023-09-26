@@ -7,7 +7,7 @@ Alternatively, you can use the web dashboard to setup streamer notifications, wh
 ## Simple Setup (required)
 
 {% hint style="info" %}
-**Required steps and fields when uing the /SETUP SERVICE command**
+**The following steps and fields are required when using command /setup service**
 {% endhint %}
 
 1. Invite [Noti](https://notibot.app/invite) if you haven't already done so.
