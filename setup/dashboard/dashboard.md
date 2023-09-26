@@ -21,9 +21,9 @@ This guide will lead you through the step-by-step process of initializing Noti's
 
 ## Selecting a Discord Server To Manage
 
-5. Provided you have previously completed steps 1 - 3 from the Web Dashboard Login section above, you will be presented with a list of servers that you have **Manage Server** permission for. \
-{% hint style="info" %} **Information** \
-**Add** is for servers you wish to add Noti to* \
+5. Provided you have previously completed steps 1 - 3 from the Web Dashboard Login section above, you will be presented with a list of servers that you have **Manage Server** permission for. 
+{% hint style="info" %} **Should You Add or Manage a Server?** \
+**Add** is for servers you wish to add Noti to \
 **Manage** is for servers Noti is already joined to
 {% endhint %}
 
