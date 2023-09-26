@@ -42,5 +42,5 @@ If you have successfully completed the steps listed above, your dashboard should
 ![](../../.gitbook/assets/dashboard_server_list.png)
 
 ### How to MANAGE a Server
-[Basic/Essential Setup for Kick **Noti**fications](setup/dashboard/dashboard-setup-for-kick.md) \
-[Advanced Setup for Kick **Noti**fications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
+[Basic/Essential Setup for Kick **Noti**fications](../../setup/dashboard/dashboard-setup-for-kick.md) \
+[Advanced Setup for Kick **Noti**fications](../../setup/dashboard/dashboard-advanced-setup-for-kick.md)
