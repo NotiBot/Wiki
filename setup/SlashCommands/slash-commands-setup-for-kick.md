@@ -31,7 +31,7 @@ Your command should look something like this:
 
 <figure><img src="../../.gitbook/assets/Ex of notifi" alt=""><figcaption></figcaption></figure>
 
-Congratulations! You have successfully set up your first live notification using Noti! \
+Congratulations! You have successfully set up your first live notification using Noti!
 
 Make sure to check out our very next article that covers the advanced fields available for use with this command for more/advanced customization.
 
