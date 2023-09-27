@@ -16,9 +16,11 @@ This guide will lead you through the step-by-step process of initializing Noti's
 <summary>
 Click to expand for how to access your user settings!
 </summary>
-✔️ Connect your socials to synchronize roles on your server and manage your profile with the **Configure** button, which gives the following configurable options:
-	* Test
-	* Test
+✔️ Connect your socials to synchronize roles on your server and manage your profile with the Configure button, which gives the following configurable options:
+	1. Birthday: Set up your birthday date. Please ensure you are entering the correct date as this cannot be changed later. Format: DD/MM (e.g. 20/12)
+	2. Global Language: Set your global language for Noti.
+ 	3. 
+ 
 	
  <!--
 	- **Birthday**: Set up your birthday date. Please ensure you are entering the correct date as this cannot be changed later. Format: DD/MM (e.g. 20/12) \
