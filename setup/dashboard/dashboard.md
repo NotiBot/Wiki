@@ -27,10 +27,10 @@ This guide will lead you through the step-by-step process of initializing Noti's
 **Manage** is for servers Noti is already joined to
 {% endhint %}
 
-### How to Configure Global Settings For Your Server
+### 💡 How to Configure Global Settings For Your Server
 <details>
 <summary>
-*OPTIONAL*: Click to expand for full instructions of **Configuring Global Server Settings**
+OPTIONAL: Click to expand for full instructions of Configuring Global Server Settings
 </summary>
 
 1. Select a server you wish to configure via the `Manage` button 
@@ -47,10 +47,10 @@ This guide will lead you through the step-by-step process of initializing Noti's
 	• Select a streamer & channel to send the streamer's leaderboard panel to.
 </details>
 
-### How to ADD a Server
+### 💡 How to ADD a Server
 <details>
 <summary>
-*OPTIONAL*: Click to expand for full instructions of **How To Add A Server**
+OPTIONAL: Click to expand for full instructions of How To Add A Server
 </summary>
 	
 6. Click the **Add** button directly below the server logo you wish to add Noti to. 
@@ -67,6 +67,6 @@ If you have successfully completed the steps listed above, your dashboard should
 ![](../../.gitbook/assets/dashboard_server_list.png)
 </details>
 
-### How to MANAGE a Server
+### 💡 How to MANAGE a Server
 [Basic/Essential Setup for Kick **Noti**fications](setup/dashboard/dashboard-setup-for-kick.md) \
 [Advanced Setup for Kick **Noti**fications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
