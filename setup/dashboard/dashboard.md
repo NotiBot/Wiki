@@ -51,14 +51,14 @@ OPTIONAL: Click to expand for full display of the style="color:green;">global se
 2. Next press the `Configure` button next to the social media account to configure that category 
    
    [Streamers]
-	- Add, Configure or Delete any streamer notifications for your server here.
+	• Add, Configure or Delete any streamer notifications for your server here. \
    [Global Editor]
-	- Customize both the global live & offline notifications for your server here.
+	• Customize both the global live & offline notifications for your server here. \
    [Misc]
-	- Sync Username - Should usernames be synced? (Default: disabled)
+	• Sync Username - Should usernames be synced? (Default: disabled) \
    [Panel]
-	- Select a channel and send the panel for linking & syncing your Kick.com account there.
-	- Select a streamer & channel to send the streamer's leaderboard panel to.
+	• Select a channel and send the panel for linking & syncing your Kick.com account there.
+	• Select a streamer & channel to send the streamer's leaderboard panel to.
 </details>
 
 ### How to MANAGE a Server
