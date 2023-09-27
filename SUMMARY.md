@@ -60,5 +60,5 @@
 * [Dashboard](https://notibot.app/)
 * [Support Server](https://discord.com/invite/xq6F6ZkUte)
 * [Help Translate Noti](https://crowdin.com/project/noti)
-* [Vote Top.gg](https://top.gg/bot/719310199944642753/vote)
+* [Vote for Noti on Top.gg](https://top.gg/bot/719310199944642753/vote)
 * [Kick](https://kick.com/)
