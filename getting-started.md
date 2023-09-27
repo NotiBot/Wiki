@@ -3,7 +3,7 @@
 ## Getting started
 ### A step by step guide to get the Noti bot running on your Discord server.
 
-Let's explore how to use Noti on your own server. We'll cover the fundamental steps, settings, best practices and later on tutorials for different use cases. While you can use built-in slash command via chat, this guide only covers setup via the online interface - the [Web Dashboard](https://notibot.app/dashboard).
+Let's explore how to use Noti on your own server. We'll cover the fundamental steps, settings, best practices and later on tutorials for different use cases. While you can use built-in slash commands via chat, this guide only covers setup via the online interface - the [Web Dashboard](https://notibot.app/dashboard).
 
 ## 1) Invite Noti to your Discord server
 
