@@ -17,7 +17,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 Click to expand for how to access your user settings!
 </summary>
 
-✔️ Connect your socials to synchronize roles on your server and manage your profile with the Configure button, which gives the following configurable options:
+✔️ Connect your socials to synchronize roles on your server and manage your profile with the **Configure** button, which gives the following configurable options:
 	- **Birthday**: Set up your birthday date. Please ensure you are entering the correct date as this cannot be changed later. Format: DD/MM (e.g. 20/12) \
 	- **Global Language**: Set your global language for Noti. \
 	- **Kick**: Connect/disconnect your Kick.com account \
