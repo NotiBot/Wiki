@@ -13,7 +13,7 @@
 
 * [Benefits of Premium](setup/premium/premium-benefits.md)
 
-## HOW TO SET UP LIVE STREAM NOTIS
+## ⚡HOW TO SET UP LIVE STREAM NOTIS
 
 * [First: Invite Noti to your server!](setup/invite-noti.md)
 * [Setup Live Stream Notifications](index-live-stream-notifications-setup.md)
