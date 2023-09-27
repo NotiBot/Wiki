@@ -11,7 +11,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 3. Once you have successfully logged in with your Discord, you should see the following screen: \
 ![](../../.gitbook/assets/dashboard_user_logged_in.png) 
 
-## Configure User Settings
+## Configure Your User Settings
 <details>
 <summary>
 Click to expand for how to access your user settings!
