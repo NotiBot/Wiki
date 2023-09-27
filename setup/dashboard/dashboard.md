@@ -50,7 +50,7 @@ OPTIONAL: Click to expand for full instructions of Configuring Global Server Set
 ### 💡 How To ADD Your Server
 <details>
 <summary>
-OPTIONAL: Click to expand for full instructions of How To Add A Server
+Click to expand for full instructions of How To Add A Server
 </summary>
 	
 6. Click the **Add** button directly below the server logo you wish to add Noti to. 
