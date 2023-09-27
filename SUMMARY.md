@@ -18,7 +18,7 @@
 * [First: Invite Noti to your server!](setup/invite-noti.md)
 * [Setup Live Stream Notifications](index-live-stream-notifications-setup.md)
 ***
-* ![](../../.gitbook/assets/wiki_platform_logo_Kick.png) [KICK: SETUP WITH WEB DASHBOARD]
+* ✅[KICK: SETUP WITH WEB DASHBOARD]
   * [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md)
   * [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md)
   * [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
