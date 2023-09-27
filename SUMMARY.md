@@ -43,10 +43,10 @@
 ***
 
 ## 🟣TWITCH LIVE STREAM NOTI SETUP
-* 🟣coming soon!🟣
+* *coming soon!*
 
 ## 🟠RUMBLE LIVE STREAM NOTI SETUP
-* 🟠coming soon!🟠
+* *coming soon!*
 
 ## 🛡️RESOURCES
 
