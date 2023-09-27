@@ -39,10 +39,13 @@ Select the permissions you want Noti to have on your server and then click Autho
 
 ## Checking Role Hierarchy  (IMPORTANT!)
 
-> **Important**
+{% hint style="warning" %} **Important!** \
+This step is essential if you use any role related feature with Noti, otherwise you will run into permission issues due to Discord's permission structure.
+{% endhint %}
+<!-- > **Important**
 \
 > This step is essential if you use any role related feature with Noti, otherwise you will run into permission issues due to Discord's permission structure.
-
+-->
 The next thing to do after inviting Noti is to check if Noti has sufficient permissions, and is hierarchically arranged correctly.
 1. Open your server settings. Navigate to Roles -> look for the bot role "Noti". (This role was automatically created after adding the bot and should be at the bottom of the list)
 2. Move the role above any other role, which should be managed by Noti and a user could have while interacting with the bot.
