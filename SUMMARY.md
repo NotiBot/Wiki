@@ -39,7 +39,7 @@
 
 
 
-## 🛡️Resources
+## 🛡️RESOURCES
 
 * [Commands](resources/commands.md)
 * [Permissions](resources/permissions.md)
