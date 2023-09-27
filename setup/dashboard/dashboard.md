@@ -12,16 +12,20 @@ This guide will lead you through the step-by-step process of initializing Noti's
 ![](../../.gitbook/assets/dashboard_user_logged_in.png) 
 
 ## Accessing User Settings
-4. Connect your socials to synchronize roles on your server and manage your profile with the `Configure` button, which gives the following options to configure: \
-    • **Birthday**: Set up your birthday date. Please ensure you are entering the correct date as this cannot be changed later. Format: DD/MM (e.g. 20/12) \
-    • **Global Language**: Set your global language for Noti. \
-    • **Kick**: Connect/disconnect your Kick.com account \
-    • **Twitch**: Connect/disconnect your Twitch.tv account \
-    • **Twitter**: Connect/disconnect your Twitter account
+<details>
+<summary>
+Click to expand for how to access your user settings!
+</summary>
+✔️ Connect your socials to synchronize roles on your server and manage your profile with the `Configure` button, which gives the following options to configure: \
+     • **Birthday**: Set up your birthday date. Please ensure you are entering the correct date as this cannot be changed later. Format: DD/MM (e.g. 20/12) \
+     • **Global Language**: Set your global language for Noti. \
+     • **Kick**: Connect/disconnect your Kick.com account \
+     • **Twitch**: Connect/disconnect your Twitch.tv account \
+     • **Twitter**: Connect/disconnect your Twitter account
+</details>
+## Add//Manage Your Discord Server
 
-## Selecting a Discord Server To Manage
-
-5. Provided you have previously completed steps 1, 2 & 3 from the Web Dashboard Login section above, you will be presented with a list of servers that you have **Manage Server** permission for. 
+✔️ Provided you have previously completed steps 1, 2 & 3 from the Web Dashboard Login section above, you will be presented with a list of servers that you have **Manage Server** permission for. 
 {% hint style="info" %} **Should You Add or Manage a Server?** \
 **Add** is for servers you wish to add Noti to \
 **Manage** is for servers Noti is already joined to
