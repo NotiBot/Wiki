@@ -54,19 +54,18 @@ OPTIONAL: Click to expand for full instructions of Configuring Global Server Set
 Click to expand for full instructions of How To Add A Server
 </summary>
 	
-6. Click the **Add** button directly below the server logo you wish to add Noti to. 
-7. Follow the on screen prompts to add Noti to the server(s) of your choice. 
-{% hint style="warning" %} **Warning** \
-*Changing the default permissions that Noti is granted is not recommended as it may affect its intended performance or functionality.*
-{% endhint %}
-
-{% hint style="success" %} **Success!** \
-Once you have successfully added Noti to your server, you may return to the [Noti Dashboard](https://notibot.app/dashboard) where you will now see a **Manage** button in place of the previous Add button.
-{% endhint %}
+1. Click the **Add** button directly below the server logo you wish to add Noti to. 
+2. Follow the on screen prompts to add Noti to the server(s) of your choice. 
 
 If you have successfully completed the steps listed above, your dashboard should look similar to the following: \
 ![](../../.gitbook/assets/dashboard_server_list.png)
+
+Upon returning to the [Noti Dashboard](https://notibot.app/dashboard) you will now see a **Manage** button in place of the previous Add button. To do so, follow the information in the next section below for how to manage your server!
 </details>
+
+{% hint style="warning" %} **Warning** \
+*Changing the default permissions that Noti is granted is not recommended as it may affect its intended performance or functionality.*
+{% endhint %}
 
 ### 💡 How To MANAGE Your Server
 [Basic/Essential Setup for Kick **Noti**fications](setup/dashboard/dashboard-setup-for-kick.md) \
