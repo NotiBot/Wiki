@@ -27,14 +27,14 @@
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 ***
 * 🟢[KICK: OTHER FEATURES]
-  * in progress: LIVE NOW ON KICK AUTOROLE!
-  * in progress: How to Sync your Kick viewer's subscription to your Discord server
-  * in progress: How to setup the Synchronization panel for your server members
-  * in progress: How your Discord members can sync their Kick sub to your server
   * [Import your Kick subscriber emotes to your Discord server](/setup/OtherFeatures/import-kick-emojis-to-discord.md)
   * [Setup Clips to Discord with Noti](setup/OtherFeatures/setup-clips-to-discord-with-noti.md)
   * [Stats Channel Counters](setup/OtherFeatures/stats_channel.md)
   * [Verify and Sync](setup/OtherFeatures/verify-and-sync.md)
+  * in progress: LIVE NOW ON KICK AUTOROLE!
+  * in progress: How to Sync your Kick viewer's subscription to your Discord server
+  * in progress: How to setup the Synchronization panel for your server members
+  * in progress: How your Discord members can sync their Kick sub to your server
 
 ***
 * 🟢[KICK: SETUP WITH SLASH COMMANDS *(optional)*]
