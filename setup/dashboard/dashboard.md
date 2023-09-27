@@ -23,6 +23,7 @@ Click to expand for how to access your user settings!
      • **Twitch**: Connect/disconnect your Twitch.tv account \
      • **Twitter**: Connect/disconnect your Twitter account
 </details>
+
 ## Add//Manage Your Discord Server
 
 ✔️ Provided you have previously completed steps 1, 2 & 3 from the Web Dashboard Login section above, you will be presented with a list of servers that you have **Manage Server** permission for. 
