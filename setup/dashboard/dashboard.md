@@ -44,7 +44,8 @@ OPTIONAL: Click to expand for full instructions of Configuring Global Server Set
 	• Sync Username - Should usernames be synced? *(Default: disabled; premium only)* \
    **[Panel]** \
 	• Link and Sync Account: Select a channel and send the panel for linking & syncing your Kick.com account there. \
-	• Leaderboard: Select a streamer & channel to send the streamer's leaderboard panel to. *(premium only)*
+	• Leaderboard: Select a streamer & channel to send the streamer's leaderboard panel to. *(premium only)* \
+![](../../.gitbook/assets/dashboard_social_configure.png) 
 </details>
 
 ### 💡 How To ADD Your Server
