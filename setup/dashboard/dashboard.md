@@ -41,6 +41,21 @@ Once you have successfully added Noti to your server, you may return to the [Not
 If you have successfully completed the steps listed above, your dashboard should look similar to the following: \
 ![](../../.gitbook/assets/dashboard_server_list.png)
 
+### How to Configure Global Settings For Your Server
+1. Select a server you wish to configure via the `Manage` button
+2. Next press the `Configure` button next to the social media account to configure that category
+   
+   [Streamers]
+	- Add, Configure or Delete any streamer notifications for your server here.
+   [Global Editor]
+	- Customize both the global live & offline notifications for your server here.
+   [Misc]
+	- Sync Username - Should usernames be synced? (Default: disabled)
+   [Panel]
+	- Select a channel and send the panel for linking & syncing your Kick.com account there.
+	- Select a streamer & channel to send the streamer's leaderboard panel to.
+
+
 ### How to MANAGE a Server
 [Basic/Essential Setup for Kick **Noti**fications](setup/dashboard/dashboard-setup-for-kick.md) \
 [Advanced Setup for Kick **Noti**fications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
