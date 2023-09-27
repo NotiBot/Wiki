@@ -18,7 +18,7 @@
 * [First: Invite Noti to your server!](setup/invite-noti.md)
 * [Setup Live Stream Notifications](index-live-stream-notifications-setup.md)
 
-## 🟢KICK LIVE STREAM NOTIFICATIONS SETUP
+## 🟢KICK LIVE STREAM NOTI SETUP
 
 * 🟢[KICK: SETUP WITH WEB DASHBOARD]
   * [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md)
@@ -45,7 +45,7 @@
 ## 🟣TWITCH LIVE STREAM NOTI SETUP
 * 🟣coming soon!🟣
 
-## 🟠TWITCH LIVE STREAM NOTI SETUP
+## 🟠RUMBLE LIVE STREAM NOTI SETUP
 * 🟠coming soon!🟠
 
 ## 🛡️RESOURCES
