@@ -18,13 +18,13 @@
 * [First: Invite Noti to your server!](setup/invite-noti.md)
 * [Setup Live Stream Notifications](index-live-stream-notifications-setup.md)
 ***
-### ✅[KICK: SETUP WITH WEB DASHBOARD]
+* ✅[KICK: SETUP WITH WEB DASHBOARD]
   * [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md)
   * [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md)
   * [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 ***
-### ⚙️[KICK: SETUP WITH SLASH COMMANDS *(optional)*]
+* ⚙️[KICK: SETUP WITH SLASH COMMANDS *(optional)*]
   * [Slash Commands: Essential Setup for Kick Notifications](/setup/SlashCommands/slash-commands-setup-for-kick.md)
   * [Slash Commands: Advanced Setup for Kick Notifications](setup/SlashCommands/slash-commands-advanced-setup-for-kick.md)
 ***
