@@ -42,7 +42,11 @@
   * [Slash Commands: Advanced Setup for Kick Notifications](setup/SlashCommands/slash-commands-advanced-setup-for-kick.md)
 ***
 
+## 🟣TWITCH LIVE STREAM NOTI SETUP
+* 🟣coming soon!🟣
 
+## 🟠TWITCH LIVE STREAM NOTI SETUP
+* 🟠coming soon!🟠
 
 ## 🛡️RESOURCES
 
