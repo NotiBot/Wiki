@@ -29,11 +29,11 @@ When you have clicked the link to invite Noti, you must now choose which server 
 
 ## Choose Bot Permissions
 
-Select the permissions you want Noti to have on your server and then click Authorize.
-
 {% hint style="warning" %} **Warning!** \
 If you uncheck any of the pre-selected permissions, Noti might not work as intended.
 {% endhint %}
+
+Select the permissions you want Noti to have on your server and then click Authorize.
 
 <figure><img src="../.gitbook/assets/Invite 2" alt=""><figcaption></figcaption></figure>
 
