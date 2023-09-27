@@ -47,8 +47,8 @@ If you have successfully completed the steps listed above, your dashboard should
 OPTIONAL: Click to expand for full display of the style="color:green;">global server settings</mark>&#x20;
 </summary>
 
-1. Select a server you wish to configure via the `Manage` button \
-2. Next press the `Configure` button next to the social media account to configure that category \
+1. Select a server you wish to configure via the `Manage` button 
+2. Next press the `Configure` button next to the social media account to configure that category 
    
    [Streamers]
 	- Add, Configure or Delete any streamer notifications for your server here.
