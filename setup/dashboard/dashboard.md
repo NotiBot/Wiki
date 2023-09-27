@@ -42,6 +42,10 @@ If you have successfully completed the steps listed above, your dashboard should
 ![](../../.gitbook/assets/dashboard_server_list.png)
 
 ### How to Configure Global Settings For Your Server
+<details>
+<summary>
+OPTIONAL: Click to expand for full display of the style="color:green;">global server settings</mark>&#x20;
+</summary>
 1. Select a server you wish to configure via the `Manage` button
 2. Next press the `Configure` button next to the social media account to configure that category
    
@@ -54,7 +58,7 @@ If you have successfully completed the steps listed above, your dashboard should
    [Panel]
 	- Select a channel and send the panel for linking & syncing your Kick.com account there.
 	- Select a streamer & channel to send the streamer's leaderboard panel to.
-
+</details>
 
 ### How to MANAGE a Server
 [Basic/Essential Setup for Kick **Noti**fications](setup/dashboard/dashboard-setup-for-kick.md) \
