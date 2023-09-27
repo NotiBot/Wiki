@@ -17,22 +17,24 @@
 
 * [First: Invite Noti to your server!](setup/invite-noti.md)
 * [Setup Live Stream Notifications](index-live-stream-notifications-setup.md)
-***
-* ✅[KICK: SETUP WITH WEB DASHBOARD]
+
+## KICK LIVE STREAM NOTIFICATIONS SETUP
+
+* 🟢[KICK: SETUP WITH WEB DASHBOARD]
   * [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md)
   * [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md)
   * [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 ***
-* ✔️[KICK: OTHER FEATURES]
-  * 🟢AUTO LIVE ROLE - in progress
+* 🟢[KICK: OTHER FEATURES]
+  * AUTO LIVE ROLE - in progress
   * [Import your Kick subscriber emotes to your Discord server](/setup/OtherFeatures/import-kick-emojis-to-discord.md)
   * [Setup Clips to Discord with Noti](setup/OtherFeatures/setup-clips-to-discord-with-noti.md)
   * [Stats Channel Counters](setup/OtherFeatures/stats_channel.md)
   * [Verify and Sync](setup/OtherFeatures/verify-and-sync.md)
 
 ***
-* ⚙️[KICK: SETUP WITH SLASH COMMANDS *(optional)*]
+* 🟢[KICK: SETUP WITH SLASH COMMANDS *(optional)*]
   * [Slash Commands: Essential Setup for Kick Notifications](/setup/SlashCommands/slash-commands-setup-for-kick.md)
   * [Slash Commands: Advanced Setup for Kick Notifications](setup/SlashCommands/slash-commands-advanced-setup-for-kick.md)
 ***
