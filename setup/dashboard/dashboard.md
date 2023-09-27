@@ -30,7 +30,7 @@ This guide will lead you through the step-by-step process of initializing Noti's
 ### How to Configure Global Settings For Your Server
 <details>
 <summary>
-OPTIONAL: Click to expand for full display of the style="color:green;">global server settings</mark>&#x20;
+*OPTIONAL*: Click to expand for full instructions of **Configuring Global Server Settings**
 </summary>
 
 1. Select a server you wish to configure via the `Manage` button 
@@ -50,7 +50,7 @@ OPTIONAL: Click to expand for full display of the style="color:green;">global se
 ### How to ADD a Server
 <details>
 <summary>
-OPTIONAL: Click to expand for full display of the style="color:green;">How To Add A Server</mark>&#x20; instructions.
+*OPTIONAL*: Click to expand for full instructions of **How To Add A Server**
 </summary>
 	
 6. Click the **Add** button directly below the server logo you wish to add Noti to. 
