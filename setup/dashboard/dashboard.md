@@ -50,13 +50,13 @@ OPTIONAL: Click to expand for full display of the style="color:green;">global se
 1. Select a server you wish to configure via the `Manage` button 
 2. Next press the `Configure` button next to the social media account to configure that category 
    
-   **[Streamers]**
+   **[Streamers]** \
 	• Add, Configure or Delete any streamer notifications for your server here. \
-   **[Global Editor]**
+   **[Global Editor]** \
 	• Customize both the global live & offline notifications for your server here. \
-   **[Misc]**
+   **[Misc]** \
 	• Sync Username - Should usernames be synced? (Default: disabled) \
-   **[Panel]**
+   **[Panel]** \
 	• Select a channel and send the panel for linking & syncing your Kick.com account there. \
 	• Select a streamer & channel to send the streamer's leaderboard panel to.
 </details>
