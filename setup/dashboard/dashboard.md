@@ -1,6 +1,6 @@
 # Noti's Dashboard Web Interface Initialization
 
-In order to receive live notifications in your Discord server, you have two options to choose from for setting up Noti: the slash commands or the web dashboard.
+In order to receive live notifications in your Discord server, this Web Dashboard article covers complete guides how to Log into the web dashboard, Configure User Settings, Add or Manage a Discord Server or Configure Global Settings for a server.
 
 ## Web Dashboard Login
 This guide will lead you through the step-by-step process of initializing Noti's dashboard web interface:
