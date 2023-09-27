@@ -39,12 +39,12 @@ OPTIONAL: Click to expand for full instructions of Configuring Global Server Set
    **[Streamers]** \
 	• Add, Configure or Delete any streamer notifications for your server here. \
    **[Global Editor]** \
-	• Customize both the global live & offline notifications for your server here. \
+	• Customize both the global live & offline notifications for your server here. *(premium only)* \
    **[Misc]** \
-	• Sync Username - Should usernames be synced? (Default: disabled) \
+	• Sync Username - Should usernames be synced? *(Default: disabled; premium only)* \
    **[Panel]** \
-	• Select a channel and send the panel for linking & syncing your Kick.com account there. \
-	• Select a streamer & channel to send the streamer's leaderboard panel to.
+	• Link and Sync Account: Select a channel and send the panel for linking & syncing your Kick.com account there. \
+	• Leaderboard: Select a streamer & channel to send the streamer's leaderboard panel to. *(premium only)*
 </details>
 
 ### 💡 How To ADD Your Server
