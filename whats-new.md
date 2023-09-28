@@ -3,7 +3,7 @@ What's new with Noti?
 
 Noti's official changelogs are kept up-to-date [here](https://discord.com/channels/716792756315357235/747859932220751894).
 
-## Update - August 22, 2023
+## Update: Newest Addition! - August 22, 2023
 **Kick Profile Picture Overlay Generator Release!** \
 • Check it out here: [https://notibot.app/kick-overlay-maker](https://notibot.app/kick-overlay-maker)
 
