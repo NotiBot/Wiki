@@ -35,13 +35,13 @@ What's included in the free forever features: \
 
 On the side bar (to the left) you will see a number of different pages. This includes a FAQ (Frequently Asked Questions), updates, commands list, Premium info and a list of all of Noti's commands and features.
 
-## Kick.com Live Noti Support & Full Customization
+## 🟢Kick.com Live Noti Support & Full Customization
 Noti offers you the ability to fully customize your Kick.com live notifications like never before using either our convenient web dashboard or our slash commands. The choice is yours; check out the left side bar for the full list of features you can set up for your Kick with Noti!
 
-## Twitch.tv Live Noti Support
+## 🟣Twitch.tv Live Noti Support
 *Coming Soon!*
 
-## Rumble.com Live Noti Support
+## 🟠Rumble.com Live Noti Support
 *Coming Soon!*
 <!--
 ## Web Dashboard
