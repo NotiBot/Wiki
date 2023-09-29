@@ -23,7 +23,7 @@ Click to expand for how to access your user settings!
 	• **Global Language**: Set your global language for Noti. \
 	• **Kick**: Connect/disconnect your Kick.com account \
 	• **Twitch**: Connect/disconnect your Twitch.tv account \
-	• **Twitter**: Connect/disconnect your Twitter account 
+	• **Twitter**: Connect/disconnect your Twitter.com account 
 </details>
 
 ## Add//Manage Your Discord Server
