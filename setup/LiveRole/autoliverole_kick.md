@@ -1,5 +1,7 @@
 # How to setup a LIVE NOW ON KICK role for your Discord server using Noti
 
+<figure><img src=".gitbook/assets/livenowrole.png" alt=""><figcaption></figcaption></figure>
+
 ## First Step: In Your Discord
 
 ### Create A Discord Live Now Role
