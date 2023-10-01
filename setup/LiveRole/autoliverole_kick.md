@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/livenowrole.png" alt=""><figcaption></figcaption></figure>
 
-## First Step: In Your Discord
+## ✔️First Step: In Your Discord
 
 ### Create A Discord Live Now Role
 
@@ -20,7 +20,7 @@ Make sure that the bot has permission to manage roles **and** that the role the 
 
 </details>
 
-## Second Step: In the Noti web dashboard
+## ✔️Second Step: In the Noti web dashboard
 
 {% endhint %}
 {% hint style="info" %} 
@@ -35,7 +35,7 @@ If you haven't already, now is a good time to complete the steps above under "Fi
 
 </details>
 
-## Third Step: QoL Features For Your Server Members
+## ✔️Third Step: QoL Features For Your Server Members
 
 ### Add the Synchronization panel for your server members
 
@@ -55,7 +55,7 @@ This guide assumes you already have the basic knowledge of the Discord platform 
 *Premium Option: You can opt to skip Noti voting link for your server by grabbing this addition from your Noti premium dashboard.*
 </details>
 
-## optional: Setup Using Noti Slash Commands
+## ✔️Optional: Setup Using Noti Slash Commands
 
 <details>
   <summary>Click to expand how to setup the panel in your server using Noti slash commands. </summary>
