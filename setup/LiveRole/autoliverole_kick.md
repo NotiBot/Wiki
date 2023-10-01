@@ -35,9 +35,9 @@ If you haven't already, now is a good time to complete the steps above under "Fi
 
 </details>
 
-## QoL Features For Your Server Members
+## Third Step: QoL Features For Your Server Members
 
-## Add the Synchronization panel for your server members
+### Add the Synchronization panel for your server members
 
 {% endhint %}
 {% hint style="warning" %} **Caution**: 
