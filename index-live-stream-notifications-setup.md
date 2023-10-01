@@ -9,7 +9,7 @@ When it comes to Discord bots, Noti stands out from the crowd by giving you, the
 <!--First Step: Add Noti by inviting it to your Discord server. -->
   * In order to start your journey with Noti and gain access to the wide array of commands including the extensive list of features the bot has to offer, you must first invite Noti to your Discord server. Read up on the article titled "How to Invite Noti to Your Server First" to learn how to complete this necessary first step.
 
-{% hint style="warning" %} **Warning** \
+{% hint style="warning" %}
 Once Noti has been added to your Discord server, you must ensure that Noti's role is ABOVE the roles it will be managing.
 {% endhint %}
 
