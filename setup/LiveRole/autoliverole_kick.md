@@ -54,3 +54,12 @@ This guide assumes you already have the basic knowledge of the Discord platform 
 
 *Premium Option: You can opt to skip Noti voting link for your server by grabbing this addition from your Noti premium dashboard.*
 </details>
+
+## optional: Setup Using Noti Slash Commands
+
+<details>
+  <summary>Click to expand how to setup the panel in your server using Noti slash commands. </summary>
+
+  • Don't like using the dashboard? You can use our extensive array of slash commands outlined in our Commands article, available from the left menu top section, for a more advanced setup experience!
+
+</details>
