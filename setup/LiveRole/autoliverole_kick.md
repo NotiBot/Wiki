@@ -25,7 +25,7 @@ Once you have the live now role created in your Discord server, now you can head
 On the Streamers panel, you should see Configure next to any streamers you may have previously added. Press Configure to open the streamer's configuration panel; under the General tab, you should see Live Role Sync. 
 
 
-# QoL Features For Your Server Memberss
+## QoL Features For Your Server Members
 
 ## Add the Synchronization panel for your server members
 
