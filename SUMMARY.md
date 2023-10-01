@@ -27,7 +27,7 @@
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 ***
 * 🟢[KICK: OTHER FEATURES]
-  * [Setup a LIVE NOW ON KICK role for your server](/setup/OtherFeatures/autoliverole_kick.md)
+  * [Setup a LIVE NOW ON KICK role for your server](/setup/LiveRole/autoliverole_kick.md)
   * [Import your Kick subscriber emotes to your Discord server](/setup/OtherFeatures/import-kick-emojis-to-discord.md)
   * [Setup Clips to Discord with Noti](setup/OtherFeatures/setup-clips-to-discord-with-noti.md)
   * [Stats Channel Counters](setup/OtherFeatures/stats_channel.md)
