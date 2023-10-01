@@ -45,9 +45,10 @@ This guide assumes you already have the basic knowledge of the Discord platform 
 <details>
   <summary>Click to expand how to add the Synchronization panel</summary>
   
-• From the web dashboard, select a server and press `Manage`. Select Kick category by pressing `Configure`. Select Panel from the top right menu.
-• Link and Sync Account: Select a discord channel to post the panel to and press `Send`
-• Congrats! If you have followed along thus far, you have just successfully posted the Noti synchronization panel to your Discord server channel.
+• From the web dashboard, select a server and press `Manage`. Select Kick category by pressing `Configure`. Select Panel from the top right menu. \
+• Link and Sync Account: Select a discord channel to post the panel to and press `Send` \
+• Congrats! If you have followed along thus far, you have just successfully posted the Noti synchronization panel to your Discord server channel. \
 • Your members can now use the panel to link and sync their Kick.com account to your Discord server. \
+
 *Premium Option: You can opt to skip Noti voting link for your server by grabbing this addition from your Noti premium dashboard.*
 </details>
