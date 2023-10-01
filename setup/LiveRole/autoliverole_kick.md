@@ -16,7 +16,7 @@ Make sure that the bot has permission to manage roles **and** that the role the 
  
   1. You will need to create the Discord role in your server that you wish your community members to be automatically granted anytime they go live on Kick. (e.g.: LIVE NOW ON KICK). *As this autorole is simply a vanity role, we recommend leaving all permissions off by default.)*
   2. (optional) Drag to move the new live now role to the preferred order of your role server's listing; for example, if you want the new role to be at the top of your server's member list, you would drag the live now role to the top of your list of roles. (Reminder: The autorole created by Noti when you previously joined it to your server must always be above even this role in order for the bot to function function as intended!)
-  3. (optional) Recommended live now role settings should be **enabled** for `Display role members separately from online members. This will display those currently live on Kick at the location you chose above in optional 2 apart from the other roles.
+  3. (optional) Recommended live now role settings should be **enabled** for `Display role members separately from online members. This will display those currently live on Kick apart from other members or at the location you chose above in per your previous steps above.
 
 </details>
 
