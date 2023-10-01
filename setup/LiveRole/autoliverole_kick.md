@@ -26,7 +26,7 @@ If you haven't already, now is a good time to complete the steps above under "Fi
 {% endhint %}
 
 <details>
-  <summary>Click to expand how to setup step 2 via Noti's web dashboard</summary>
+  <summary>Click to expand how to setup the second step via Noti's web dashboard</summary>
 
   • Once you have the live now role created in your Discord server, now you can head over and login to the Noti web dashboard.  Select Manage the server you wish to get started in and then press Configure to select Kick as your social category.
   • On the Streamers panel, you should see Configure next to any streamers you may have previously added. Press Configure to open the streamer's configuration panel; under the General tab, you should see Live Role Sync. 
