@@ -30,6 +30,6 @@ Discord roles that you intend to use for this process must be added prior to sta
 
    • **Delete Streamer**: Delete and remove Discord notifications for the selected streamer.
 
-{% hint style="danger" %} 
-Make sure you press the `Save` button after each section in order to save your work before moving to another section; this will prevent loss of work.
+{% hint style="success" %} **Don't forget:** \
+Once you're happy with your changes, don't forget to save your work!
 {% endhint %}
