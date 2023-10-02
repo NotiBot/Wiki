@@ -37,12 +37,12 @@ Sample web dashboard configuration:
 ![](../../.gitbook/assets/dashboard_kick_live_role_sync_config.png)
 
 </details>
-
+<!--
 {% endhint %}
 {% hint style="warning" %} 
 This guide assumes you already have the basic knowledge of the Discord platform and therefore, does not include instructions on how to create a Discord channel where your members can access and use the synchronization panel posted by the Noti tutorial below.
 {% endhint %}
-
+-->
 <details>
   <summary>Click to expand how to add the Synchronization panel for your server members using Noti's web dashboard</summary>
   
