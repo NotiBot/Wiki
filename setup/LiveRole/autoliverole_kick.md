@@ -18,7 +18,7 @@ Make sure that the bot has permission to manage roles **and** that the role the 
 
 </details>
 
-## ✔️Second Step: Noti Web Dashboard
+## ✔️Second Step: Setup Using Noti Web Dashboard
 
 {% endhint %}
 {% hint style="info" %} 
