@@ -82,7 +82,7 @@ Don't like using the dashboard? You can use our extensive array of slash command
   <summary>Click to expand how to setup the Live Role Sync & Synchronization Panel in your server using Noti slash commands</summary>
 
 Sample `/setup service` usage:   
-![](../../.gitbook/assets/slash_commands_livenow_setup_service.png)
+![](../../.gitbook/assets/slash_commands_livenow_setup_service.png) \
 Sample `/panel synchronize` usage:   
 ![](../../.gitbook/assets/slash_commands_livenow_panel_synchronize.png)
 
