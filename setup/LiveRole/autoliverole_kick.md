@@ -76,13 +76,14 @@ This guide assumes you already have the basic knowledge of the Discord platform 
 -->
 ## ✔️Optional: Setup Using Noti Slash Commands
 
+Don't like using the dashboard? You can use our extensive array of slash commands outlined in our Commands article, available from the left menu top section, for a more advanced setup experience!
+
 <details>
-  <summary>Click to expand how to setup the panel in your server using Noti slash commands. </summary>
+  <summary>Click to expand how to setup the Live Role Sync & Synchronization Panel in your server using Noti slash commands</summary>
 
-  • Don't like using the dashboard? You can use our extensive array of slash commands outlined in our Commands article, available from the left menu top section, for a more advanced setup experience!
-
-Sample slash command usage:   
+Sample `/setup service` usage:   
 ![](../../.gitbook/assets/slash_commands_livenow_setup_service.png)
-<!--![](../../.gitbook/assets/slash_commands_livenow_panel_synchronize.png)-->
+Sample `/panel synchronize` usage:   
+![](../../.gitbook/assets/slash_commands_livenow_panel_synchronize.png)
 
 </details>
