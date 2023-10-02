@@ -67,6 +67,6 @@ This guide assumes you already have the basic knowledge of the Discord platform 
 
 Sample slash command usage:   
 ![](../../.gitbook/assets/slash_commands_livenow_setup_service.png)
-![](../../.gitbook/assets/slash_commands_livenow_panel_synchronize.png)
+<!--![](../../.gitbook/assets/slash_commands_livenow_panel_synchronize.png)-->
 
 </details>
