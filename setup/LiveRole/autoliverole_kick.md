@@ -44,7 +44,11 @@ Sample web dashboard configuration:
 • Congrats! If you have followed along thus far, you have just successfully posted the Noti synchronization panel to your Discord server channel. \
 • Your members can now use the panel to link and sync their Kick.com account to your Discord server.
 
-*Premium Option: You can opt to skip Noti voting link for your server by grabbing this addition from your Noti premium dashboard.*
+*Premium Option: You can opt to skip Noti voting link for your entire server by grabbing the Skip Voting feature from your Noti premium dashboard.*
+
+Sample web dashboard configuration:   
+![](../../.gitbook/assets/dashboard_kick_linkandsync_panel.png)
+
 </details>
 
 <!--## ✔️Third Step: QoL Features For Your Server Members
