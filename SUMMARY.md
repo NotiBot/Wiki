@@ -32,8 +32,6 @@
   * [Setup Clips to Discord with Noti](setup/OtherFeatures/setup-clips-to-discord-with-noti.md)
   * [Stats Channel Counters](setup/OtherFeatures/stats_channel.md)
   * [Verify and Sync](setup/OtherFeatures/verify-and-sync.md)
-  * in progress: How to Sync your Kick viewer's subscription to your Discord server
-  * in progress: How to setup the Synchronization panel for your server members
   * in progress: How your Discord members can sync their Kick sub to your server
 
 ***
