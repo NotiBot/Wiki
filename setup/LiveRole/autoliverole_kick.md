@@ -83,6 +83,6 @@ Sample `/setup service` usage:
 Sample `/panel synchronize` usage:   
 <!--![](../../.gitbook/assets/slash_commands_livenow_panel_synchronize.png) -->
 <!--<figure><img src="../../.gitbook/assets/slash_commands_livenow_panel_synchronize.png" alt="/panel synchronize" width ="936" height="90"></figure> -->
-![image](https://github.com/NotiBot/Wiki/blob/main/.gitbook/assets/slash_commands_livenow_panel_synchronize.png)
+![](https://github.com/NotiBot/Wiki/blob/main/.gitbook/assets/slash_commands_livenow_panel_synchronize.png)
 
 </details>
