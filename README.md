@@ -39,7 +39,7 @@ On the side bar (to the left) you will see a number of different pages. This inc
 Noti offers you the ability to fully customize your Kick.com live notifications like never before using either our convenient web dashboard or our slash commands. The choice is yours; check out the left side bar for the full list of features you can set up for your Kick with Noti!
 
 ## 🟣Twitch.tv Live Noti Support
-*Coming Soon!*
+*CURRENTLY TESTING! Want to help test? Join our testing team in our support server!*
 
 ## 🟠Rumble.com Live Noti Support
 *Coming Soon!*
