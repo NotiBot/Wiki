@@ -22,7 +22,7 @@ You must be logged in to the Noti web dashboard in order to proceed.
 
 ## How to Configure streamer
 
-General
+### General
   1. Role to mention - select a role to mention/ping when user goes live
   2. Channel to send notification - select a discord channel where Noti will post the live notification
   3. Delete the embed - Should the embed be deleted when streamer ends the stream? (Toggle On/Off, Premium Only)
@@ -30,8 +30,8 @@ General
   5. Live Role Sync - Give a discord role to users when they go live (select Discord role, paste Discord 18-digit user ID, press `Add`)
   6. Press Save.
 
-Editor
+### Editor
   You can enable Use Streamer Custom Notifications with the Toggle On/Off option and use the Live Notification Customizer to fully customize your Noti live notification experience to meet your demands!
 
-Delete Streamer
+### Delete Streamer
   Remove a streamer's live notifications from your Noti list with this option.
