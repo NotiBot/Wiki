@@ -17,9 +17,9 @@ You must be logged in to the Noti web dashboard in order to proceed.
 
 ## How to Add Streamer(s) you wish receive live notis for
 
+![](../../.gitbook/assets/twitch_add_streamer.png)
 1. Once you have selected Twitch as your platform as indicated above, click the `Add Streamer` button to add a new streamer.
 2. Enter the Twitch streamer's name you wish to receive notifications for, then press `Add`. \
-![](../../.gitbook/assets/twitch_add_streamer.png)
 3. Once you have successfully added the streamer, you will be presented with the Configuration window. You can press `Save` here and your basic live notification is now complete! 
 
 If you want to further customize a streamer's live notification, please see the next section of this article for how to configure a streamer's live notifications.
