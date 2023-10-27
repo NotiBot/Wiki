@@ -18,4 +18,20 @@ You must be logged in to the Noti web dashboard in order to proceed.
 ## How to Add Streamer(s) you wish receive live notis for
 
 1. Click `Add Streamer` to add a new streamer
-2. Enter the Twitch channel name that you wish to receive live notifications for.
+2. Enter the Twitch channel name that you wish to receive live notifications for and press `Add`. If successfully added, you will automatically proceed to the Configure streamer window.
+
+## How to Configure streamer
+
+General
+  1. Role to mention - select a role to mention/ping when user goes live
+  2. Channel to send notification - select a discord channel where Noti will post the live notification
+  3. Delete the embed - Should the embed be deleted when streamer ends the stream? (Toggle On/Off, Premium Only)
+  4. Streamer's claimable role - Discord role that the streamer can claim (Toggle On/Off)
+  5. Live Role Sync - Give a discord role to users when they go live (select Discord role, paste Discord 18-digit user ID, press `Add`)
+  6. Press Save.
+
+Editor
+  You can enable Use Streamer Custom Notifications with the Toggle On/Off option and use the Live Notification Customizer to fully customize your Noti live notification experience to meet your demands!
+
+Delete Streamer
+  Remove a streamer's live notifications from your Noti list with this option.
