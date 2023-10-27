@@ -22,6 +22,8 @@ You must be logged in to the Noti web dashboard in order to proceed.
 
 ## How to Configure streamer
 
+If you're continuing adding a streamer or need to tweak an existing one, this section has you covered with detals on each field available through the Noti dashboard.
+
 ### General
   1. Role to mention - select a role to mention/ping when user goes live
   2. Channel to send notification - select a discord channel where Noti will post the live notification
