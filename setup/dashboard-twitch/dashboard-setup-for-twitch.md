@@ -15,7 +15,7 @@ You must be logged in to the Noti web dashboard in order to proceed.
 2. Next, select the category (or platform) you want to configure Noti for.
 3. We will select Twitch; now click the **Configure** button.
 
-## How to Add Streamer(s) you wish receive live notis for
+## How to Add Streamer(s) you wish receive live notifications for
 
 ![](../../.gitbook/assets/twitch_add_streamer.png)
 1. Once you have selected Twitch as your platform as indicated above, click the `Add Streamer` button to add a new streamer.
