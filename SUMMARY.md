@@ -41,7 +41,7 @@
 ***
 
 ## 🟣TWITCH LIVE STREAM NOTI SETUP
-  * [Web Dashboard: Twitch Live Notification Setup](setup/dashboard/dashboard-setup-for-twitch.md)
+  * [Web Dashboard: Twitch Live Notification Setup](setup/dashboard-twitch/dashboard-setup-for-twitch.md)
 
 ## 🟠RUMBLE LIVE STREAM NOTI SETUP
 * *coming soon!*
