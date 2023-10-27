@@ -4,7 +4,7 @@ This guide will lead you through the step-by-step process of using Noti's web da
 
 # Things you'll need to complete first
 
-{% hint style="warning" **Before you start** %} \
+{% hint style="warning" **Things you'll need to get started** %} \
 You must be logged in to the Noti web dashboard in order to proceed.
 <!--You will need to have already completed the [Web Dashboard: Basics & Logging In](dashboard.md) steps before proceeding.-->
 {% endhint %}
