@@ -22,7 +22,7 @@ You must be logged in to the Noti web dashboard in order to proceed.
 
 ## How to Configure streamer
 
-If you're continuing adding a streamer or need to tweak an existing one, this section has you covered with detals on each field available through the Noti dashboard.
+If you're continuing the process of adding a streamer or simply need to make a change to an existing one, this section has you covered with detals on each field available through our Noti dashboard.
 
 ### General
   1. Role to mention - select a role to mention/ping when user goes live
