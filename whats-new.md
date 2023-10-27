@@ -3,6 +3,9 @@ What's new with Noti?
 
 Noti's official changelogs are kept up-to-date [here](https://discord.com/channels/716792756315357235/747859932220751894).
 
+## Update - October 16, 2023
+**Twitch Live Notification support has been added to our Noti web dashboard!** \
+
 ## Update - August 22, 2023
 **Kick Profile Picture Overlay Generator Release!** \
 • Check it out here: [https://notibot.app/kick-overlay-maker](https://notibot.app/kick-overlay-maker)
