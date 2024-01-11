@@ -35,10 +35,10 @@ The dashboard is a website that allows you to fully manage Noti through a websit
 
 > Open [https://notibot.app/dashboard](https://notibot.app/dashboard) in your web browser and log in with your Discord account. Choose your server and start exploring all features to ensure you are comfortable with it.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 The dashboard is currently not optimized for mobile devices - if possible, use a PC or enable desktop mode on your mobile device.
 {% endhint %}
 
 ## 4) Commands
 
-If you'd like to use [Discord's slash commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ), you can do so with Noti! 
+If you'd like to use [Slash Commands](https://doc.notibot.app/welcome/commands) to set things up, you can do so with Noti! 
