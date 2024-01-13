@@ -43,6 +43,15 @@ Setting up your favorite streamer's live notifications has never been easier sin
 [Streamer Setup (using web dashboard) ](streamer-setup-web-dashboard.md)- Setup a streamer using Noti's web dashboard interface. \
 -->
 
+## ► Cooldown Configuration
+ * To prevent notifications from flooding your server when you have connection issues, there is a Live Cooldown feature.  This value (in minutes) defaults to 60 minutes (1 hour) between notifications for a specific streamer.
+ * The maximum cooldown is 5 hours (300 minutes)
+
+ * Cooldown limits:
+   * Non-premium defaults to 60 minutes, cannot be edited
+   * Premium default to 60 minutes, cannot be edited
+   * Premium Plus defaults to 60 minutes, but can be lowered to 30 minutes
+
 ## ► Other Features
  * Setup Clips to Discord with Noti - a guide that details how to setup sending clips to your Discord server with a partnered third party Kickbot service.
  * Streamer Counter - a guide to setting up data channels in your Discord server that show follower count & live/offline status  of a given streamer.
