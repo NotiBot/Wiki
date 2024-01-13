@@ -18,6 +18,11 @@
 * [First: Invite Noti to your server!](setup/invite-noti.md)
 * [Setup Live Stream Notifications](index-live-stream-notifications-setup.md)
 
+## 🔗Discord Linked Roles
+
+* [Linked Roles](setup/OtherFeatures/linked-role-configuration.md)
+*
+
 ## 🟢KICK LIVE STREAM NOTI SETUP
 
 * 🟢[KICK: SETUP WITH WEB DASHBOARD]
