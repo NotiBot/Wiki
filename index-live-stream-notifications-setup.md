@@ -7,10 +7,10 @@ When it comes to Discord bots, Noti stands out from the crowd by giving you, the
 ## ► First Step: Invite Noti to Your Discord Server
 
 <!--First Step: Add Noti by inviting it to your Discord server. -->
-  * In order to start your journey with Noti and gain access to the wide array of commands including the extensive list of features the bot has to offer, you must first invite Noti to your Discord server. Read up on the article titled "How to Invite Noti to Your Server First" to learn how to complete this necessary first step.
+  * In order to start your journey with Noti and gain access to the wide array of commands including the extensive list of features the bot has to offer, you must first [invite Noti](https://notibot.app/invite) to your Discord server. Read up on the article titled "[How to Invite Noti to Your Server First](https://doc.notibot.app/how-to-set-up-live-stream-notis/invite-noti)" to learn how to complete this necessary first step.
 
 {% hint style="warning" %}
-Once Noti has been added to your Discord server, you must ensure that Noti's role is ABOVE the roles it will be managing.
+Once Noti has been added to your Discord server, you must ensure that Noti's role is **ABOVE** the roles it will be managing.
 {% endhint %}
 
 ## ► How To Setup Live Stream Notifications with Noti
@@ -19,39 +19,19 @@ Setting up your favorite streamer's live notifications has never been easier sin
 
 **METHOD ONE: [USING THE WEB DASHBOARD]** 
  * Follow the listed steps in the web dashboard guides in the order provided for the best results:
-    * Web Dashboard: Basics & Logging In *(you must login to the dashboard in order to use it)*
-    * Web Dashboard: Essential Setup for Kick Notifications *(this guide covers the basic or essential functions of setting up Kick live notifications)*
-    * Web Dashboard: Advanced Setup for Kick Notifications *(optional extra customizations that can be added to Kick live notifications)*
+    * [Web Dashboard: Basics & Logging In](https://doc.notibot.app/kick-live-stream-noti-setup/kick-setup-with-web-dashboard/dashboard) *(you must login to the dashboard in order to use it)*
+    * [Web Dashboard: Essential Setup for Kick Notifications](https://doc.notibot.app/kick-live-stream-noti-setup/kick-setup-with-web-dashboard/dashboard-setup-for-kick) *(this guide covers the basic or essential functions of setting up Kick live notifications)*
+    * [Web Dashboard: Advanced Setup for Kick Notifications](https://doc.notibot.app/kick-live-stream-noti-setup/kick-setup-with-web-dashboard/dashboard-advanced-setup-for-kick) *(optional extra customizations that can be added to Kick live notifications)*
 
 **METHOD TWO: [USING SLASH COMMANDS]** 
  * Follow the listed steps in the slash commands guides in the order provided for the best results:
-    * Slash Commands: Essential Setup for Kick Notifications *(this guide covers the basic or essential functions of setting up Kick live notifications)*
-    * Slash Commands: Advanced Setup for Kick Notifications *(optional extra customizations that can be added to Kick live notifications)*
-
-<!--
-[Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md) \
-[Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md) \
-[Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
--->
-
-<!--
-[Slash Commmands: Essential Setup for Kick Notifications](setup/setup/streamer.md) \
-[Slash Commands: Advanced Setup for Kick Notifications](setup/setup/streamer-setup-advanced-slash-commands.md)
--->
-<!--
-[Streamer Setup (using slash commands) ](streamer.md)- Setup a streamer using Noti's slash command interface. \
-[Streamer Setup (using web dashboard) ](streamer-setup-web-dashboard.md)- Setup a streamer using Noti's web dashboard interface. \
--->
+    * [Slash Commands: Essential Setup for Kick Notifications](https://doc.notibot.app/kick-setup-with-slash-commands-optional/slash-commands-setup-for-kick) *(this guide covers the basic or essential functions of setting up Kick live notifications)*
+    * [Slash Commands: Advanced Setup for Kick Notifications](setup/SlashCommands/https://doc.notibot.app/kick-setup-with-slash-commands-optional/slash-commands-advanced-setup-for-kick) *(optional extra customizations that can be added to Kick live notifications)*
 
 ## ► Other Features
- * Setup Clips to Discord with Noti - a guide that details how to setup sending clips to your Discord server with a partnered third party Kickbot service.
- * Streamer Counter - a guide to setting up data channels in your Discord server that show follower count & live/offline status  of a given streamer.
- * Verify and Sync - a guide on how to synchronize your roles from Kick.com to your Discord server.
-<!--
-[Setup Clips to Discord with Noti](setup-clips-to-discord-with-noti.md) \
-[Streamer Counter](streamer-counter.md) - Create some data channels for the streamer. \
-[Verify and Sync](../../verify-and-sync.md) - Synchronize your roles from Kick.com to Discord.
--->
+ * [Setup Clips to Discord with Noti](https://doc.notibot.app/kick-other-features/setup-clips-to-discord-with-noti) - a guide that details how to setup sending clips to your Discord server with a partnered third party Kickbot service.
+ * [Stats Channel Counter](https://doc.notibot.app/kick-other-features/stats_channel) - a guide to setting up data channels in your Discord server that show follower count & live/offline status  of a given streamer.
+ * [Verify and Sync](https://doc.notibot.app/kick-other-features/verify-and-sync) - a guide on how to synchronize your roles from Kick.com to your Discord server.
 
 {% hint style="info" %}
 **Support**
