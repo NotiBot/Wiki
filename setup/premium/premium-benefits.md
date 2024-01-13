@@ -2,30 +2,50 @@
 
 Here you can find information about what features Noti Premium grants you, how you can enable premium on your server and how to manage your premium benefits!
 
+Have a question in regards to premium that wasn't answered on this page? Would you like to use your priority support in our premium channel? Join our [support server! ](https://notibot.app/support)
 
-Have a question in regards to premium that wasn't answered on this page? Would you like to use your priority support in our premium channel? Join our [support server! ](https://discord.com/invite/xq6F6ZkUte)
+# User Premium
 
-# Premium Features
+We offer a package which gives you premium perks in every server that Noti is in, called **User Premium** which gives you the following perks:
 
-Discover more with Noti's Premium tier! Tailor your notifications, expand connections, automate deletion, sync additional roles and enjoy an array of enhanced features right along with premium support! \
-\
-✔️ Additional Connections: 30 *(+ 30 FREE) = 60 TOTAL \
-✔️ Customizable Notification Editor \
-✔️ Auto Delete Notifications \
-✔️ Username Syncs \
-✔️ Live Leaderboards \
-✔️ Priority Notifications \
-✔️ NEW Syncable (Kick Founders/Partners/Gifted Subscriptions) \
+✔️ 1x Server Premium (transferable every 7 days) \
+✔️ Global Vote Skip \
+✔️ Automatic Linked Role \
+✔️ Premium Support Access
+
+# Server Premium
+
+To share the benefits with the server that Noti is in, we offer **Server Premium** which has the following additional perks:
+
+✔️ **60** default Connections \
+✔️ All Syncable Roles \
 ✔️ Kick Audit Logs \
-✔️ Customizable Messages \
-✔️ Premium Dedicated Support \
-✔️ Beta Access
+✔️ Refreshing Leaderboard \
+✔️ Priority Notifications \
+✔️ Import Emojis with Sub Lock \
+✔️ Global Message Editor \
+✔️ Auto-delete Notifications \
+✔️ Welcome and Leave Notifications \
+✔️ Per Streamer Custom Message Editor \
+✔️ Disable Offline Notifications \
+✔️ Leaderboard Sync Roles \
+✔️ Sync Social Usernames \
+✔️ Premium Support Access
+
+# Server Premium Plus
+
+To offer **even more** features including our beta features, we offer **Server Premium Plus** which has the following perks:
+
+✔️ **90** Default Connections \
+✔️ Beta Access \
+✔️ Vote Skipping \
+✔️ Custom Webhooks \
+✔️ Custom Cooldowns \
+✔️ Premium Support Access
 
 ## Premium Addons
 
-✔️ Additional Connections: up to 500 \
-✔️ Custom Webhooks \
-✔️ Skip Server Voting
+✔️ Additional Connections: up to 500
 
 # How much is the premium upgrade?
 
@@ -51,7 +71,6 @@ Prepaid or re-loadable cards and PayPal balances cannot be used to purchase prem
 1. Enter your card details. Be sure that all details are correct.
 2. Click the `Purchase` button at the bottom of the pop-up and Noti will start processing your subscription.
 3. If it succeeds, Noti Premium will automatically be activated on the server you selected.
-
 
 {% hint style="success" %}
 Congratulations! Noti Premium has now been activated and setup in your server. Thank you for your support! 💚
