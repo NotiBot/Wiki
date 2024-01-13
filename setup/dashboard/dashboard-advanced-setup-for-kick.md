@@ -11,7 +11,7 @@ Discord roles that you intend to use for this process must be added prior to sta
    • **General > Channel**: The discord channel to send the notification to. \
    • **General > Delete the embed**: Should embed be deleted when streamer ends the stream? *(premium only)* \
    • **General > Streamer's claimable role**: Discord role that streamer can claim *(premium only)* \
-   • **General > Live Role Sync**: Live Role Sync allows you to give a role to users when they go live. *(premium only)*
+   • **General > Live Role Sync**: Live Role Sync allows you to give a role to users when they go live. *(premium only)* \
    • **General > Live Cooldown**: Cooldown before next live alert can be sent (in minutes).  Minimum 30 minutes *(server premium plus only)*
 
 ![](../../.gitbook/assets/dashboard_advanced_streamer_roles_setup.png) \
