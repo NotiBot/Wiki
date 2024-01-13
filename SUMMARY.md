@@ -24,6 +24,7 @@
   * [Web Dashboard: Basics & Logging In](setup/dashboard/dashboard.md)
   * [Web Dashboard: Essential Setup for Kick Notifications](setup/dashboard/dashboard-setup-for-kick.md)
   * [Web Dashboard: Advanced Setup for Kick Notifications](setup/dashboard/dashboard-advanced-setup-for-kick.md)
+  * [Web Dashboard: Leaderboard Auto Roles](setup/leaderboard-auto-roles/setup-leaderboard-auto-roles.md)
 <!--  * [Setup Kick Notifications Using Noti's Dashboard Web Interface](setup/setup/streamer-setup-web-dashboard.md) -->
 ***
 * 🟢[KICK: OTHER FEATURES]
