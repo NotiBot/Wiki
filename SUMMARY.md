@@ -2,7 +2,8 @@
 
 ## 👋 WELCOME
 
-* [🏠Home](README.md)
+* [Page](README.md)
+* [🏠Home](<README (1).md>)
 * [☕Getting Started](getting-started.md)
 * [⚙️Commands](resources/commands.md)
 * [❔FAQ](resources/faq.md)
